@@ -1,4 +1,0 @@
-
-menuconfig AES
-	bool "AES Driver Support"
-	default y

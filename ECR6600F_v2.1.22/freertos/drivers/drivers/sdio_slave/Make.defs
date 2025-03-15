@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_SDIO_SLAVE),y)
-
-	CSRCS += sdio_slave.c
-
-	VPATH += :drivers/sdio_slave
-	INCPATHS +=drivers/sdio_slave
-
-endif

@@ -1,5 +1,0 @@
-
-menuconfig TELNET
-	bool "Telnet Console Support"
-	depends on LWIP
-	default n

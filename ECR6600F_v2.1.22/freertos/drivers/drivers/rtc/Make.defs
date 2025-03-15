@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_RTC),y)
-
-	CSRCS += rtc.c
-
-	VPATH += :drivers/rtc
-	INCPATHS += drivers/rtc
-
-endif

@@ -1,4 +1,0 @@
-
-menuconfig SPI_SLAVE
-	bool "SPI_SLAVE Driver Support"
-	default y

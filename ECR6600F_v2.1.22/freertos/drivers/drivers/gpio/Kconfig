@@ -1,4 +1,0 @@
-
-menuconfig GPIO
-	bool "GPIO Driver Support"
-	default y

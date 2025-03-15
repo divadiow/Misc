@@ -1,4 +1,0 @@
-
-menuconfig URLPARSER
-	bool "URLPARSER Component Support"
-	default n

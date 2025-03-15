@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_I2C),y)
-
-	CSRCS += i2c.c
-
-	VPATH += :drivers/i2c
-	INCPATHS +=drivers/i2c
-
-endif

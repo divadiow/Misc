@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_SDHCI),y)
-
-	CSRCS += sdhci.c
-
-	VPATH += :drivers/sdhci
-	INCPATHS +=drivers/sdhci
-
-endif

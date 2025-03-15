@@ -1,4 +1,0 @@
-
-config DMA
-	bool 
-	default y

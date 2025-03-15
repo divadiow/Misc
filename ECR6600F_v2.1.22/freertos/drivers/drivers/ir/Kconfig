@@ -1,4 +1,0 @@
-
-menuconfig IR
-	bool "IR Driver Support"
-	default y

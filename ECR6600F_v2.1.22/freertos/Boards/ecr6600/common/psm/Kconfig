@@ -1,8 +1,0 @@
-config PSM_SURPORT
-      bool 
-      default y
-
-config WIFI_TWT
-      bool 
-      default y
-

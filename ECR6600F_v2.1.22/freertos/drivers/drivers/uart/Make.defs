@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_UART),y)
-
-	CSRCS += uart.c
-
-	VPATH += :drivers/uart
-	
-	INCPATHS +=drivers/uart
-endif

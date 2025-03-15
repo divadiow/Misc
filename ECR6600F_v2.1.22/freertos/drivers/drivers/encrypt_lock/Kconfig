@@ -1,4 +1,0 @@
-
-menuconfig ENCRYPT_LOCK
-	bool "ENCRYPT LOCK Support"
-	default n

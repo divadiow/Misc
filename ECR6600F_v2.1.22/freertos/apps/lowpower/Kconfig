@@ -1,8 +1,0 @@
-
-menu "psm demo app"
-
-config CONFIG_PSM_DEMO_APP
-	bool "psm demo app"
-	default n
-
-endmenu

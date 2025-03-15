@@ -1,4 +1,0 @@
-
-menuconfig SDHCI
-	bool "SDHCI Driver Support"
-	default n

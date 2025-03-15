@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_GPIO),y)
-
-	CSRCS += gpio.c
-
-	VPATH += :drivers/gpio
-	INCPATHS +=drivers/gpio
-
-endif

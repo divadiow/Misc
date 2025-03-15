@@ -1,4 +1,0 @@
-menuconfig SDCARD
-	bool "SDCARD Driver Support"
-	select SDHCI
-	default n

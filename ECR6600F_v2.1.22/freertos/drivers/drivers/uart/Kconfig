@@ -1,4 +1,0 @@
-
-config UART
-	bool 
-	default y

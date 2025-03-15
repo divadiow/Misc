@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_TIMER),y)
-
-	CSRCS += timer.c
-
-	VPATH += :drivers/timer
-	INCPATHS += drivers/timer
-
-endif

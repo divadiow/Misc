@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_PIT),y)
-
-	CSRCS += pit.c
-
-	VPATH += :drivers/pit
-	INCPATHS +=drivers/pit
-
-endif

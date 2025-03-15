@@ -1,8 +1,0 @@
-ifeq ($(CONFIG_TRNG),y)
-
-	CSRCS += trng.c
-
-	VPATH += :drivers/trng
-	INCPATHS +=drivers/trng
-
-endif

@@ -1,4 +1,0 @@
-
-menuconfig SNTP
-	bool "SNTP Component Support"
-	default y

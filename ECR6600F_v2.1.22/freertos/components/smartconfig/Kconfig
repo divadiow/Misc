@@ -1,4 +1,0 @@
-
-menuconfig WIFI_SMARTCONFIG
-	bool "Wifi Smart Config Component Support"
-	default n

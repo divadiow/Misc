@@ -1,4 +1,0 @@
-
-config PHREAD
-	bool 
-	default n

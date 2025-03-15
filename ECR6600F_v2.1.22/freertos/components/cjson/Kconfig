@@ -1,3 +1,0 @@
-menuconfig CJSON
-	bool "CJSON Component Support"
-	default n

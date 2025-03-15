@@ -1,4 +1,0 @@
-
-menuconfig SDIO_SLAVE
-	bool "Sdio Slave Driver Support"
-	default y

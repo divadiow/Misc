@@ -1,4 +1,0 @@
-
-menuconfig TIMER
-	bool "TIMER Driver Support"
-	default y

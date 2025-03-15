@@ -1,5 +1,0 @@
-
-menuconfig MBEDTLS
-	bool "MBEDTLS Component Support"
-	depends on LWIP
-	default n
