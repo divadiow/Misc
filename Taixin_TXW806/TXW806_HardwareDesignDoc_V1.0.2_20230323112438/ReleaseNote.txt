@@ -1,0 +1,8 @@
+TXW806_HardwareDesignDoc_V1.0.2:
+1.耳勺参考原理图增加TYPEC USB口CC管脚两个下拉电阻，适配带有协议的TYPE-C充电器
+
+TXW806_HardwareDesignDoc_V1.0.1:
+1.提升ESD防护性能
+
+TXW806_HardwareDesignDoc_V1.0.0:
+1.硬件发布资源包初始版本
