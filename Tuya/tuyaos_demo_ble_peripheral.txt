@@ -1,0 +1,1 @@
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/tuyaos_demo_ble_peripheral_0.1.0.tar.gz

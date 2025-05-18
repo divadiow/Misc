@@ -1,0 +1,1 @@
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/tuyaos_pixel_driver_demo_quickstart_0.0.1.tar.gz
