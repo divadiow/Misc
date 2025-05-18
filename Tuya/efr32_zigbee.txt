@@ -12,5 +12,13 @@ https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.15.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.16.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.17.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.22.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.23.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.24.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.27.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.28.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.30.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/efr32_zigbee_0.0.31.zip
+
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/tuyaos_demo_zg_door_sensor_0.0.5.tar.gz
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/tuyaos_demo_zg_light2_0.0.8.tar.gz
