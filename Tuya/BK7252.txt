@@ -1,3 +1,5 @@
+note this is for BK7252U not BK7252N
+
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/BK7252_1.1.10.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/BK7252_1.1.11.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/BK7252_1.1.14.zip
