@@ -1,0 +1,93 @@
+[00:00:00.004]tuya APP main()!!! reason:3
+[00:00:00.007]SDK version ECR6600F_V2.0.0B06P02, Release version 1.0.0
+[00:00:00.029]mac in amt
+[00:00:00.049]psm event handle!
+[00:00:00.051]psm lib build time: Dec 19 2023-22:43:01
+[00:00:00.056]start TUYA application
+[00:00:00.069]tuya_wpa_supp_evt_init:1665 wpa supplicant init event cb
+[00:00:00.079][01-01 00:00:00 TUYA D][tal_thread.c:202] Thread:tuya_auth Exec Start. Set to Running Stat
+[00:00:00.089][01-01 00:00:00 TUYA I][tal_thread.c:183] thread_create name:tuya_auth,stackDepth:4608,totalstackDepth:4608,priority:5
+[00:00:00.105][01-01 00:00:00 TUYA I][mqc_app.c:325] mqc app init ...
+[00:00:00.113][01-01 00:00:00 TUYA D][tal_thread.c:202] Thread:sys_timer Exec Start. Set to Running Stat
+[00:00:00.121][01-01 00:00:00 TUYA I][tal_thread.c:183] thread_create name:sys_timer,stackDepth:4096,totalstackDepth:8704,priority:5
+[00:00:00.135][01-01 00:00:00 TUYA I][tal_thread.c:183] thread_create name:wq_system,stackDepth:5120,totalstackDepth:13824,priority:3
+[00:00:00.146][01-01 00:00:00 TUYA I][tal_thread.c:183] thread_create name:wq_highpri,stackDepth:4096,totalstackDepth:17920,priority:4
+[00:00:00.157][01-01 00:00:00 TUYA D][mqc_app.c:134] mq_pro:5 cnt:1
+[00:00:00.163][01-01 00:00:00 TUYA D][mqc_app.c:134] mq_pro:31 cnt:2
+[00:00:00.168][01-01 00:00:00 TUYA D][tal_thread.c:202] Thread:wq_highpri Exec Start. Set to Running Stat
+[00:00:00.179][01-01 00:00:00 TUYA D][tuya_svc_online_log.c:223] svc online log init success
+[00:00:00.189][01-01 00:00:00 TUYA D][log_seq.c:895] read m:0 f:0 l:0
+[00:00:00.194][01-01 00:00:00 TUYA D][tuya_device.c:79] < TuyaOS V:3.3.105 BS:40.00_PT:2.3_LAN:3.5_CAD:1.0.5_CD:1.0.0 >
+< BUILD AT:2024_01_10_08_49_07 BY ci_manage FOR tuyaos-iot AT eswin_ecr6600 >
+IOT DEFS < WIFI_GW:1 DEBUG:1 KV_FILE:0 LITTLE_END:1 TLS_MODE:2 OPERATING_SYSTEM:98 RELIABLE_TRANSFER:RELIABLE_TRANSFER >
+
+[00:00:00.221][01-01 00:00:00 TUYA D][tuya_device.c:80] ecr6600_common_singlefire_dimmer_user_config_ty:0.0.20
+[00:00:00.232]###tkl_cpu_sleep_mode_set 1 0
+[00:00:00.235]enable light sleep 
+[00:00:00.237]###tkl_cpu_sleep_mode_set 1 0
+[00:00:00.243]enable light sleep 
+[00:00:00.246]enter pin_dev_init(), pin:22 
+[00:00:00.248]gpio_num: 22 set GPIO func OK!
+[00:00:00.254]pin_dev_init(),gpio_num : 22 init_status:1; 
+[00:00:00.259]pin_dev_init()[22], gpio_num:0; 
+[00:00:00.262]pin_dev_init()[22], pull_type:0; 
+[00:00:00.268]enter pin_dev_init(), pin:25 
+[00:00:00.270]gpio_num: 25 set GPIO func OK!
+[00:00:00.276]pin_dev_init(),gpio_num : 25 init_status:1; 
+[00:00:00.281]pin_dev_init()[25], gpio_num:1; 
+[00:00:00.284][01-01 00:00:00 TUYA N][app_single_fire.c:287] >>>>> app_single_fire_init >>>>>
+[00:00:00.292]psm_set_lowpower, is_lowpower is 1
+[00:00:00.298]###tkl_cpu_sleep_mode_set 0 0
+[00:00:00.300]disable light sleep 
+[00:00:00.318]psm_set_normal, is_lowpower is 0
+[00:00:00.322]###tkl_cpu_sleep_mode_set 1 0
+[00:00:00.324]enable light sleep 
+[00:00:00.327][01-01 00:00:00 TUYA N][tuya_wifi_single_fire.c:421] tuya_wifi_sf_set_enable:1
+[00:00:00.335][01-01 00:00:00 TUYA N][tuya_key.c:340] for single fire, set key sleep time:0 ms
+[00:00:00.344]gpio_num: 24 set GPIO func OK!
+[00:00:00.349]tuya_wpas_sf_set_charge_cfg: voltage_feedback_en 1 charge_max_time 30000 discharge_max_time 12000 fast_connect_timeout 3
+[00:00:00.364][01-01 00:00:00 TUYA N][simple_flash.c:447] key_addr: 0x1d5000   block_sz 4096
+[00:00:00.373][01-01 00:00:00 TUYA N][simple_flash.c:533] get key:
+[00:00:00.378]0x30 0x9d 0xab 0x65 0x6d 0x8d 0xbf 0xe4 0xb9 0x3f 0x35 0x4b 0xc9 0xe0 0xd4 0xe8 
+[00:00:00.432][01-01 00:00:00 TUYA N][tuya_iot_com_api.c:318] uni_random_init...
+[00:00:00.495][01-01 00:00:00 TUYA N][tuya_tls.c:359] tuya_tls_rand_init ok!
+[00:00:00.507]UART INIT 
+[00:00:00.508]psm_schedule_idle_cb,this is dbg info,first goto idle
+[00:00:00.513]psm_schedule_idle_cb,this is dbg info,first goto idle
+[00:00:00.518]psm_schedule_idle_cb,this is dbg info,first goto idle
+[00:00:00.524]psm_schedule_idle_cb,this is dbg info,first goto idle
+[00:00:00.532]psm_schedule_idle_cb,this is dbg info,first goto idle
+[00:00:01.021]UART DEINIT 
+[00:00:01.031][01-01 00:00:00 TUYA N][tuya_main.c:304] mf_init succ
+[00:00:01.070][01-01 00:00:00 TUYA N][tuya_device.c:109] nc_tp = 1
+[00:00:01.080]UART INIT 
+[00:00:01.584]UART DEINIT 
+[00:00:01.593]UART INIT 
+[00:00:02.101]UART DEINIT 
+[00:00:02.109]UART INIT 
+[00:00:02.611]UART DEINIT 
+[00:00:02.618]UART INIT 
+[00:00:03.129]UART DEINIT 
+[00:00:03.137]UART INIT 
+[00:00:03.638]UART DEINIT 
+[00:00:03.645]UART INIT 
+[00:00:04.154]UART DEINIT 
+[00:00:04.161]UART INIT 
+[00:00:04.661]UART DEINIT 
+[00:00:04.669]UART INIT 
+[00:00:05.181]UART DEINIT 
+[00:00:05.187]UART INIT 
+[00:00:05.686]UART DEINIT 
+[00:00:05.693]UART INIT 
+[00:00:06.204]UART DEINIT 
+[00:00:06.212]UART INIT 
+[00:00:06.711]UART DEINIT 
+[00:00:06.720]UART INIT 
+[00:00:07.229]UART DEINIT 
+[00:00:07.236]UART INIT 
+[00:00:07.734]UART DEINIT 
+[00:00:07.742]UART INIT 
+[00:00:08.254]UART DEINIT 
+[00:00:08.263]UART INIT 
+[00:00:08.761]UART DEINIT 
+[00:00:08.768]UART INIT 

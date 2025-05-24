@@ -1,0 +1,100 @@
+[00:00:00.002]SDK version ECR6600F_V2.0.0B06P02, Release version 1.0.0 
+[00:00:00.027]start TUYA application
+[00:00:00.037]hal_wdt_init reset_time is 60000!
+[00:00:00.041]ctrl_int_para= 9, ctrl_rst_para= 0, *effective_time = 16000!
+[00:00:00.050][01-01 00:00:00 ty E][log_seq.c:867] logseq empty
+[00:00:00.055][01-01 00:00:00 ty N][ty_sys.c:271] sdk_info:< TuyaOS V:3.8.3 BS:40.00_PT:2.3_LAN:3.5_CAD:1.0.5_CD:1.0.0 >
+< BUILD AT:2024_01_09_10_50_52 BY ci_manage FOR tuyaos-iot AT eswin_ecr6600 >
+IOT DEFS < WIFI_GW:1 DEBUG:1 KV_FILE:0 LITTLE_END:1 SL:0 OPERATING_SYSTEM:98 RELIABLE_TRANSFER:0 >
+
+[00:00:00.082][01-01 00:00:00 ty N][ty_sys.c:272] name:oem_ecr6600_elp_common_plug:0.1.0
+[00:00:00.087][01-01 00:00:00 ty N][ty_sys.c:273] firmware compiled at Jan 10 2024 09:51:10
+[00:00:00.095]tkl_system_get_reset_reason: reset_type 0
+[00:00:00.101][01-01 00:00:00 ty N][ty_sys.c:274] system reset reason:[0]
+[00:00:00.112][01-01 00:00:00 ty N][simple_flash.c:446] key_addr: 0x1d5000   block_sz 4096
+[00:00:00.120][01-01 00:00:00 ty N][simple_flash.c:532] get key:
+[00:00:00.126]0x3e 0xa4 0x0 0x30 0x9d 0xab 0x65 0x6d 0x8d 0xbf 0xe4 0xb9 0x3f 0x35 0x4b 0xc9 
+[00:00:00.183]enter pin_dev_init(), pin:22 
+[00:00:00.185]pin_dev_init(), gpio_num:22, init_status:0
+[00:00:00.191]pin_dev_init(), gpio_num:22, gpio_dir:1
+[00:00:00.196]pin_dev_init(), gpio_num:22, pull_type:0
+[00:00:00.200][01-01 00:00:00 ty N][tdd_button_gpio.c:199] tdd_gpio_button_register succ
+[00:00:00.207]enter pin_dev_init(), pin:0 
+[00:00:00.213]pin_dev_init(), gpio_num:0, init_status:1
+[00:00:00.215]pin_dev_init(), gpio_num:0, gpio_dir:1
+[00:00:00.221]pin_dev_init(), gpio_num:0, pull_type:0
+[00:00:00.227][01-01 00:00:00 ty E][uf_flash_file_app.c:338] uf_open RLY_INIT err 8
+[00:00:00.235][01-01 00:00:00 ty E][tfm_timing_storage.c:147] uf RLY_INIT can't open
+[00:00:00.241]enter pin_dev_init(), pin:25 
+[00:00:00.245]pin_dev_init(), gpio_num:25, init_status:0
+[00:00:00.251]pin_dev_init(), gpio_num:25, gpio_dir:1
+[00:00:00.254]pin_dev_init(), gpio_num:25, pull_type:0
+[00:00:00.260][01-01 00:00:00 ty E][uf_flash_file_app.c:338] uf_open LIGHT_MODE err 8
+[00:00:00.267][01-01 00:00:00 ty E][tfm_timing_storage.c:147] uf LIGHT_MODE can't open
+[00:00:00.276]tkl_wifi_set_lp_mode: lowerpower disable
+[00:00:00.278][01-01 00:00:00 ty N][tuya_tls.c:876] uni_random_init...
+[00:00:00.346][01-01 00:00:00 ty N][tuya_tls.c:303] tuya_tls_rand_init ok!
+[00:00:00.351][01-01 00:00:00 ty N][tuya_wifi_connect.c:278] mf is open need stop fastconnect
+[00:00:00.365]psm_set_normal, is_lowpower is 0
+[00:00:00.867][01-01 00:00:00 ty N][ty_sys.c:337] mf_init succ
+[00:00:00.879]psm_set_normal, is_lowpower is 0
+[00:00:02.261][01-01 00:00:02 ty N][ty_sys.c:218] tal_wifi_all_ap_scan failed(-1) ap_num(0)
+[00:00:02.267][01-01 00:00:02 ty N][tuya_iot_wifi_api.c:326] wifi soc init. pid:keyge8wsy99n5pr7 firmwarekey:keyge8wsy99n5pr7 ver:0.1.0
+[00:00:02.285][01-01 00:00:02 ty N][tuya_wifi_link.c:84] start wifi link params validate, nc_tp:10 md:0
+[00:00:02.294][01-01 00:00:02 ty N][tuya_wifi_link.c:106] gw_wsm.nc_tp:10
+[00:00:02.299][01-01 00:00:02 ty N][tuya_wifi_link.c:107] gw_wsm.md:0
+[00:00:02.311][01-01 00:00:02 ty E][tuya_wifi_reset.c:646] read wf start mode err:-6
+[00:00:02.318]tkl_system_get_reset_reason: reset_type 0
+[00:00:02.323][01-01 00:00:02 ty N][tuya_svc_devos.c:540] Last reset reason: 0
+[00:00:02.341][01-01 00:00:02 ty N][tuya_svc_devos.c:313] gw_cntl->gw_wsm.stat:0
+[00:00:02.352][01-01 00:00:02 ty N][tuya_svc_devos.c:369] gw_cntl->gw_if.abi:0 input:0
+[00:00:02.359][01-01 00:00:02 ty N][tuya_svc_devos.c:370] gw_cntl->gw_if.product_key:keyge8wsy99n5pr7, input:keyge8wsy99n5pr7
+[00:00:02.370][01-01 00:00:02 ty N][tuya_svc_devos.c:371] gw_cntl->gw_if.tp:0, input:0
+[00:00:02.378][01-01 00:00:02 ty N][tuya_svc_devos.c:374] gw_cntl->gw_if.firmware_key:keyge8wsy99n5pr7, input:keyge8wsy99n5pr7
+[00:00:02.391][01-01 00:00:02 ty N][tuya_svc_devos.c:573] enter success_proc
+[00:00:02.397][01-01 00:00:02 ty N][tuya_svc_devos.c:576] serial_no:c0f8531f0194
+[00:00:02.418][01-01 00:00:02 ty E][tuya_wifi_reset.c:646] r[00:00:02.423]enter pin_dev_initead wf start mode err:-6
+[00:0_lowpower is [00:00:02.429]pin_d0:02.429]pin_dev_init(), gpio_nuev_init(), gpio_num:15, init_status:1
+[00:00:02.437]pin_dev_inm:15, gpiormal, is_lowpower is 0
+[00:00:03.824]psm_set_normal, is_lowpower is 0
+[00:00:03.833]start hostapd success, SSID SmartLife-0194
+[00:00:03.842][01-01 00:00:03 ty N][tuya_wifi_status.c:168] cur stat:13  0x4080c5c0 -->>
+[00:00:03.847][01-01 00:00:03 ty E][tuya_wifi_link.c:675] get rssi err:-1
+[00:00:03.968][01-01 00:00:03 ty E][tuya_devos_data.c:389] data update ret:0
+[00:00:03.973][01-01 00:00:03 ty N][tuya_wifi_status.c:171] wifi netstat changed to:13  -->>
+[00:00:03.981][01-01 00:00:03 ty N][tuya_wifi_status.c:175] report wifi netstat[13] to callback  -->>
+[00:00:03.992][01-01 00:00:03 ty N][ty_app_elec_trigger_network.c:82] --->net state change to:13
+[00:00:04.009][01-01 00:00:03 ty N][tuya_wifi_reset.c:412] timer stated, short timer:0x0, long timer:0x4089569e
+[00:00:04.017][01-01 00:00:03 ty N][tuya_bt_link.c:62] bt startup attr:ff
+[00:00:04.025][01-01 00:00:03 ty N][tuya_ble_svc.c:1167] upd product_id type:1 keyge8wsy99n5pr7
+[00:00:04.040][01-01 00:00:04 ty N][tuya_ble_svc.c:1262] ty bt sdk init success finish
+[00:00:04.046][01-01 00:00:04 ty N][ble_gap.c:2510] Start Adv
+[00:00:04.052][01-01 00:00:04 ty E][tuya_svc_timer_task.c:1376] read timer_full_key failed
+[00:00:04.059][01-01 00:00:04 ty N][tuya_svc_devos.c:225] __devos_init_evt success
+[00:00:04.071][01-01 00:00:04 ty N][ble_gap.c:2510] Start Adv
+[00:00:04.076][01-01 00:00:04 ty N][tuya_ble_svc.c:1349] ble adv updated
+[00:00:04.085][01-01 00:00:04 ty E][ffs_netcfg.c:49] FFS read keys fail.
+[00:00:04.205][01-01 00:00:04 ty E][tuya_devos_data.c:389] data update ret:0
+[00:00:04.328][01-01 00:00:04 ty E][tuya_devos_data.c:389] data update ret:0
+[00:00:04.450][01-01 00:00:04 ty E][tuya_devos_data.c:389] data update ret:0
+[00:00:04.569][01-01 00:00:04 ty E][tuya_devos_data.c:389] data update ret:0
+[00:00:05.462][01-01 00:00:05 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:07.012][01-01 00:00:06 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:07.556][01-01 00:00:07 ty E][ty_app_elec_component.c:186] time not sync, not init senior timer
+[00:00:08.044][01-01 00:00:08 ty E][app_elec_fault.c:266] ret:-1
+[00:00:08.556][01-01 00:00:08 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:10.105][01-01 00:00:10 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:11.647][01-01 00:00:11 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:12.575][01-01 00:00:12 ty E][ty_app_elec_component.c:186] time not sync, not init senior timer
+[00:00:13.115][01-01 00:00:13 ty N][tfm_timing_storage.c:71] storage sucess
+[00:00:13.228][01-01 00:00:13 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:14.770][01-01 00:00:14 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:16.319][01-01 00:00:16 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:17.596][01-01 00:00:17 ty E][ty_app_elec_component.c:186] time not sync, not init senior timer
+[00:00:17.861][01-01 00:00:17 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:19.410][01-01 00:00:19 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:20.952][01-01 00:00:20 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:22.501][01-01 00:00:22 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:22.614][01-01 00:00:22 ty E][ty_app_elec_component.c:186] time not sync, not init senior timer
+[00:00:24.050][01-01 00:00:23 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
+[00:00:25.591][01-01 00:00:25 ty E][wifi_netcfg_frame_transporter.c:134] wf_set_chan[14] err:-26888
