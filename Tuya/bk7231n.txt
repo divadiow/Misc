@@ -77,3 +77,5 @@ https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/bk7231n_1.3.11.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/bk7231n_1.3.12.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/bk7231n_1.3.13.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/bk7231n_1.3.14.zip
+
