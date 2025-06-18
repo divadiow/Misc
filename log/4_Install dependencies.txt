@@ -1,0 +1,184 @@
+﻿2025-06-18T04:59:16.1316291Z ##[group]Run sudo dpkg --add-architecture i386
+2025-06-18T04:59:16.1316689Z [36;1msudo dpkg --add-architecture i386[0m
+2025-06-18T04:59:16.1316959Z [36;1msudo apt-get update[0m
+2025-06-18T04:59:16.1317282Z [36;1msudo apt-get -y install libc6-i386 make cmake gcc-arm-none-eabi[0m
+2025-06-18T04:59:16.1317632Z [36;1mpip3 install pycryptodomex[0m
+2025-06-18T04:59:16.1317887Z [36;1mpip3 install configobj[0m
+2025-06-18T04:59:16.1318115Z [36;1mpip3 install toml[0m
+2025-06-18T04:59:16.1318335Z [36;1mpip3 install fdt[0m
+2025-06-18T04:59:16.1466914Z shell: /usr/bin/bash -e {0}
+2025-06-18T04:59:16.1467198Z env:
+2025-06-18T04:59:16.1467692Z   GITHUB_TOKEN: ***
+2025-06-18T04:59:16.1467925Z   APP_NAME: OpenBK7231T_App
+2025-06-18T04:59:16.1468251Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T04:59:16.1468717Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.8.18/x64/lib/pkgconfig
+2025-06-18T04:59:16.1469156Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T04:59:16.1469572Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T04:59:16.1469949Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T04:59:16.1470321Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.18/x64/lib
+2025-06-18T04:59:16.1470649Z ##[endgroup]
+2025-06-18T04:59:16.2874416Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+2025-06-18T04:59:16.3174321Z Hit:2 http://azure.archive.ubuntu.com/ubuntu jammy InRelease
+2025-06-18T04:59:16.3195522Z Get:3 http://azure.archive.ubuntu.com/ubuntu jammy-updates InRelease [128 kB]
+2025-06-18T04:59:16.3204783Z Get:6 https://packages.microsoft.com/repos/azure-cli jammy InRelease [3596 B]
+2025-06-18T04:59:16.3240068Z Get:4 http://azure.archive.ubuntu.com/ubuntu jammy-backports InRelease [127 kB]
+2025-06-18T04:59:16.3276872Z Get:5 http://azure.archive.ubuntu.com/ubuntu jammy-security InRelease [129 kB]
+2025-06-18T04:59:16.3288978Z Get:7 https://packages.microsoft.com/ubuntu/22.04/prod jammy InRelease [3632 B]
+2025-06-18T04:59:16.4176175Z Get:8 http://azure.archive.ubuntu.com/ubuntu jammy/main i386 Packages [1040 kB]
+2025-06-18T04:59:16.4369236Z Get:9 http://azure.archive.ubuntu.com/ubuntu jammy/restricted i386 Packages [30.4 kB]
+2025-06-18T04:59:16.4408111Z Get:10 http://azure.archive.ubuntu.com/ubuntu jammy/universe i386 Packages [7474 kB]
+2025-06-18T04:59:16.4709663Z Get:12 https://packages.microsoft.com/repos/azure-cli jammy/main amd64 Packages [2452 B]
+2025-06-18T04:59:16.4865623Z Get:11 http://azure.archive.ubuntu.com/ubuntu jammy/multiverse i386 Packages [112 kB]
+2025-06-18T04:59:16.5596563Z Get:13 http://azure.archive.ubuntu.com/ubuntu jammy-updates/main i386 Packages [817 kB]
+2025-06-18T04:59:16.5686418Z Get:14 http://azure.archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [2624 kB]
+2025-06-18T04:59:16.5819898Z Get:15 http://azure.archive.ubuntu.com/ubuntu jammy-updates/main Translation-en [424 kB]
+2025-06-18T04:59:16.5885497Z Get:16 http://azure.archive.ubuntu.com/ubuntu jammy-updates/restricted amd64 Packages [3638 kB]
+2025-06-18T04:59:16.6069992Z Get:17 http://azure.archive.ubuntu.com/ubuntu jammy-updates/restricted i386 Packages [44.1 kB]
+2025-06-18T04:59:16.6086696Z Get:18 http://azure.archive.ubuntu.com/ubuntu jammy-updates/restricted Translation-en [648 kB]
+2025-06-18T04:59:16.6616956Z Get:19 http://azure.archive.ubuntu.com/ubuntu jammy-updates/universe i386 Packages [770 kB]
+2025-06-18T04:59:16.6670930Z Get:20 http://azure.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [1212 kB]
+2025-06-18T04:59:16.6744386Z Get:21 http://azure.archive.ubuntu.com/ubuntu jammy-updates/universe Translation-en [299 kB]
+2025-06-18T04:59:16.6776420Z Get:22 http://azure.archive.ubuntu.com/ubuntu jammy-updates/multiverse i386 Packages [5048 B]
+2025-06-18T04:59:16.6796380Z Get:23 http://azure.archive.ubuntu.com/ubuntu jammy-backports/main i386 Packages [60.5 kB]
+2025-06-18T04:59:16.6827015Z Get:24 http://azure.archive.ubuntu.com/ubuntu jammy-backports/universe i386 Packages [18.5 kB]
+2025-06-18T04:59:16.7470503Z Get:25 http://azure.archive.ubuntu.com/ubuntu jammy-security/main amd64 Packages [2380 kB]
+2025-06-18T04:59:16.7608176Z Get:26 http://azure.archive.ubuntu.com/ubuntu jammy-security/main i386 Packages [646 kB]
+2025-06-18T04:59:16.7668340Z Get:27 http://azure.archive.ubuntu.com/ubuntu jammy-security/main Translation-en [359 kB]
+2025-06-18T04:59:16.7704003Z Get:28 http://azure.archive.ubuntu.com/ubuntu jammy-security/restricted i386 Packages [42.3 kB]
+2025-06-18T04:59:16.7720610Z Get:29 http://azure.archive.ubuntu.com/ubuntu jammy-security/restricted amd64 Packages [3520 kB]
+2025-06-18T04:59:16.7937784Z Get:30 http://azure.archive.ubuntu.com/ubuntu jammy-security/restricted Translation-en [630 kB]
+2025-06-18T04:59:16.7989252Z Get:31 http://azure.archive.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [977 kB]
+2025-06-18T04:59:16.8059210Z Get:32 http://azure.archive.ubuntu.com/ubuntu jammy-security/universe i386 Packages [661 kB]
+2025-06-18T04:59:16.8486742Z Get:35 https://packages.microsoft.com/ubuntu/22.04/prod jammy/main amd64 Packages [223 kB]
+2025-06-18T04:59:16.8576315Z Get:33 http://azure.archive.ubuntu.com/ubuntu jammy-security/universe Translation-en [211 kB]
+2025-06-18T04:59:16.8605477Z Get:34 http://azure.archive.ubuntu.com/ubuntu jammy-security/multiverse i386 Packages [1720 B]
+2025-06-18T04:59:16.8673271Z Get:36 https://packages.microsoft.com/ubuntu/22.04/prod jammy/main armhf Packages [19.4 kB]
+2025-06-18T04:59:16.8744396Z Get:37 https://packages.microsoft.com/ubuntu/22.04/prod jammy/main arm64 Packages [63.3 kB]
+2025-06-18T04:59:24.9571803Z Fetched 29.3 MB in 3s (9974 kB/s)
+2025-06-18T04:59:25.8491833Z Reading package lists...
+2025-06-18T04:59:25.9090436Z Reading package lists...
+2025-06-18T04:59:26.1047527Z Building dependency tree...
+2025-06-18T04:59:26.1059509Z Reading state information...
+2025-06-18T04:59:26.2498029Z make is already the newest version (4.3-4.1build1).
+2025-06-18T04:59:26.2498610Z libc6-i386 is already the newest version (2.35-0ubuntu3.10).
+2025-06-18T04:59:26.2499079Z libc6-i386 set to manually installed.
+2025-06-18T04:59:26.2499674Z The following additional packages will be installed:
+2025-06-18T04:59:26.2500448Z   binutils-arm-none-eabi cmake-data dh-elpa-helper libjsoncpp25
+2025-06-18T04:59:26.2501304Z   libnewlib-arm-none-eabi libnewlib-dev librhash0 libstdc++-arm-none-eabi-dev
+2025-06-18T04:59:26.2505933Z   libstdc++-arm-none-eabi-newlib
+2025-06-18T04:59:26.2511306Z Suggested packages:
+2025-06-18T04:59:26.2511697Z   cmake-doc ninja-build cmake-format libnewlib-doc
+2025-06-18T04:59:26.2696845Z The following NEW packages will be installed:
+2025-06-18T04:59:26.2698239Z   binutils-arm-none-eabi cmake cmake-data dh-elpa-helper gcc-arm-none-eabi
+2025-06-18T04:59:26.2699566Z   libjsoncpp25 libnewlib-arm-none-eabi libnewlib-dev librhash0
+2025-06-18T04:59:26.2702957Z   libstdc++-arm-none-eabi-dev libstdc++-arm-none-eabi-newlib
+2025-06-18T04:59:26.2856393Z 0 upgraded, 11 newly installed, 0 to remove and 61 not upgraded.
+2025-06-18T04:59:26.2856982Z Need to get 450 MB of archives.
+2025-06-18T04:59:26.2857544Z After this operation, 2607 MB of additional disk space will be used.
+2025-06-18T04:59:26.2858183Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+2025-06-18T04:59:26.3876735Z Get:2 http://azure.archive.ubuntu.com/ubuntu jammy/main amd64 libjsoncpp25 amd64 1.9.5-3 [80.0 kB]
+2025-06-18T04:59:26.4722580Z Get:3 http://azure.archive.ubuntu.com/ubuntu jammy/main amd64 librhash0 amd64 1.4.2-1ubuntu1 [125 kB]
+2025-06-18T04:59:26.5560559Z Get:4 http://azure.archive.ubuntu.com/ubuntu jammy/main amd64 dh-elpa-helper all 2.0.9ubuntu1 [7610 B]
+2025-06-18T04:59:26.6369931Z Get:5 http://azure.archive.ubuntu.com/ubuntu jammy-updates/main amd64 cmake-data all 3.22.1-1ubuntu1.22.04.2 [1913 kB]
+2025-06-18T04:59:26.9522831Z Get:6 http://azure.archive.ubuntu.com/ubuntu jammy-updates/main amd64 cmake amd64 3.22.1-1ubuntu1.22.04.2 [5010 kB]
+2025-06-18T04:59:27.5092589Z Get:7 http://azure.archive.ubuntu.com/ubuntu jammy/universe amd64 binutils-arm-none-eabi amd64 2.38-3ubuntu1+15build1 [3040 kB]
+2025-06-18T04:59:27.9111419Z Get:8 http://azure.archive.ubuntu.com/ubuntu jammy/universe amd64 gcc-arm-none-eabi amd64 15:10.3-2021.07-4 [47.7 MB]
+2025-06-18T04:59:29.7929748Z Get:9 http://azure.archive.ubuntu.com/ubuntu jammy/universe amd64 libstdc++-arm-none-eabi-dev all 15:10.3-2021.07-4+17 [1049 kB]
+2025-06-18T04:59:30.0329582Z Get:10 http://azure.archive.ubuntu.com/ubuntu jammy/universe amd64 libnewlib-dev all 3.3.0-1.3 [137 kB]
+2025-06-18T04:59:30.1996948Z Get:11 http://azure.archive.ubuntu.com/ubuntu jammy/universe amd64 libnewlib-arm-none-eabi all 3.3.0-1.3 [43.2 MB]
+2025-06-18T04:59:32.2990617Z Get:12 http://azure.archive.ubuntu.com/ubuntu jammy/universe amd64 libstdc++-arm-none-eabi-newlib all 15:10.3-2021.07-4+17 [347 MB]
+2025-06-18T04:59:45.4202676Z Fetched 450 MB in 19s (23.9 MB/s)
+2025-06-18T04:59:45.4454106Z Selecting previously unselected package libjsoncpp25:amd64.
+2025-06-18T04:59:45.4741479Z (Reading database ... 
+2025-06-18T04:59:45.4741942Z (Reading database ... 5%
+2025-06-18T04:59:45.4742241Z (Reading database ... 10%
+2025-06-18T04:59:45.4742561Z (Reading database ... 15%
+2025-06-18T04:59:45.4742841Z (Reading database ... 20%
+2025-06-18T04:59:45.4743142Z (Reading database ... 25%
+2025-06-18T04:59:45.4743418Z (Reading database ... 30%
+2025-06-18T04:59:45.4743702Z (Reading database ... 35%
+2025-06-18T04:59:45.4743976Z (Reading database ... 40%
+2025-06-18T04:59:45.4744387Z (Reading database ... 45%
+2025-06-18T04:59:45.4744671Z (Reading database ... 50%
+2025-06-18T04:59:45.5194549Z (Reading database ... 55%
+2025-06-18T04:59:45.5559366Z (Reading database ... 60%
+2025-06-18T04:59:45.5857919Z (Reading database ... 65%
+2025-06-18T04:59:45.6217533Z (Reading database ... 70%
+2025-06-18T04:59:45.6776584Z (Reading database ... 75%
+2025-06-18T04:59:45.7283966Z (Reading database ... 80%
+2025-06-18T04:59:45.8132053Z (Reading database ... 85%
+2025-06-18T04:59:45.8747176Z (Reading database ... 90%
+2025-06-18T04:59:45.9240707Z (Reading database ... 95%
+2025-06-18T04:59:45.9241025Z (Reading database ... 100%
+2025-06-18T04:59:45.9241449Z (Reading database ... 268875 files and directories currently installed.)
+2025-06-18T04:59:45.9292477Z Preparing to unpack .../00-libjsoncpp25_1.9.5-3_amd64.deb ...
+2025-06-18T04:59:45.9342751Z Unpacking libjsoncpp25:amd64 (1.9.5-3) ...
+2025-06-18T04:59:45.9610357Z Selecting previously unselected package librhash0:amd64.
+2025-06-18T04:59:45.9776255Z Preparing to unpack .../01-librhash0_1.4.2-1ubuntu1_amd64.deb ...
+2025-06-18T04:59:45.9793818Z Unpacking librhash0:amd64 (1.4.2-1ubuntu1) ...
+2025-06-18T04:59:46.0036410Z Selecting previously unselected package dh-elpa-helper.
+2025-06-18T04:59:46.0200977Z Preparing to unpack .../02-dh-elpa-helper_2.0.9ubuntu1_all.deb ...
+2025-06-18T04:59:46.0212559Z Unpacking dh-elpa-helper (2.0.9ubuntu1) ...
+2025-06-18T04:59:46.0480309Z Selecting previously unselected package cmake-data.
+2025-06-18T04:59:46.0644250Z Preparing to unpack .../03-cmake-data_3.22.1-1ubuntu1.22.04.2_all.deb ...
+2025-06-18T04:59:46.0716773Z Unpacking cmake-data (3.22.1-1ubuntu1.22.04.2) ...
+2025-06-18T04:59:46.5671678Z Selecting previously unselected package cmake.
+2025-06-18T04:59:46.5847571Z Preparing to unpack .../04-cmake_3.22.1-1ubuntu1.22.04.2_amd64.deb ...
+2025-06-18T04:59:46.5860492Z Unpacking cmake (3.22.1-1ubuntu1.22.04.2) ...
+2025-06-18T04:59:46.6817122Z Selecting previously unselected package binutils-arm-none-eabi.
+2025-06-18T04:59:46.6981749Z Preparing to unpack .../05-binutils-arm-none-eabi_2.38-3ubuntu1+15build1_amd64.deb ...
+2025-06-18T04:59:46.6994005Z Unpacking binutils-arm-none-eabi (2.38-3ubuntu1+15build1) ...
+2025-06-18T04:59:46.7973639Z Selecting previously unselected package gcc-arm-none-eabi.
+2025-06-18T04:59:46.8138532Z Preparing to unpack .../06-gcc-arm-none-eabi_15%3a10.3-2021.07-4_amd64.deb ...
+2025-06-18T04:59:46.8151160Z Unpacking gcc-arm-none-eabi (15:10.3-2021.07-4) ...
+2025-06-18T04:59:48.1953250Z Selecting previously unselected package libstdc++-arm-none-eabi-dev.
+2025-06-18T04:59:48.2122616Z Preparing to unpack .../07-libstdc++-arm-none-eabi-dev_15%3a10.3-2021.07-4+17_all.deb ...
+2025-06-18T04:59:48.2135356Z Unpacking libstdc++-arm-none-eabi-dev (15:10.3-2021.07-4+17) ...
+2025-06-18T04:59:48.4987223Z Selecting previously unselected package libnewlib-dev.
+2025-06-18T04:59:48.5162015Z Preparing to unpack .../08-libnewlib-dev_3.3.0-1.3_all.deb ...
+2025-06-18T04:59:48.5175340Z Unpacking libnewlib-dev (3.3.0-1.3) ...
+2025-06-18T04:59:48.5616642Z Selecting previously unselected package libnewlib-arm-none-eabi.
+2025-06-18T04:59:48.5785651Z Preparing to unpack .../09-libnewlib-arm-none-eabi_3.3.0-1.3_all.deb ...
+2025-06-18T04:59:48.5798309Z Unpacking libnewlib-arm-none-eabi (3.3.0-1.3) ...
+2025-06-18T04:59:49.8205634Z Selecting previously unselected package libstdc++-arm-none-eabi-newlib.
+2025-06-18T04:59:49.8377449Z Preparing to unpack .../10-libstdc++-arm-none-eabi-newlib_15%3a10.3-2021.07-4+17_all.deb ...
+2025-06-18T04:59:49.8396000Z Unpacking libstdc++-arm-none-eabi-newlib (15:10.3-2021.07-4+17) ...
+2025-06-18T04:59:55.1640231Z Setting up binutils-arm-none-eabi (2.38-3ubuntu1+15build1) ...
+2025-06-18T04:59:55.1685864Z Setting up gcc-arm-none-eabi (15:10.3-2021.07-4) ...
+2025-06-18T04:59:55.1721685Z Setting up dh-elpa-helper (2.0.9ubuntu1) ...
+2025-06-18T04:59:55.1757157Z Setting up libnewlib-dev (3.3.0-1.3) ...
+2025-06-18T04:59:55.1856984Z Setting up libjsoncpp25:amd64 (1.9.5-3) ...
+2025-06-18T04:59:55.1897023Z Setting up libnewlib-arm-none-eabi (3.3.0-1.3) ...
+2025-06-18T04:59:55.1993845Z Setting up librhash0:amd64 (1.4.2-1ubuntu1) ...
+2025-06-18T04:59:55.2033357Z Setting up cmake-data (3.22.1-1ubuntu1.22.04.2) ...
+2025-06-18T04:59:55.2495629Z Setting up libstdc++-arm-none-eabi-dev (15:10.3-2021.07-4+17) ...
+2025-06-18T04:59:55.2588504Z Setting up libstdc++-arm-none-eabi-newlib (15:10.3-2021.07-4+17) ...
+2025-06-18T04:59:55.2617243Z Setting up cmake (3.22.1-1ubuntu1.22.04.2) ...
+2025-06-18T04:59:55.2653876Z Processing triggers for man-db (2.10.2-1) ...
+2025-06-18T04:59:55.8386042Z Processing triggers for libc-bin (2.35-0ubuntu3.9) ...
+2025-06-18T04:59:56.3220248Z NEEDRESTART-VER: 3.5
+2025-06-18T04:59:56.6134293Z NEEDRESTART-KCUR: 6.8.0-1029-azure
+2025-06-18T04:59:56.6134809Z NEEDRESTART-KEXP: 6.8.0-1029-azure
+2025-06-18T04:59:56.6135396Z NEEDRESTART-KSTA: 1
+2025-06-18T04:59:56.6135767Z NEEDRESTART-SVC: hosted-compute-agent.service
+2025-06-18T04:59:58.9056084Z Collecting pycryptodomex
+2025-06-18T04:59:58.9172200Z   Downloading pycryptodomex-3.23.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.4 kB)
+2025-06-18T04:59:58.9273025Z Downloading pycryptodomex-3.23.0-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.3 MB)
+2025-06-18T04:59:58.9509215Z    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.3/2.3 MB 120.5 MB/s eta 0:00:00
+2025-06-18T04:59:58.9689650Z Installing collected packages: pycryptodomex
+2025-06-18T04:59:59.3054024Z Successfully installed pycryptodomex-3.23.0
+2025-06-18T04:59:59.7936408Z Collecting configobj
+2025-06-18T04:59:59.8065408Z   Downloading configobj-5.0.9-py2.py3-none-any.whl.metadata (3.2 kB)
+2025-06-18T04:59:59.8140125Z Downloading configobj-5.0.9-py2.py3-none-any.whl (35 kB)
+2025-06-18T04:59:59.8292172Z Installing collected packages: configobj
+2025-06-18T04:59:59.8497080Z Successfully installed configobj-5.0.9
+2025-06-18T05:00:00.2915376Z Collecting toml
+2025-06-18T05:00:00.3013868Z   Downloading toml-0.10.2-py2.py3-none-any.whl.metadata (7.1 kB)
+2025-06-18T05:00:00.3099509Z Downloading toml-0.10.2-py2.py3-none-any.whl (16 kB)
+2025-06-18T05:00:00.3252668Z Installing collected packages: toml
+2025-06-18T05:00:00.3421243Z Successfully installed toml-0.10.2
+2025-06-18T05:00:00.7850778Z Collecting fdt
+2025-06-18T05:00:00.7956593Z   Downloading fdt-0.3.3-py3-none-any.whl.metadata (7.9 kB)
+2025-06-18T05:00:00.8051846Z Downloading fdt-0.3.3-py3-none-any.whl (23 kB)
+2025-06-18T05:00:00.8213102Z Installing collected packages: fdt
+2025-06-18T05:00:00.8390089Z Successfully installed fdt-0.3.3

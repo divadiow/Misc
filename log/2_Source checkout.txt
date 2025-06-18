@@ -1,0 +1,86 @@
+﻿2025-06-18T04:59:07.8497253Z ##[group]Run actions/checkout@v4
+2025-06-18T04:59:07.8498082Z with:
+2025-06-18T04:59:07.8498506Z   repository: openshwprojects/OpenBK7231T_App
+2025-06-18T04:59:07.8499192Z   token: ***
+2025-06-18T04:59:07.8499565Z   ssh-strict: true
+2025-06-18T04:59:07.8499957Z   ssh-user: git
+2025-06-18T04:59:07.8500353Z   persist-credentials: true
+2025-06-18T04:59:07.8500785Z   clean: true
+2025-06-18T04:59:07.8501174Z   sparse-checkout-cone-mode: true
+2025-06-18T04:59:07.8501628Z   fetch-depth: 1
+2025-06-18T04:59:07.8501997Z   fetch-tags: false
+2025-06-18T04:59:07.8502372Z   show-progress: true
+2025-06-18T04:59:07.8502760Z   lfs: false
+2025-06-18T04:59:07.8503102Z   submodules: false
+2025-06-18T04:59:07.8503496Z   set-safe-directory: true
+2025-06-18T04:59:07.8504096Z env:
+2025-06-18T04:59:07.8505109Z   GITHUB_TOKEN: ***
+2025-06-18T04:59:07.8505532Z   APP_NAME: OpenBK7231T_App
+2025-06-18T04:59:07.8505999Z ##[endgroup]
+2025-06-18T04:59:07.9606309Z Syncing repository: openshwprojects/OpenBK7231T_App
+2025-06-18T04:59:07.9609179Z ##[group]Getting Git version info
+2025-06-18T04:59:07.9610517Z Working directory is '/home/runner/work/OpenBK7231T_App/OpenBK7231T_App'
+2025-06-18T04:59:07.9612587Z [command]/usr/bin/git version
+2025-06-18T04:59:07.9654046Z git version 2.49.0
+2025-06-18T04:59:07.9680767Z ##[endgroup]
+2025-06-18T04:59:07.9696242Z Temporarily overriding HOME='/home/runner/work/_temp/f44b8a6e-ac1a-4f59-9285-42894d524b00' before making global git config changes
+2025-06-18T04:59:07.9698642Z Adding repository directory to the temporary git global config as a safe directory
+2025-06-18T04:59:07.9702516Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/OpenBK7231T_App/OpenBK7231T_App
+2025-06-18T04:59:07.9737697Z Deleting the contents of '/home/runner/work/OpenBK7231T_App/OpenBK7231T_App'
+2025-06-18T04:59:07.9741489Z ##[group]Initializing the repository
+2025-06-18T04:59:07.9746032Z [command]/usr/bin/git init /home/runner/work/OpenBK7231T_App/OpenBK7231T_App
+2025-06-18T04:59:07.9820530Z hint: Using 'master' as the name for the initial branch. This default branch name
+2025-06-18T04:59:07.9822459Z hint: is subject to change. To configure the initial branch name to use in all
+2025-06-18T04:59:07.9824001Z hint: of your new repositories, which will suppress this warning, call:
+2025-06-18T04:59:07.9825268Z hint:
+2025-06-18T04:59:07.9826003Z hint: 	git config --global init.defaultBranch <name>
+2025-06-18T04:59:07.9826852Z hint:
+2025-06-18T04:59:07.9827389Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+2025-06-18T04:59:07.9828259Z hint: 'development'. The just-created branch can be renamed via this command:
+2025-06-18T04:59:07.9828927Z hint:
+2025-06-18T04:59:07.9829299Z hint: 	git branch -m <name>
+2025-06-18T04:59:07.9830060Z Initialized empty Git repository in /home/runner/work/OpenBK7231T_App/OpenBK7231T_App/.git/
+2025-06-18T04:59:07.9836544Z [command]/usr/bin/git remote add origin https://github.com/openshwprojects/OpenBK7231T_App
+2025-06-18T04:59:07.9871858Z ##[endgroup]
+2025-06-18T04:59:07.9873063Z ##[group]Disabling automatic garbage collection
+2025-06-18T04:59:07.9876810Z [command]/usr/bin/git config --local gc.auto 0
+2025-06-18T04:59:07.9904816Z ##[endgroup]
+2025-06-18T04:59:07.9906187Z ##[group]Setting up auth
+2025-06-18T04:59:07.9912222Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2025-06-18T04:59:07.9942349Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2025-06-18T04:59:08.0226842Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2025-06-18T04:59:08.0256722Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2025-06-18T04:59:08.0471183Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2025-06-18T04:59:08.0513313Z ##[endgroup]
+2025-06-18T04:59:08.0514057Z ##[group]Fetching the repository
+2025-06-18T04:59:08.0521666Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +ab95e0c6251eb4e5ffc3c2b1e0ba29cb5eb1c411:refs/remotes/pull/1633/merge
+2025-06-18T04:59:08.7107944Z From https://github.com/openshwprojects/OpenBK7231T_App
+2025-06-18T04:59:08.7109510Z  * [new ref]         ab95e0c6251eb4e5ffc3c2b1e0ba29cb5eb1c411 -> pull/1633/merge
+2025-06-18T04:59:08.7140357Z ##[endgroup]
+2025-06-18T04:59:08.7141531Z ##[group]Determining the checkout info
+2025-06-18T04:59:08.7142862Z ##[endgroup]
+2025-06-18T04:59:08.7147704Z [command]/usr/bin/git sparse-checkout disable
+2025-06-18T04:59:08.7192646Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+2025-06-18T04:59:08.7219574Z ##[group]Checking out the ref
+2025-06-18T04:59:08.7222514Z [command]/usr/bin/git checkout --progress --force refs/remotes/pull/1633/merge
+2025-06-18T04:59:08.7827323Z Note: switching to 'refs/remotes/pull/1633/merge'.
+2025-06-18T04:59:08.7828266Z 
+2025-06-18T04:59:08.7828884Z You are in 'detached HEAD' state. You can look around, make experimental
+2025-06-18T04:59:08.7830449Z changes and commit them, and you can discard any commits you make in this
+2025-06-18T04:59:08.7832035Z state without impacting any branches by switching back to a branch.
+2025-06-18T04:59:08.7832885Z 
+2025-06-18T04:59:08.7833276Z If you want to create a new branch to retain commits you create, you may
+2025-06-18T04:59:08.7834095Z do so (now or later) by using -c with the switch command. Example:
+2025-06-18T04:59:08.7834566Z 
+2025-06-18T04:59:08.7834769Z   git switch -c <new-branch-name>
+2025-06-18T04:59:08.7835393Z 
+2025-06-18T04:59:08.7835705Z Or undo this operation with:
+2025-06-18T04:59:08.7836320Z 
+2025-06-18T04:59:08.7836633Z   git switch -
+2025-06-18T04:59:08.7836984Z 
+2025-06-18T04:59:08.7837530Z Turn off this advice by setting config variable advice.detachedHead to false
+2025-06-18T04:59:08.7838304Z 
+2025-06-18T04:59:08.7838936Z HEAD is now at ab95e0c Merge 9e1e9184321373ed3e696c5d13139d8acccd6c7c into b02068e48528ba527f434a1e1cf7b5f43a14eb26
+2025-06-18T04:59:08.7841875Z ##[endgroup]
+2025-06-18T04:59:08.7878517Z [command]/usr/bin/git log -1 --format=%H
+2025-06-18T04:59:08.7901459Z ab95e0c6251eb4e5ffc3c2b1e0ba29cb5eb1c411

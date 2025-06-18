@@ -1,0 +1,53 @@
+﻿2025-06-18T05:00:00.8788891Z ##[group]Run ls -la
+2025-06-18T05:00:00.8789147Z [36;1mls -la[0m
+2025-06-18T05:00:00.8828970Z shell: /usr/bin/bash -e {0}
+2025-06-18T05:00:00.8829194Z env:
+2025-06-18T05:00:00.8829554Z   GITHUB_TOKEN: ***
+2025-06-18T05:00:00.8829752Z   APP_NAME: OpenBK7231T_App
+2025-06-18T05:00:00.8830016Z   pythonLocation: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T05:00:00.8830420Z   PKG_CONFIG_PATH: /opt/hostedtoolcache/Python/3.8.18/x64/lib/pkgconfig
+2025-06-18T05:00:00.8830814Z   Python_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T05:00:00.8831146Z   Python2_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T05:00:00.8831490Z   Python3_ROOT_DIR: /opt/hostedtoolcache/Python/3.8.18/x64
+2025-06-18T05:00:00.8831830Z   LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.8.18/x64/lib
+2025-06-18T05:00:00.8832110Z ##[endgroup]
+2025-06-18T05:00:00.8905655Z total 664
+2025-06-18T05:00:00.8906036Z drwxr-xr-x 16 runner docker   4096 Jun 18 04:59 .
+2025-06-18T05:00:00.8906537Z drwxr-xr-x  3 runner docker   4096 Jun 18 04:59 ..
+2025-06-18T05:00:00.8907056Z drwxr-xr-x  7 runner docker   4096 Jun 18 04:59 .git
+2025-06-18T05:00:00.8907582Z -rw-r--r--  1 runner docker    334 Jun 18 04:59 .gitattributes
+2025-06-18T05:00:00.8908124Z drwxr-xr-x  4 runner docker   4096 Jun 18 04:59 .github
+2025-06-18T05:00:00.8908624Z -rw-r--r--  1 runner docker    420 Jun 18 04:59 .gitignore
+2025-06-18T05:00:00.8909296Z -rw-r--r--  1 runner docker   2150 Jun 18 04:59 .gitmodules
+2025-06-18T05:00:00.8909825Z -rw-r--r--  1 runner docker  13400 Jun 18 04:59 .releaserc.yaml
+2025-06-18T05:00:00.8910153Z drwxr-xr-x  2 runner docker   4096 Jun 18 04:59 .vscode
+2025-06-18T05:00:00.8910467Z -rw-r--r--  1 runner docker   4196 Jun 18 04:59 BUILDING.md
+2025-06-18T05:00:00.8910801Z -rw-r--r--  1 runner docker   4566 Jun 18 04:59 FLASHING.md
+2025-06-18T05:00:00.8911109Z -rw-r--r--  1 runner docker  36785 Jun 18 04:59 Makefile
+2025-06-18T05:00:00.8911419Z -rw-r--r--  1 runner docker  16111 Jun 18 04:59 README.md
+2025-06-18T05:00:00.8911725Z drwxr-xr-x  2 runner docker   4096 Jun 18 04:59 Release
+2025-06-18T05:00:00.8912059Z drwxr-xr-x  2 runner docker   4096 Jun 18 04:59 Release Win32
+2025-06-18T05:00:00.8912406Z drwxr-xr-x  2 runner docker   4096 Jun 18 04:59 Release Win322
+2025-06-18T05:00:00.8912738Z -rw-r--r--  1 runner docker      0 Jun 18 04:59 action-trigger
+2025-06-18T05:00:00.8913058Z -rw-r--r--  1 runner docker    717 Jun 18 04:59 bouffalo.mk
+2025-06-18T05:00:00.8913368Z -rw-r--r--  1 runner docker   3235 Jun 18 04:59 components.mk
+2025-06-18T05:00:00.8913697Z -rw-r--r--  1 runner docker   2146 Jun 18 04:59 custom.mk
+2025-06-18T05:00:00.8913995Z drwxr-xr-x  2 runner docker   4096 Jun 18 04:59 docker
+2025-06-18T05:00:00.8914302Z drwxr-xr-x  5 runner docker   4096 Jun 18 04:59 docs
+2025-06-18T05:00:00.8914598Z -rw-r--r--  1 runner docker   1150 Jun 18 04:59 favicon.ico
+2025-06-18T05:00:00.8915081Z -rw-r--r--  1 runner docker   3360 Jun 18 04:59 gulpfile.js
+2025-06-18T05:00:00.8915436Z drwxr-xr-x  2 runner docker   4096 Jun 18 04:59 include
+2025-06-18T05:00:00.8915798Z -rw-r--r--  1 runner docker    119 Jun 18 04:59 lastEnumTemplate.txt
+2025-06-18T05:00:00.8916158Z drwxr-xr-x  4 runner docker   4096 Jun 18 04:59 libraries
+2025-06-18T05:00:00.8916523Z -rw-r--r--  1 runner docker  89357 Jun 18 04:59 openBeken_win32_mvsc2017.vcxproj
+2025-06-18T05:00:00.8916969Z -rw-r--r--  1 runner docker  40357 Jun 18 04:59 openBeken_win32_mvsc2017.vcxproj.filters
+2025-06-18T05:00:00.8917386Z -rw-r--r--  1 runner docker 336882 Jun 18 04:59 package-lock.json
+2025-06-18T05:00:00.8917719Z -rw-r--r--  1 runner docker    739 Jun 18 04:59 package.json
+2025-06-18T05:00:00.8918040Z drwxr-xr-x 18 runner docker   4096 Jun 18 04:59 platforms
+2025-06-18T05:00:00.8918591Z -rw-r--r--  1 runner docker     50 Jun 18 04:59 run_1600x900_port80.bat
+2025-06-18T05:00:00.8918959Z -rw-r--r--  1 runner docker     50 Jun 18 04:59 run_1600x900_port9000.bat
+2025-06-18T05:00:00.8919326Z -rw-r--r--  1 runner docker     58 Jun 18 04:59 run_800x600_port80.bat
+2025-06-18T05:00:00.8919673Z -rw-r--r--  1 runner docker     60 Jun 18 04:59 run_800x600_port9000.bat
+2025-06-18T05:00:00.8920218Z drwxr-xr-x  2 runner docker   4096 Jun 18 04:59 scripts
+2025-06-18T05:00:00.8920511Z drwxr-xr-x 18 runner docker   4096 Jun 18 04:59 sdk
+2025-06-18T05:00:00.8920787Z drwxr-xr-x 24 runner docker   4096 Jun 18 04:59 src

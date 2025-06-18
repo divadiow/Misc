@@ -1,0 +1,16 @@
+﻿2025-06-18T05:00:59.5507169Z Post job cleanup.
+2025-06-18T05:00:59.6445509Z [command]/usr/bin/git version
+2025-06-18T05:00:59.6481153Z git version 2.49.0
+2025-06-18T05:00:59.6531170Z Temporarily overriding HOME='/home/runner/work/_temp/8396d2d0-d8fd-4121-8323-644977b7f052' before making global git config changes
+2025-06-18T05:00:59.6532453Z Adding repository directory to the temporary git global config as a safe directory
+2025-06-18T05:00:59.6537336Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/OpenBK7231T_App/OpenBK7231T_App
+2025-06-18T05:00:59.6571367Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2025-06-18T05:00:59.6603758Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2025-06-18T05:00:59.6817800Z Entering 'libraries/berry'
+2025-06-18T05:00:59.6866567Z Entering 'sdk/OpenXR809'
+2025-06-18T05:00:59.6933104Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2025-06-18T05:00:59.6956105Z http.https://github.com/.extraheader
+2025-06-18T05:00:59.6967532Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2025-06-18T05:00:59.7000466Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2025-06-18T05:00:59.7234721Z Entering 'libraries/berry'
+2025-06-18T05:00:59.7279276Z Entering 'sdk/OpenXR809'
