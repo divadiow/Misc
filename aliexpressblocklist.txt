@@ -1,130 +1,184 @@
-          <S>"ae-apprize.a1@deals.aliexpress.com" [SMTP:ae-apprize.a1@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a2@deals.aliexpress.com" [SMTP:ae-apprize.a2@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a3@deals.aliexpress.com" [SMTP:ae-apprize.a3@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a4@deals.aliexpress.com" [SMTP:ae-apprize.a4@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a5@deals.aliexpress.com" [SMTP:ae-apprize.a5@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a6@deals.aliexpress.com" [SMTP:ae-apprize.a6@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a7@deals.aliexpress.com" [SMTP:ae-apprize.a7@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a8@deals.aliexpress.com" [SMTP:ae-apprize.a8@deals.aliexpress.com]</S>
-          <S>"ae-apprize.a9@deals.aliexpress.com" [SMTP:ae-apprize.a9@deals.aliexpress.com]</S>
-          <S>"ae-news-interest00@mail.aliexpress.com" [SMTP:ae-news-interest00@mail.aliexpress.com]</S>
-          <S>"ae-news-interest01@mail.aliexpress.com" [SMTP:ae-news-interest01@mail.aliexpress.com]</S>
-          <S>"ae-news-interest02@mail.aliexpress.com" [SMTP:ae-news-interest02@mail.aliexpress.com]</S>
-          <S>"ae-news-interest03@mail.aliexpress.com" [SMTP:ae-news-interest03@mail.aliexpress.com]</S>
-          <S>"ae-news-interest04@mail.aliexpress.com" [SMTP:ae-news-interest04@mail.aliexpress.com]</S>
-          <S>"ae-news-interest05@mail.aliexpress.com" [SMTP:ae-news-interest05@mail.aliexpress.com]</S>
-          <S>"ae-news-interest06@mail.aliexpress.com" [SMTP:ae-news-interest06@mail.aliexpress.com]</S>
-          <S>"ae-news-interest07@mail.aliexpress.com" [SMTP:ae-news-interest07@mail.aliexpress.com]</S>
-          <S>"ae-news-interest08@mail.aliexpress.com" [SMTP:ae-news-interest08@mail.aliexpress.com]</S>
-          <S>"ae-news-interest09@mail.aliexpress.com" [SMTP:ae-news-interest09@mail.aliexpress.com]</S>
-          <S>"ae-news.a0@deals.aliexpress.com" [SMTP:ae-news.a0@deals.aliexpress.com]</S>
-          <S>"ae-news.a0@mail.aliexpress.com" [SMTP:ae-news.a0@mail.aliexpress.com]</S>
-          <S>"ae-news.a1@deals.aliexpress.com" [SMTP:ae-news.a1@deals.aliexpress.com]</S>
-          <S>"ae-news.a1@mail.aliexpress.com" [SMTP:ae-news.a1@mail.aliexpress.com]</S>
-          <S>"ae-news.a2@deals.aliexpress.com" [SMTP:ae-news.a2@deals.aliexpress.com]</S>
-          <S>"ae-news.a2@mail.aliexpress.com" [SMTP:ae-news.a2@mail.aliexpress.com]</S>
-          <S>"ae-news.a3@deals.aliexpress.com" [SMTP:ae-news.a3@deals.aliexpress.com]</S>
-          <S>"ae-news.a3@mail.aliexpress.com" [SMTP:ae-news.a3@mail.aliexpress.com]</S>
-          <S>"ae-news.a4@deals.aliexpress.com" [SMTP:ae-news.a4@deals.aliexpress.com]</S>
-          <S>"ae-news.a4@mail.aliexpress.com" [SMTP:ae-news.a4@mail.aliexpress.com]</S>
-          <S>"ae-news.a5@deals.aliexpress.com" [SMTP:ae-news.a5@deals.aliexpress.com]</S>
-          <S>"ae-news.a5@mail.aliexpress.com" [SMTP:ae-news.a5@mail.aliexpress.com]</S>
-          <S>"ae-news.a6@deals.aliexpress.com" [SMTP:ae-news.a6@deals.aliexpress.com]</S>
-          <S>"ae-news.a6@mail.aliexpress.com" [SMTP:ae-news.a6@mail.aliexpress.com]</S>
-          <S>"ae-news.a7@deals.aliexpress.com" [SMTP:ae-news.a7@deals.aliexpress.com]</S>
-          <S>"ae-news.a7@mail.aliexpress.com" [SMTP:ae-news.a7@mail.aliexpress.com]</S>
-          <S>"ae-news.a8@deals.aliexpress.com" [SMTP:ae-news.a8@deals.aliexpress.com]</S>
-          <S>"ae-news.a8@mail.aliexpress.com" [SMTP:ae-news.a8@mail.aliexpress.com]</S>
-          <S>"ae-news.a9@deals.aliexpress.com" [SMTP:ae-news.a9@deals.aliexpress.com]</S>
-          <S>"ae-news.a9@mail.aliexpress.com" [SMTP:ae-news.a9@mail.aliexpress.com]</S>
-          <S>"ae-trigger04.a0@deals.aliexpress.com" [SMTP:ae-trigger04.a0@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a1@deals.aliexpress.com" [SMTP:ae-trigger04.a1@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a2@deals.aliexpress.com" [SMTP:ae-trigger04.a2@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a3@deals.aliexpress.com" [SMTP:ae-trigger04.a3@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a4@deals.aliexpress.com" [SMTP:ae-trigger04.a4@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a5@deals.aliexpress.com" [SMTP:ae-trigger04.a5@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a6@deals.aliexpress.com" [SMTP:ae-trigger04.a6@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a7@deals.aliexpress.com" [SMTP:ae-trigger04.a7@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a8@deals.aliexpress.com" [SMTP:ae-trigger04.a8@deals.aliexpress.com]</S>
-          <S>"ae-trigger04.a9@deals.aliexpress.com" [SMTP:ae-trigger04.a9@deals.aliexpress.com]</S>
-          <S>"buyer-trigger-ae00@mail.aliexpress.com" [SMTP:buyer-trigger-ae00@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae01@mail.aliexpress.com" [SMTP:buyer-trigger-ae01@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae02@mail.aliexpress.com" [SMTP:buyer-trigger-ae02@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae03@mail.aliexpress.com" [SMTP:buyer-trigger-ae03@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae04@mail.aliexpress.com" [SMTP:buyer-trigger-ae04@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae05@mail.aliexpress.com" [SMTP:buyer-trigger-ae05@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae06@mail.aliexpress.com" [SMTP:buyer-trigger-ae06@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae07@mail.aliexpress.com" [SMTP:buyer-trigger-ae07@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae08@mail.aliexpress.com" [SMTP:buyer-trigger-ae08@mail.aliexpress.com]</S>
-          <S>"buyer-trigger-ae09@mail.aliexpress.com" [SMTP:buyer-trigger-ae09@mail.aliexpress.com]</S>
-          <S>"interest.a0@deals.aliexpress.com" [SMTP:interest.a0@deals.aliexpress.com]</S>
-          <S>"interest.a0@mail.aliexpress.com" [SMTP:interest.a0@mail.aliexpress.com]</S>
-          <S>"interest.a1@deals.aliexpress.com" [SMTP:interest.a1@deals.aliexpress.com]</S>
-          <S>"interest.a1@mail.aliexpress.com" [SMTP:interest.a1@mail.aliexpress.com]</S>
-          <S>"interest.a2@deals.aliexpress.com" [SMTP:interest.a2@deals.aliexpress.com]</S>
-          <S>"interest.a2@mail.aliexpress.com" [SMTP:interest.a2@mail.aliexpress.com]</S>
-          <S>"interest.a3@deals.aliexpress.com" [SMTP:interest.a3@deals.aliexpress.com]</S>
-          <S>"interest.a3@mail.aliexpress.com" [SMTP:interest.a3@mail.aliexpress.com]</S>
-          <S>"interest.a4@deals.aliexpress.com" [SMTP:interest.a4@deals.aliexpress.com]</S>
-          <S>"interest.a4@mail.aliexpress.com" [SMTP:interest.a4@mail.aliexpress.com]</S>
-          <S>"interest.a5@deals.aliexpress.com" [SMTP:interest.a5@deals.aliexpress.com]</S>
-          <S>"interest.a5@mail.aliexpress.com" [SMTP:interest.a5@mail.aliexpress.com]</S>
-          <S>"interest.a6@deals.aliexpress.com" [SMTP:interest.a6@deals.aliexpress.com]</S>
-          <S>"interest.a6@mail.aliexpress.com" [SMTP:interest.a6@mail.aliexpress.com]</S>
-          <S>"interest.a7@deals.aliexpress.com" [SMTP:interest.a7@deals.aliexpress.com]</S>
-          <S>"interest.a7@mail.aliexpress.com" [SMTP:interest.a7@mail.aliexpress.com]</S>
-          <S>"interest.a8@deals.aliexpress.com" [SMTP:interest.a8@deals.aliexpress.com]</S>
-          <S>"interest.a8@mail.aliexpress.com" [SMTP:interest.a8@mail.aliexpress.com]</S>
-          <S>"interest.a9@deals.aliexpress.com" [SMTP:interest.a9@deals.aliexpress.com]</S>
-          <S>"interest.a9@mail.aliexpress.com" [SMTP:interest.a9@mail.aliexpress.com]</S>
-          <S>"promotion@aliexpress.com" [SMTP:promotion@aliexpress.com]</S>
-          <S>"ae-sales.notice01@mail.aliexpress.com" [SMTP:ae-sales.notice01@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice02@mail.aliexpress.com" [SMTP:ae-sales.notice02@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice03@mail.aliexpress.com" [SMTP:ae-sales.notice03@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice04@mail.aliexpress.com" [SMTP:ae-sales.notice04@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice05@mail.aliexpress.com" [SMTP:ae-sales.notice05@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice06@mail.aliexpress.com" [SMTP:ae-sales.notice06@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice07@mail.aliexpress.com" [SMTP:ae-sales.notice07@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice08@mail.aliexpress.com" [SMTP:ae-sales.notice08@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice09@mail.aliexpress.com" [SMTP:ae-sales.notice09@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice10@mail.aliexpress.com" [SMTP:ae-sales.notice10@mail.aliexpress.com]</S>
-          <S>"ae-sales.notice01@deals.aliexpress.com" [SMTP:ae-sales.notice01@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice02@deals.aliexpress.com" [SMTP:ae-sales.notice02@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice03@deals.aliexpress.com" [SMTP:ae-sales.notice03@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice04@deals.aliexpress.com" [SMTP:ae-sales.notice04@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice05@deals.aliexpress.com" [SMTP:ae-sales.notice05@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice06@deals.aliexpress.com" [SMTP:ae-sales.notice06@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice07@deals.aliexpress.com" [SMTP:ae-sales.notice07@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice08@deals.aliexpress.com" [SMTP:ae-sales.notice08@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice09@deals.aliexpress.com" [SMTP:ae-sales.notice09@deals.aliexpress.com]</S>
-          <S>"ae-sales.notice10@deals.aliexpress.com" [SMTP:ae-sales.notice10@deals.aliexpress.com]</S>
-          <S>"ae-market.promotion01@mail.aliexpress.com" [SMTP:ae-market.promotion01@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion02@mail.aliexpress.com" [SMTP:ae-market.promotion02@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion03@mail.aliexpress.com" [SMTP:ae-market.promotion03@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion04@mail.aliexpress.com" [SMTP:ae-market.promotion04@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion05@mail.aliexpress.com" [SMTP:ae-market.promotion05@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion06@mail.aliexpress.com" [SMTP:ae-market.promotion06@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion07@mail.aliexpress.com" [SMTP:ae-market.promotion07@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion08@mail.aliexpress.com" [SMTP:ae-market.promotion08@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion09@mail.aliexpress.com" [SMTP:ae-market.promotion09@mail.aliexpress.com]</S>
-          <S>"ae-market.promotion10@mail.aliexpress.com" [SMTP:ae-market.promotion10@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale01@mail.aliexpress.com" [SMTP:ae-sales.sale01@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale02@mail.aliexpress.com" [SMTP:ae-sales.sale02@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale03@mail.aliexpress.com" [SMTP:ae-sales.sale03@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale04@mail.aliexpress.com" [SMTP:ae-sales.sale04@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale05@mail.aliexpress.com" [SMTP:ae-sales.sale05@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale06@mail.aliexpress.com" [SMTP:ae-sales.sale06@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale07@mail.aliexpress.com" [SMTP:ae-sales.sale07@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale08@mail.aliexpress.com" [SMTP:ae-sales.sale08@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale09@mail.aliexpress.com" [SMTP:ae-sales.sale09@mail.aliexpress.com]</S>
-          <S>"ae-sales.sale10@mail.aliexpress.com" [SMTP:ae-sales.sale10@mail.aliexpress.com]</S>
-          <S>"ae-market.sale01@deals.aliexpress.com" [SMTP:ae-market.sale01@deals.aliexpress.com]</S>
-          <S>"ae-market.sale02@deals.aliexpress.com" [SMTP:ae-market.sale02@deals.aliexpress.com]</S>
-          <S>"ae-market.sale03@deals.aliexpress.com" [SMTP:ae-market.sale03@deals.aliexpress.com]</S>
-          <S>"ae-market.sale04@deals.aliexpress.com" [SMTP:ae-market.sale04@deals.aliexpress.com]</S>
-          <S>"ae-market.sale05@deals.aliexpress.com" [SMTP:ae-market.sale05@deals.aliexpress.com]</S>
-          <S>"ae-market.sale06@deals.aliexpress.com" [SMTP:ae-market.sale06@deals.aliexpress.com]</S>
-          <S>"ae-market.sale07@deals.aliexpress.com" [SMTP:ae-market.sale07@deals.aliexpress.com]</S>
-          <S>"ae-market.sale08@deals.aliexpress.com" [SMTP:ae-market.sale08@deals.aliexpress.com]</S>
-          <S>"ae-market.sale09@deals.aliexpress.com" [SMTP:ae-market.sale09@deals.aliexpress.com]</S>
-          <S>"ae-market.sale10@deals.aliexpress.com" [SMTP:ae-market.sale10@deals.aliexpress.com]</S>
+"ae-apprize.a1@deals.aliexpress.com" <ae-apprize.a1@deals.aliexpress.com>;
+"ae-apprize.a2@deals.aliexpress.com" <ae-apprize.a2@deals.aliexpress.com>;
+"ae-apprize.a3@deals.aliexpress.com" <ae-apprize.a3@deals.aliexpress.com>;
+"ae-apprize.a4@deals.aliexpress.com" <ae-apprize.a4@deals.aliexpress.com>;
+"ae-apprize.a5@deals.aliexpress.com" <ae-apprize.a5@deals.aliexpress.com>;
+"ae-apprize.a6@deals.aliexpress.com" <ae-apprize.a6@deals.aliexpress.com>;
+"ae-apprize.a7@deals.aliexpress.com" <ae-apprize.a7@deals.aliexpress.com>;
+"ae-apprize.a8@deals.aliexpress.com" <ae-apprize.a8@deals.aliexpress.com>;
+"ae-apprize.a9@deals.aliexpress.com" <ae-apprize.a9@deals.aliexpress.com>;
+"ae-market.promotion01@mail.aliexpress.com" <ae-market.promotion01@mail.aliexpress.com>;
+"ae-market.promotion02@mail.aliexpress.com" <ae-market.promotion02@mail.aliexpress.com>;
+"ae-market.promotion03@mail.aliexpress.com" <ae-market.promotion03@mail.aliexpress.com>;
+"ae-market.promotion04@mail.aliexpress.com" <ae-market.promotion04@mail.aliexpress.com>;
+"ae-market.promotion05@mail.aliexpress.com" <ae-market.promotion05@mail.aliexpress.com>;
+"ae-market.promotion06@mail.aliexpress.com" <ae-market.promotion06@mail.aliexpress.com>;
+"ae-market.promotion07@mail.aliexpress.com" <ae-market.promotion07@mail.aliexpress.com>;
+"ae-market.promotion08@mail.aliexpress.com" <ae-market.promotion08@mail.aliexpress.com>;
+"ae-market.promotion09@mail.aliexpress.com" <ae-market.promotion09@mail.aliexpress.com>;
+"ae-market.promotion10@mail.aliexpress.com" <ae-market.promotion10@mail.aliexpress.com>;
+"ae-market.sale01@deals.aliexpress.com" <ae-market.sale01@deals.aliexpress.com>;
+"ae-market.sale02@deals.aliexpress.com" <ae-market.sale02@deals.aliexpress.com>;
+"ae-market.sale03@deals.aliexpress.com" <ae-market.sale03@deals.aliexpress.com>;
+"ae-market.sale04@deals.aliexpress.com" <ae-market.sale04@deals.aliexpress.com>;
+"ae-market.sale05@deals.aliexpress.com" <ae-market.sale05@deals.aliexpress.com>;
+"ae-market.sale06@deals.aliexpress.com" <ae-market.sale06@deals.aliexpress.com>;
+"ae-market.sale07@deals.aliexpress.com" <ae-market.sale07@deals.aliexpress.com>;
+"ae-market.sale08@deals.aliexpress.com" <ae-market.sale08@deals.aliexpress.com>;
+"ae-market.sale09@deals.aliexpress.com" <ae-market.sale09@deals.aliexpress.com>;
+"ae-market.sale10@deals.aliexpress.com" <ae-market.sale10@deals.aliexpress.com>;
+"ae-news-interest00@mail.aliexpress.com" <ae-news-interest00@mail.aliexpress.com>;
+"ae-news-interest01@mail.aliexpress.com" <ae-news-interest01@mail.aliexpress.com>;
+"ae-news-interest02@mail.aliexpress.com" <ae-news-interest02@mail.aliexpress.com>;
+"ae-news-interest03@mail.aliexpress.com" <ae-news-interest03@mail.aliexpress.com>;
+"ae-news-interest04@mail.aliexpress.com" <ae-news-interest04@mail.aliexpress.com>;
+"ae-news-interest05@mail.aliexpress.com" <ae-news-interest05@mail.aliexpress.com>;
+"ae-news-interest06@mail.aliexpress.com" <ae-news-interest06@mail.aliexpress.com>;
+"ae-news-interest07@mail.aliexpress.com" <ae-news-interest07@mail.aliexpress.com>;
+"ae-news-interest08@mail.aliexpress.com" <ae-news-interest08@mail.aliexpress.com>;
+"ae-news-interest09@mail.aliexpress.com" <ae-news-interest09@mail.aliexpress.com>;
+"ae-news.a0@deals.aliexpress.com" <ae-news.a0@deals.aliexpress.com>;
+"ae-news.a0@mail.aliexpress.com" <ae-news.a0@mail.aliexpress.com>;
+"ae-news.a1@deals.aliexpress.com" <ae-news.a1@deals.aliexpress.com>;
+"ae-news.a1@mail.aliexpress.com" <ae-news.a1@mail.aliexpress.com>;
+"ae-news.a2@deals.aliexpress.com" <ae-news.a2@deals.aliexpress.com>;
+"ae-news.a2@mail.aliexpress.com" <ae-news.a2@mail.aliexpress.com>;
+"ae-news.a3@deals.aliexpress.com" <ae-news.a3@deals.aliexpress.com>;
+"ae-news.a3@mail.aliexpress.com" <ae-news.a3@mail.aliexpress.com>;
+"ae-news.a4@deals.aliexpress.com" <ae-news.a4@deals.aliexpress.com>;
+"ae-news.a4@mail.aliexpress.com" <ae-news.a4@mail.aliexpress.com>;
+"ae-news.a5@deals.aliexpress.com" <ae-news.a5@deals.aliexpress.com>;
+"ae-news.a5@mail.aliexpress.com" <ae-news.a5@mail.aliexpress.com>;
+"ae-news.a6@deals.aliexpress.com" <ae-news.a6@deals.aliexpress.com>;
+"ae-news.a6@mail.aliexpress.com" <ae-news.a6@mail.aliexpress.com>;
+"ae-news.a7@deals.aliexpress.com" <ae-news.a7@deals.aliexpress.com>;
+"ae-news.a7@mail.aliexpress.com" <ae-news.a7@mail.aliexpress.com>;
+"ae-news.a8@deals.aliexpress.com" <ae-news.a8@deals.aliexpress.com>;
+"ae-news.a8@mail.aliexpress.com" <ae-news.a8@mail.aliexpress.com>;
+"ae-news.a9@deals.aliexpress.com" <ae-news.a9@deals.aliexpress.com>;
+"ae-news.a9@mail.aliexpress.com" <ae-news.a9@mail.aliexpress.com>;
+"ae-report-info04.a5@deals.aliexpress.com" <ae-report-info04.a5@deals.aliexpress.com>;
+"ae-report-info05.a5@deals.aliexpress.com" <ae-report-info05.a5@deals.aliexpress.com>;
+"ae-report-info05.a5@mail.aliexpress.com" <ae-report-info05.a5@mail.aliexpress.com>;
+"ae-sales.notice01@mail.aliexpress.com" <ae-sales.notice01@mail.aliexpress.com>;
+"ae-sales.notice02@mail.aliexpress.com" <ae-sales.notice02@mail.aliexpress.com>;
+"ae-sales.notice03@mail.aliexpress.com" <ae-sales.notice03@mail.aliexpress.com>;
+"ae-sales.notice04@mail.aliexpress.com" <ae-sales.notice04@mail.aliexpress.com>;
+"ae-sales.notice05@mail.aliexpress.com" <ae-sales.notice05@mail.aliexpress.com>;
+"ae-sales.notice06@mail.aliexpress.com" <ae-sales.notice06@mail.aliexpress.com>;
+"ae-sales.notice07@mail.aliexpress.com" <ae-sales.notice07@mail.aliexpress.com>;
+"ae-sales.notice08@mail.aliexpress.com" <ae-sales.notice08@mail.aliexpress.com>;
+"ae-sales.notice09@mail.aliexpress.com" <ae-sales.notice09@mail.aliexpress.com>;
+"ae-sales.notice10@mail.aliexpress.com" <ae-sales.notice10@mail.aliexpress.com>;
+"ae-sales.notice01@deals.aliexpress.com" <ae-sales.notice01@deals.aliexpress.com>;
+"ae-sales.notice02@deals.aliexpress.com" <ae-sales.notice02@deals.aliexpress.com>;
+"ae-sales.notice03@deals.aliexpress.com" <ae-sales.notice03@deals.aliexpress.com>;
+"ae-sales.notice04@deals.aliexpress.com" <ae-sales.notice04@deals.aliexpress.com>;
+"ae-sales.notice05@deals.aliexpress.com" <ae-sales.notice05@deals.aliexpress.com>;
+"ae-sales.notice06@deals.aliexpress.com" <ae-sales.notice06@deals.aliexpress.com>;
+"ae-sales.notice07@deals.aliexpress.com" <ae-sales.notice07@deals.aliexpress.com>;
+"ae-sales.notice08@deals.aliexpress.com" <ae-sales.notice08@deals.aliexpress.com>;
+"ae-sales.notice09@deals.aliexpress.com" <ae-sales.notice09@deals.aliexpress.com>;
+"ae-sales.notice10@deals.aliexpress.com" <ae-sales.notice10@deals.aliexpress.com>;
+"ae-sales.sale01@mail.aliexpress.com" <ae-sales.sale01@mail.aliexpress.com>;
+"ae-sales.sale02@mail.aliexpress.com" <ae-sales.sale02@mail.aliexpress.com>;
+"ae-sales.sale03@mail.aliexpress.com" <ae-sales.sale03@mail.aliexpress.com>;
+"ae-sales.sale04@mail.aliexpress.com" <ae-sales.sale04@mail.aliexpress.com>;
+"ae-sales.sale05@mail.aliexpress.com" <ae-sales.sale05@mail.aliexpress.com>;
+"ae-sales.sale06@mail.aliexpress.com" <ae-sales.sale06@mail.aliexpress.com>;
+"ae-sales.sale07@mail.aliexpress.com" <ae-sales.sale07@mail.aliexpress.com>;
+"ae-sales.sale08@mail.aliexpress.com" <ae-sales.sale08@mail.aliexpress.com>;
+"ae-sales.sale09@mail.aliexpress.com" <ae-sales.sale09@mail.aliexpress.com>;
+"ae-sales.sale10@mail.aliexpress.com" <ae-sales.sale10@mail.aliexpress.com>;
+"buyer-trigger-ae00@mail.aliexpress.com" <buyer-trigger-ae00@mail.aliexpress.com>;
+"buyer-trigger-ae01@mail.aliexpress.com" <buyer-trigger-ae01@mail.aliexpress.com>;
+"buyer-trigger-ae02@mail.aliexpress.com" <buyer-trigger-ae02@mail.aliexpress.com>;
+"buyer-trigger-ae03@mail.aliexpress.com" <buyer-trigger-ae03@mail.aliexpress.com>;
+"buyer-trigger-ae04@mail.aliexpress.com" <buyer-trigger-ae04@mail.aliexpress.com>;
+"buyer-trigger-ae05@mail.aliexpress.com" <buyer-trigger-ae05@mail.aliexpress.com>;
+"buyer-trigger-ae06@mail.aliexpress.com" <buyer-trigger-ae06@mail.aliexpress.com>;
+"buyer-trigger-ae07@mail.aliexpress.com" <buyer-trigger-ae07@mail.aliexpress.com>;
+"buyer-trigger-ae08@mail.aliexpress.com" <buyer-trigger-ae08@mail.aliexpress.com>;
+"buyer-trigger-ae09@mail.aliexpress.com" <buyer-trigger-ae09@mail.aliexpress.com>;
+"interest.a0@deals.aliexpress.com" <interest.a0@deals.aliexpress.com>;
+"interest.a0@mail.aliexpress.com" <interest.a0@mail.aliexpress.com>;
+"interest.a1@deals.aliexpress.com" <interest.a1@deals.aliexpress.com>;
+"interest.a1@mail.aliexpress.com" <interest.a1@mail.aliexpress.com>;
+"interest.a2@deals.aliexpress.com" <interest.a2@deals.aliexpress.com>;
+"interest.a2@mail.aliexpress.com" <interest.a2@mail.aliexpress.com>;
+"interest.a3@deals.aliexpress.com" <interest.a3@deals.aliexpress.com>;
+"interest.a3@mail.aliexpress.com" <interest.a3@mail.aliexpress.com>;
+"interest.a4@deals.aliexpress.com" <interest.a4@deals.aliexpress.com>;
+"interest.a4@mail.aliexpress.com" <interest.a4@mail.aliexpress.com>;
+"interest.a5@deals.aliexpress.com" <interest.a5@deals.aliexpress.com>;
+"interest.a5@mail.aliexpress.com" <interest.a5@mail.aliexpress.com>;
+"interest.a6@deals.aliexpress.com" <interest.a6@deals.aliexpress.com>;
+"interest.a6@mail.aliexpress.com" <interest.a6@mail.aliexpress.com>;
+"interest.a7@deals.aliexpress.com" <interest.a7@deals.aliexpress.com>;
+"interest.a7@mail.aliexpress.com" <interest.a7@mail.aliexpress.com>;
+"interest.a8@deals.aliexpress.com" <interest.a8@deals.aliexpress.com>;
+"interest.a8@mail.aliexpress.com" <interest.a8@mail.aliexpress.com>;
+"interest.a9@deals.aliexpress.com" <interest.a9@deals.aliexpress.com>;
+"interest.a9@mail.aliexpress.com" <interest.a9@mail.aliexpress.com>;
+"promotion@aliexpress.com" <promotion@aliexpress.com>;
+"ae-trigger04.a0@deals.aliexpress.com" <ae-trigger04.a0@deals.aliexpress.com>;
+"ae-trigger04.a1@deals.aliexpress.com" <ae-trigger04.a1@deals.aliexpress.com>;
+"ae-trigger04.a2@deals.aliexpress.com" <ae-trigger04.a2@deals.aliexpress.com>;
+"ae-trigger04.a3@deals.aliexpress.com" <ae-trigger04.a3@deals.aliexpress.com>;
+"ae-trigger04.a4@deals.aliexpress.com" <ae-trigger04.a4@deals.aliexpress.com>;
+"ae-trigger04.a5@deals.aliexpress.com" <ae-trigger04.a5@deals.aliexpress.com>;
+"ae-trigger04.a6@deals.aliexpress.com" <ae-trigger04.a6@deals.aliexpress.com>;
+"ae-trigger04.a7@deals.aliexpress.com" <ae-trigger04.a7@deals.aliexpress.com>;
+"ae-trigger04.a8@deals.aliexpress.com" <ae-trigger04.a8@deals.aliexpress.com>;
+"ae-trigger04.a9@deals.aliexpress.com" <ae-trigger04.a9@deals.aliexpress.com>;
+"informbest00.a9@deals.aliexpress.com" <informbest00.a9@deals.aliexpress.com>;
+"informbest01.a9@deals.aliexpress.com" <informbest01.a9@deals.aliexpress.com>;
+"informbest02.a9@deals.aliexpress.com" <informbest02.a9@deals.aliexpress.com>;
+"informbest03.a9@deals.aliexpress.com" <informbest03.a9@deals.aliexpress.com>;
+"informbest04.a9@deals.aliexpress.com" <informbest04.a9@deals.aliexpress.com>;
+"informbest05.a9@deals.aliexpress.com" <informbest05.a9@deals.aliexpress.com>;
+"informbest06.a9@deals.aliexpress.com" <informbest06.a9@deals.aliexpress.com>;
+"informbest07.a9@deals.aliexpress.com" <informbest07.a9@deals.aliexpress.com>;
+"informbest08.a9@deals.aliexpress.com" <informbest08.a9@deals.aliexpress.com>;
+"informbest09.a9@deals.aliexpress.com" <informbest09.a9@deals.aliexpress.com>;
+"informbest00.a5@mail.aliexpress.com" <informbest00.a5@mail.aliexpress.com>;
+"informbest01.a5@mail.aliexpress.com" <informbest01.a5@mail.aliexpress.com>;
+"informbest02.a5@mail.aliexpress.com" <informbest02.a5@mail.aliexpress.com>;
+"informbest03.a5@mail.aliexpress.com" <informbest03.a5@mail.aliexpress.com>;
+"informbest04.a5@mail.aliexpress.com" <informbest04.a5@mail.aliexpress.com>;
+"informbest05.a5@mail.aliexpress.com" <informbest05.a5@mail.aliexpress.com>;
+"informbest06.a5@mail.aliexpress.com" <informbest06.a5@mail.aliexpress.com>;
+"informbest07.a5@mail.aliexpress.com" <informbest07.a5@mail.aliexpress.com>;
+"informbest08.a5@mail.aliexpress.com" <informbest08.a5@mail.aliexpress.com>;
+"informbest09.a5@mail.aliexpress.com" <informbest09.a5@mail.aliexpress.com>;
+"best-notice00.a0@mail.aliexpress.com" <best-notice00.a0@mail.aliexpress.com>;
+"best-notice01.a0@mail.aliexpress.com" <best-notice01.a0@mail.aliexpress.com>;
+"best-notice02.a0@mail.aliexpress.com" <best-notice02.a0@mail.aliexpress.com>;
+"best-notice03.a0@mail.aliexpress.com" <best-notice03.a0@mail.aliexpress.com>;
+"best-notice04.a0@mail.aliexpress.com" <best-notice04.a0@mail.aliexpress.com>;
+"best-notice05.a0@mail.aliexpress.com" <best-notice05.a0@mail.aliexpress.com>;
+"best-notice06.a0@mail.aliexpress.com" <best-notice06.a0@mail.aliexpress.com>;
+"best-notice07.a0@mail.aliexpress.com" <best-notice07.a0@mail.aliexpress.com>;
+"best-notice08.a0@mail.aliexpress.com" <best-notice08.a0@mail.aliexpress.com>;
+"best-notice09.a0@mail.aliexpress.com" <best-notice09.a0@mail.aliexpress.com>;
+"best-notice00.a0@deals.aliexpress.com" <best-notice00.a0@deals.aliexpress.com>;
+"best-notice01.a0@deals.aliexpress.com" <best-notice01.a0@deals.aliexpress.com>;
+"best-notice02.a0@deals.aliexpress.com" <best-notice02.a0@deals.aliexpress.com>;
+"best-notice03.a0@deals.aliexpress.com" <best-notice03.a0@deals.aliexpress.com>;
+"best-notice04.a0@deals.aliexpress.com" <best-notice04.a0@deals.aliexpress.com>;
+"best-notice05.a0@deals.aliexpress.com" <best-notice05.a0@deals.aliexpress.com>;
+"best-notice06.a0@deals.aliexpress.com" <best-notice06.a0@deals.aliexpress.com>;
+"best-notice07.a0@deals.aliexpress.com" <best-notice07.a0@deals.aliexpress.com>;
+"best-notice08.a0@deals.aliexpress.com" <best-notice08.a0@deals.aliexpress.com>;
+"best-notice09.a0@deals.aliexpress.com" <best-notice09.a0@deals.aliexpress.com>;
+"sales08.g@mail.aliexpress.com" <sales08.g@mail.aliexpress.com>;
+"AliExpress" <ae-market00.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market01.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market02.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market03.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market04.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market05.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market06.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market07.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market08.a0@deals.aliexpress.com>;
+"AliExpress" <ae-market09.a0@deals.aliexpress.com>;
