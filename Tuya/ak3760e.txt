@@ -1,0 +1,5 @@
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/ak3760e_0.0.16.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/ak3760e_0.0.17.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/ak3760e_0.0.18.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/ak3760e_0.0.19.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/ak3760e_0.0.20.zip
