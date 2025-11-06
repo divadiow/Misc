@@ -39,3 +39,7 @@ https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/T5_0.0.50.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/T5_0.0.51.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/T5_0.0.52.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/T5_0.0.53.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/T5_0.0.54.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/T5_0.0.56.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/T5_0.0.57.zip
