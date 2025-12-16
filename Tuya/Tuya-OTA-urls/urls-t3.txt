@@ -1,0 +1,10 @@
+oem_t3_plug
+0.1.5
+2025-08-12 1754979243
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1754979243-oem_t3_plug_UG_0.1.5.bin
+
+oem_t3_light
+1.0.9
+2025-08 1754041841
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1754041841-oem_t3_light_ty_UG_1.0.9.bin
+

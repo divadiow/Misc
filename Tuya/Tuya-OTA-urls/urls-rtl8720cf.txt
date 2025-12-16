@@ -1,0 +1,95 @@
+oem_rtl8720cf_light_ty
+1.1.12
+2022-01-19 1642571122
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202201/1642571122-oem_rtl8720cf_light_ty_UG_1.1.12.bin
+
+oem_rtl8720cf_rnd_switch
+1.1.0
+2021-08-27 1630062783
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202108/1630062783-oem_rtl8720cf_rnd_switch_UG_1.1.0.bin
+
+oem_rtl8720cf_rnd_switch
+1.1.1
+2023-01-06 1672970580
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202301/1672970580-oem_rtl8720cf_rnd_switch_UG_1.1.1.bin
+
+rtl8720cf_common_user_config_ty
+2.5.0
+2021-04-30 1619763491
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202104/1619763491-rtl8720cf_common_user_config_ty_UG_2.5.0.bin
+
+rtl8720cf_common_user_config_ty
+2.5.2
+2021-06-24 1624532535
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202106/1624532535-rtl8720cf_common_user_config_ty_UG_2.5.2.bin
+
+rtl8720cf_common_tcl_air_ty
+1.0.12
+2023-10-24 1698129223
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202310/1698129223-rtl8720cf_common_tcl_air_ty_UG_1.0.12.bin
+
+rtl8720cf_common_tcl_air_ty
+1.0.2
+2022-12-30 1672392822
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202212/1672392822-rtl8720cf_common_tcl_air_ty_UG_1.0.2.bin
+
+rtl8720cf_common_user_config_ty
+2.7.7
+2023-11-20 1700461905
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202311/1700461905-rtl8720cf_common_user_config_ty_UG_2.7.7.bin
+
+rtl8720cf_common_user_config_ty
+2.7.29
+2025-07-11 1752227353
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202507/1752227353-rtl8720cf_common_user_config_ty_UG_2.7.29.bin
+
+rtl8720cf_common_user_config_ty
+3.1.23
+2024-11-08 1731044096
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202411/1731044096-rtl8720cf_common_user_config_ty_UG_3.1.23.bin
+
+rtl8720cf_common_user_config_ty
+3.1.69
+2025-07-04 1751625085
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202507/1751625085-rtl8720cf_common_user_config_ty_UG_3.1.69.bin
+
+rtl8720cf_common_user_config_ty
+2.6.22
+2023-05-23 1684829201
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202305/1684829201-rtl8720cf_common_user_config_ty_UG_2.6.22.bin
+
+rtl8720cf_common_user_config_ty
+2.1.6
+2020-07-29 1595997453
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1595997453-rtl8720cf_common_user_config_ty_UG_2.1.6.bin
+
+rtl8720cf_common_user_config_ty
+2.1.6
+2020-07-29 1596011235
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1596011235-rtl8720cf_common_user_config_ty_UG_2.1.6.bin
+
+oem_rtl8720cf_light_ty
+1.1.2
+2020-07-22 1595399799
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1595399799-oem_rtl8720cf_light_ty_UG_1.1.2.bin
+
+oem_rtl8720cf_light_ty
+1.1.2
+2020-07-23 1595472215
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1595472215-oem_rtl8720cf_light_ty_UG_1.1.2.bin
+
+oem_rtl8720cf_light_ty
+1.1.2
+2020-07-23 1595472251
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1595472251-oem_rtl8720cf_light_ty_UG_1.1.2.bin
+
+oem_rtl8720cf_light_ty
+1.1.2
+2020-07-23 1595472927
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1595472927-oem_rtl8720cf_light_ty_UG_1.1.2.bin
+
+oem_rtl8720cf_light_ty
+1.1.2
+2020-07-23 1595491759
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1595491759-oem_rtl8720cf_light_ty_UG_1.1.2.bin
+

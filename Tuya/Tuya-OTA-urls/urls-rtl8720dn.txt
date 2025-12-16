@@ -1,0 +1,5 @@
+oem_rtl8720dn_plug
+1.0.16
+2025-03-12 1741784264
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202503/1741784264-oem_rtl8720dn_plug_UG_1.0.16.bin
+

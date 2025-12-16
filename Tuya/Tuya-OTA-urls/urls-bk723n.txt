@@ -1,0 +1,255 @@
+oem_bk7231n_light_ty
+1.5.29
+2023-07-31 1690798744
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202307/1690798744-oem_bk7231n_light_ty_UG_1.5.29.bin
+
+oem_bk7231n_light_ty
+1.5.32
+2023-09-14 1694684089
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202309/1694684089-oem_bk7231n_light_ty_UG_1.5.32.bin
+
+oem_bk7231n_slide_strip_ty
+1.1.8
+2023-12-18 1702871456
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202312/1702871456-oem_bk7231n_slide_strip_ty_UG_1.1.8.bin
+
+oem_bk7231n_slide_strip_ty
+1.1.14
+2024-03-18 1710755465
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202403/1710755465-oem_bk7231n_slide_strip_ty_UG_1.1.14.bin
+
+oem_bk7231n_strip_ty
+2.0.19
+2022-11-24 1669259708
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202211/1669259708-oem_bk7231n_strip_ty_UG_2.0.19.bin
+
+oem_bk7231n_strip_ty
+2.0.21
+2022-12-06 1670294979
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202212/1670294979-oem_bk7231n_strip_ty_UG_2.0.21.bin
+
+oem_bk7231n_strip_ty
+2.0.25
+2023-09-14 1694674844
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202309/1694674844-oem_bk7231n_strip_ty_UG_2.0.25.bin
+
+bk7231n_common_user_config_ty
+2.1.17
+2023-11-20 1700475426
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202311/1700475426-bk7231n_common_user_config_ty_UG_2.1.17.bin
+
+bk7231n_lowpower_common_ty
+2.1.8
+2023-09-14 1694657732
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202309/1694657732-bk7231n_lowpower_common_ty_UG_2.1.8.bin
+
+bk7231n_common_user_config_ty
+2.1.15
+2023-10-31 1698744955
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202310/1698744955-bk7231n_common_user_config_ty_UG_2.1.15.bin
+
+oem_bk7231n_light_ty
+1.5.40
+2024-06-19 1718775550
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202406/1718775550-oem_bk7231n_light_ty_UG_1.5.40.bin
+
+bk7231n_common_user_config_ty
+3.1.17
+2024-07-09 1720505295
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202407/1720505295-bk7231n_common_user_config_ty_UG_3.1.17.bin
+
+oem_bk7231n_light_ty_v2
+1.0.22
+2024-09-02 1725263296
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202409/1725263296-oem_bk7231n_light_ty_v2_UG_1.0.22.bin
+
+pc471
+1.0.10
+2024-09-10 1725960614
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15916030109112qja/17259606148e48f46b0ad.bin
+
+oem_bk7231n_light_ty_v2
+1.1.8
+2024-11-21 1732157633
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202411/1732157633-oem_bk7231n_light_ty_v2_UG_1.1.8.bin
+
+oem_bk7231n_light_matter_customized_ty
+1.0.0
+2023-10-26 1698309624
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202310/1698309624-oem_bk7231n_light_matter_customized_ty_UG_1.0.0.bin
+
+oem_bk7231n_slide_strip_ty
+1.1.16
+2024-04-25 1714020346
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202404/1714020346-oem_bk7231n_slide_strip_ty_UG_1.1.16.bin
+
+oem_bk7231n_light_ty
+1.3.20
+2021-11-09 1636458423
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202111/1636458423-oem_bk7231n_light_ty_UG_1.3.20.bin
+
+oem_bk7231n_slide_strip_ty
+1.2.12
+2024-11-13 1731467079
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202411/1731467079-oem_bk7231n_slide_strip_ty_UG_1.2.12.bin
+
+oem_bk7231n_strip_ty
+2.0.28
+2024-06-14 1718350176
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202406/1718350176-oem_bk7231n_strip_ty_UG_2.0.28.bin
+
+bk7231n_common_user_config_ty
+2.0.3
+2021-10-28 1635423765
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202110/1635423765-bk7231n_common_user_config_ty_UG_2.0.3.bin
+
+bk7231n_common_user_config_ty
+3.1.28
+2024-11-25 1732516902
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202411/1732516902-bk7231n_common_user_config_ty_UG_3.1.28.bin
+
+oem_bk7231n_light_ty
+1.6.0
+2024-12-18 1734491566
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202412/1734491566-oem_bk7231n_light_ty_UG_1.6.0.bin
+
+bk7231N_wxml_G6L_lp
+1.0.8
+2022-01-14 1642124046
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1611546397476F4rH/1642124046dcdd7e845f1.bin
+
+oem_bk7231n_smart_ir_rf_pro_ty
+2.0.15
+2024-07-23 1721729226
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202407/1721729226-oem_bk7231n_smart_ir_rf_pro_ty_UG_2.0.15.bin
+
+oem_bk7231n_colorful_ceiling_light_ty
+1.0.6
+2024-04-16 1713239150
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202404/1713239150-oem_bk7231n_colorful_ceiling_light_ty_UG_1.0.6.bin
+
+oem_bk7231n_colorful_ceiling_light_ty
+1.0.8
+2024-08-29 1724921057
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202408/1724921057-oem_bk7231n_colorful_ceiling_light_ty_UG_1.0.8.bin
+
+bk7231n_lowpower_common_ty
+2.1.12
+2024-09-05 1725526072
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202409/1725526072-bk7231n_lowpower_common_ty_UG_2.1.12.bin
+
+oem_bk7231n_light_ty_v2
+1.0.4
+2024-07-30 1722345480
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202407/1722345480-oem_bk7231n_light_ty_v2_UG_1.0.4.bin
+
+oem_bk7231n_slide_strip_ty
+1.3.1
+2025-01-21 1737453813
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202501/1737453813-oem_bk7231n_slide_strip_ty_UG_1.3.1.bin
+
+oem_bk7231n_light_atomi
+1.0.13
+2023-04-12 1681296206
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202304/1681296206-oem_bk7231n_light_atomi_UG_1.0.13.bin
+
+oem_bk7231n_dctrl_switch
+1.3.7
+2025-01-13 1736760984
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202501/1736760984-oem_bk7231n_dctrl_switch_UG_1.3.7.bin
+
+oem_bk7231n_light5_hailai
+1.0.2
+2021-12-09 1639031749
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202112/1639031749-oem_bk7231n_light5_hailai_UG_1.0.2.bin
+
+oem_bk7231n_light5_hailai
+1.0.0
+2021-11-10 1636518294
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202111/1636518294-oem_bk7231n_light5_hailai_UG_1.0.0.bin
+
+oem_bk7231n_control_switch
+1.4.0
+2025-02-08 1739005504
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202502/1739005504-oem_bk7231n_control_switch_UG_1.4.0.bin
+
+bk7231n_common_user_config_ty
+3.1.16
+2024-07-02 1719915983
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202407/1719915983-bk7231n_common_user_config_ty_UG_3.1.16.bin
+
+oem_bk7231n_light_ty_v2
+1.1.10
+2025-04-17 1744874954
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1744874954-oem_bk7231n_light_ty_v2_UG_1.1.10.bin
+
+oem_bk7231n_light_ty
+1.6.3
+2025-05-22 1747904545
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202505/1747904545-oem_bk7231n_light_ty_UG_1.6.3.bin
+
+dy_sm_400a_cbu
+1.0.13
+2024-09-28 1727485451
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565138036928sSi0S/17274854512091bb351d9.bin
+
+oem_bk7231n_cutout_self_switch
+1.0.18
+2023-06-02 1685703418
+http://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/202306/1685703418-oem_bk7231n_cutout_self_switch_UG_1.0.18.bin
+
+oem_bk7231n_light_ty_v2
+1.1.13
+2025-05-28 1748398437
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202505/1748398437-oem_bk7231n_light_ty_v2_UG_1.1.13.bin
+
+oem_bk7231n_cutout_self_switch
+1.0.18
+2023-06-02 1685703418
+http://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/202306/1685703418-oem_bk7231n_cutout_self_switch_UG_1.0.18.bin
+
+oem_bk7231n_dctrl_switch
+1.3.9
+2025-08-22 1755855672
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1755855672-oem_bk7231n_dctrl_switch_UG_1.3.9.bin
+
+oem_bk7231n_plug
+1.2.5
+2025-08-20 1755676470
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1755676470-oem_bk7231n_plug_UG_1.2.5.bin
+
+bk7231n_common_user_config_ty
+3.1.42
+2025-07-29 1753791059
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202507/1753791059-bk7231n_common_user_config_ty_UG_3.1.42.bin
+
+oem_bk7231n_plug
+1.2.3
+2025-01-22 1737517845
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202501/1737517845-oem_bk7231n_plug_UG_1.2.3.bin
+
+oem_bk7231n_remotic_ir_ctr_ty
+1.2.0
+2023-02-10 1676019370
+http://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/202302/1676019370-oem_bk7231n_remotic_ir_ctr_ty_UG_1.2.0.bin
+
+tuyaos_ele_energy_outlet
+2.0.4
+2023-11-27 1701052892
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1665546037940uvow/1701052892f84eb5afa6f.bin
+
+oem_bk7231n_slide_strip_ty
+1.0.0
+2021-03-22 1616424774
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1616424774-oem_bk7231n_slide_strip_ty_UG_1.0.0.bin
+
+oem_bk7231n_plug
+1.1.6
+2021-07-27 1627377093
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202107/1627377093-oem_bk7231n_plug_UG_1.1.6.bin
+
+oem_bk7231n_slide_strip_ty
+1.3.3
+2025-09-11 1757561483
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202509/1757561483-oem_bk7231n_slide_strip_ty_UG_1.3.3.bin
+
