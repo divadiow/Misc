@@ -1,0 +1,6 @@
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1574047100-TC0025_TW02_PLUG_L1_P0_ug_1.4.0.bin
+
+
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1598347665-TC0364_W600_STRIP3_IRRGB_P0_ug_1.4.6.bin
+
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1573713015-TC0084_TW03_PLUG_DLTJL2_P0_ug_1.4.2.bin

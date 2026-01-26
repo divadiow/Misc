@@ -1,0 +1,3 @@
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202101/1609819098-tr6260_smart_outlet_wf_en_user_ug_2.1.3.bin
+
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202101/1609987170-SXY_RGB01_ug_1.0.1.bin
