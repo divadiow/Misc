@@ -23,65 +23,20 @@ oem_t1_light_ty
 2024-12-16 1734352699
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202412/1734352699-oem_t1_light_ty_UG_1.0.17.bin
 
-oem_t1_light_ty
-1.0.21
-2025-03-14 1741962181
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202503/1741962181-oem_t1_light_ty_UG_1.0.21.bin
-
-oem_t1_light_ty
-1.0.23
-2025-04-27 1745740252
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1745740252-oem_t1_light_ty_UG_1.0.23.bin
-
-oem_t1_light_ty
-1.0.43
-2025-07-17 1752735681
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202507/1752735681-oem_t1_light_ty_UG_1.0.43.bin
-
-oem_t1_plug
-1.0.0
-2025-04-03 1743666651
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1743666651-oem_t1_plug_UG_1.0.0.bin
-
-oem_t1_plug
-1.0.2
-2025-04-11 1744368456
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1744368456-oem_t1_plug_UG_1.0.2.bin
-
 oem_t1_irbox_mol_ty
 0.0.5
 2025-02-25 1740489808
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202502/1740489808-oem_t1_irbox_mol_ty_UG_0.0.5.bin
-
-oem_t1_irbox_mol_ty
-1.0.2
-2025-06-30 1751290801
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202506/1751290801-oem_t1_irbox_mol_ty_UG_1.0.2.bin
 
 t1_common_user_config_ty
 3.0.22
 2025-03-05 1741176622
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202503/1741176622-t1_common_user_config_ty_UG_3.0.22.bin
 
-oem_t1_irbox_mol_ty
-1.1.1
-2025-09-25 1758765247
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202509/1758765247-oem_t1_irbox_mol_ty_UG_1.1.1.bin
-
-oem_t1_slide_strip_ty
-1.0.6
-2025-08-06 1754447626
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1754447626-oem_t1_slide_strip_ty_UG_1.0.6.bin
-
-oem_t1_slide_strip_ty
-1.0.2
-2025-04-17 1744866338
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1744866338-oem_t1_slide_strip_ty_UG_1.0.2.bin
-
-oem_t1_slide_strip_ty
-1.0.0
-2025-04-08 1744083523
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1744083523-oem_t1_slide_strip_ty_UG_1.0.0.bin
+oem_t1_light_ty
+1.0.21
+2025-03-14 1741962181
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202503/1741962181-oem_t1_light_ty_UG_1.0.21.bin
 
 oem_t1_slide_strip_ty
 0.0.8
@@ -89,7 +44,72 @@ oem_t1_slide_strip_ty
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202503/1742198217-oem_t1_slide_strip_ty_UG_0.0.8.bin
 
 oem_t1_plug
+1.0.0
+2025-04-03 1743666651
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1743666651-oem_t1_plug_UG_1.0.0.bin
+
+oem_t1_slide_strip_ty
+1.0.0
+2025-04-08 1744083523
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1744083523-oem_t1_slide_strip_ty_UG_1.0.0.bin
+
+oem_t1_plug
+1.0.2
+2025-04-11 1744368456
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1744368456-oem_t1_plug_UG_1.0.2.bin
+
+oem_t1_slide_strip_ty
+1.0.2
+2025-04-17 1744866338
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1744866338-oem_t1_slide_strip_ty_UG_1.0.2.bin
+
+oem_t1_switch
+1.1.4
+2025-04-23 1745391446
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1745391446-oem_t1_switch_UG_1.1.4.bin
+
+oem_t1_light_ty
+1.0.23
+2025-04-27 1745740252
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202504/1745740252-oem_t1_light_ty_UG_1.0.23.bin
+
+oem_t1_switch
+1.1.9
+2025-06-25 1750836266
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202506/1750836266-oem_t1_switch_UG_1.1.9.bin
+
+oem_t1_irbox_mol_ty
+1.0.2
+2025-06-30 1751290801
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202506/1751290801-oem_t1_irbox_mol_ty_UG_1.0.2.bin
+
+oem_t1_light_ty
+1.0.43
+2025-07-17 1752735681
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202507/1752735681-oem_t1_light_ty_UG_1.0.43.bin
+
+oem_t1_slide_strip_ty
+1.0.6
+2025-08-06 1754447626
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1754447626-oem_t1_slide_strip_ty_UG_1.0.6.bin
+
+oem_t1_irbox_mol_ty
+1.1.1
+2025-09-25 1758765247
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202509/1758765247-oem_t1_irbox_mol_ty_UG_1.1.1.bin
+
+oem_t1_plug
 1.1.4
 2025-11-05 1762307535
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202511/1762307535-oem_t1_plug_UG_1.1.4.bin
+
+oem_t1_light_ty
+1.0.51
+2025-12-08 1765195382
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202512/1765195382-oem_t1_light_ty_UG_1.0.51.bin
+
+oem_t1_switch
+1.2.3
+2026-01-16 1768572393
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202601/1768572393-oem_t1_switch_UG_1.2.3.bin
 

@@ -5,4 +5,6 @@ http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202
 
 oem_rtl8720cm_gw_plug
 1.13.1
-https://images.tuyaeu.com/smart/firmware/upgrade/20230712/1689163405-oem_rtl8720cm_gw_plug_UG_1.13.1.bin
+2023-07-12 1689156867
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20230712/1689156867-oem_rtl8720cm_gw_plug_UG_1.13.1.bin
+

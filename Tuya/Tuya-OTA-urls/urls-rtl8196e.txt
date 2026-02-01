@@ -1,0 +1,5 @@
+tuya_rtl8196e_gw_tar
+1.3.13
+2020-06-18 1592465280
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202006/1592465280-tuya_rtl8196e_gw_tar_UG_1.3.13.bin
+

@@ -1,0 +1,15 @@
+ecr6600_common_singlefire_dimmer_user_config_ty
+0.0.20
+2024-01-10 1704848332
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202401/1704848332-ecr6600_common_singlefire_dimmer_user_config_ty_UG_0.0.20.bin
+
+oem_ecr6600_elp_common_plug
+0.1.0
+2024-01-10 1704851547
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202401/1704851547-oem_ecr6600_elp_common_plug_UG_0.1.0.bin
+
+ecr6600_common_user_config_ty
+1.2.0
+2023-06-02 1685672138
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202306/1685672138-ecr6600_common_user_config_ty_UG_1.2.0.bin
+

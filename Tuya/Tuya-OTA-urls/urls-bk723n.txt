@@ -253,3 +253,13 @@ oem_bk7231n_slide_strip_ty
 2025-09-11 1757561483
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202509/1757561483-oem_bk7231n_slide_strip_ty_UG_1.3.3.bin
 
+bk7231n_common_user_config_ty
+1.0.1
+2021-03-01 1614610620
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1614610620-bk7231n_common_user_config_ty_UG_1.0.1.bin
+
+bk7231n_common_user_config_ty
+1.0.0
+2021-02-23 1614078136
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202102/1614078136-bk7231n_common_user_config_ty_UG_1.0.0.bin
+

@@ -1,32 +1,22 @@
-rtlbn_rgbcw_keymenctfd4sd3yq
-1.0.7
-2020-11-17 1605618620
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202011/1605618620-rtlbn_rgbcw_keymenctfd4sd3yq_ug_1.0.7.bin
-
-oem_rtlbn_5_plug_bl0937_random_inch_tuoye_17A
-1.1.1
-2020-12-11 1607654849
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202012/1607654849-oem_rtlbn_5_plug_bl0937_random_inch_tuoye_17A_ug_1.1.1.bin
-
-oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B
-1.0.0
-2020-02-29 1582959283
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202002/1582959283-oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B_ug_1.0.0.bin
-
-oem_rtlbn_plug_bl0937_random_maijia
-1.0.5
-2020-03-30 1585560211
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202003/1585560211-oem_rtlbn_plug_bl0937_random_maijia_ug_1.0.5.bin
-
-oem_rtlbn_dltj_2M
-1.0.4
-2019-07-23 1563871788
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1563871788-oem_rtlbn_dltj_2M_ug_1.0.4.bin
+rtlbn_tls_common_9600
+1.0.2
+2019-03-05 1551768793
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201903/1551768793-rtlbn_tls_common_9600_ug_1.0.2.bin
 
 rtlbn_tls_common_9600
 1.0.3
 2019-06-21 1561106901
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1561106901-rtlbn_tls_common_9600_ug_1.0.3.bin
+
+oem_rtlbn_yr_1_plug_simple
+1.0.3
+2019-07-11 1562817293
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1562817293-oem_rtlbn_yr_1_plug_simple_ug_1.0.3.bin
+
+oem_rtlbn_dltj_2M
+1.0.4
+2019-07-23 1563871788
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1563871788-oem_rtlbn_dltj_2M_ug_1.0.4.bin
 
 rtlbn_tls_common_9600
 1.0.5
@@ -38,28 +28,38 @@ rtlbn_tls_common_115200
 2019-11-05 1572921986
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1572921986-rtlbn_tls_common_115200_ug_1.0.5.bin
 
-rtlbn_tls_common_9600
-1.0.2
-2019-03-05 1551768793
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201903/1551768793-rtlbn_tls_common_9600_ug_1.0.2.bin
+oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B
+1.0.0
+2020-02-29 1582959283
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202002/1582959283-oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B_ug_1.0.0.bin
 
-oem_rtlbn_yr_1_plug_simple
-1.1.2
-2021-04-21 1619005397
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210421/1619005397-oem_rtlbn_yr_1_plug_simple_ug_1.1.2.bin
+oem_rtlbn_plug_bl0937_random_maijia
+1.0.5
+2020-03-30 1585560211
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202003/1585560211-oem_rtlbn_plug_bl0937_random_maijia_ug_1.0.5.bin
+
+rtlbn_rgbcw_keymenctfd4sd3yq
+1.0.7
+2020-11-17 1605618620
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202011/1605618620-rtlbn_rgbcw_keymenctfd4sd3yq_ug_1.0.7.bin
+
+oem_rtlbn_5_plug_bl0937_random_inch_tuoye_17A
+1.1.1
+2020-12-11 1607654849
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202012/1607654849-oem_rtlbn_5_plug_bl0937_random_inch_tuoye_17A_ug_1.1.1.bin
 
 oem_rtlbn_dltj_2M
 1.1.6
 2021-04-20 1618903528
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210420/1618903528-oem_rtlbn_dltj_2M_ug_1.1.6.bin
 
+oem_rtlbn_yr_1_plug_simple
+1.1.2
+2021-04-21 1619005397
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210421/1619005397-oem_rtlbn_yr_1_plug_simple_ug_1.1.2.bin
+
 rtlbn_light_hc_base_htfgah4ycr6yqmay
 1.0.3
 2021-06-05 1622869993
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210605/1622869993-rtlbn_light_hc_base_htfgah4ycr6yqmay_ug_1.0.3.bin
-
-oem_rtlbn_yr_1_plug_simple
-1.0.3
-2019-07-11 1562817293
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1562817293-oem_rtlbn_yr_1_plug_simple_ug_1.0.3.bin
 
