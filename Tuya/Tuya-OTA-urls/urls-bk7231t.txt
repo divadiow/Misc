@@ -108,3 +108,5 @@ oem_bk7231s_switch1_zero_kjd
 2023-03-24 1679650241
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202303/1679650241-oem_bk7231s_switch1_zero_kjd_UG_1.1.14.bin
 
+https://images.tuyaus.com/smart/firmware/upgrade/202107/1626078774-oem_bk7231s_light_ty_yb_UG_3.0.1.bin
+https://images.tuyaus.com/smart/firmware/upgrade/202107/1626070894-oem_bk7231s_light_ug_3.0.1.bin 

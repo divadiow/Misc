@@ -1,0 +1,3 @@
+https://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/20240625/1719302262-oem_tl8258_zg_breaker_OTA_1.0.10.bin
+https://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/20240613/1718263020-oem_zg_tl8258_plug_OTA_1.1.0.bin
+https://images.tuyaeu.com/smart/firmware/upgrade/20220907/1662545193-oem_zg_tl8258_plug_OTA_3.0.0.bin
