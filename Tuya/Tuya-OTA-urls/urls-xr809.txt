@@ -1,0 +1,3 @@
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202009/1601221058-oem_xr809_gate_magnet_ug_1.0.6.bin
+
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202010/1602598570-oem_xr809_pir_tuya_ug_1.0.4.bin
