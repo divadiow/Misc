@@ -40,16 +40,16 @@ jobs:
       - name: Package APK and XAPK
         run: |
           mkdir -p dist
-          cp app/build/outputs/apk/debug/app-debug.apk dist/HotspotDevices-v1.0.0.apk
+          cp app/build/outputs/apk/debug/app-debug.apk dist/HotspotDevices-v1.0.1.apk
           python3 scripts/make_xapk.py
-          sha256sum dist/HotspotDevices-v1.0.0.apk dist/HotspotDevices-v1.0.0.xapk > dist/SHA256SUMS.txt
+          sha256sum dist/HotspotDevices-v1.0.1.apk dist/HotspotDevices-v1.0.1.xapk > dist/SHA256SUMS.txt
 
       - name: Upload installables
         uses: actions/upload-artifact@v4
         with:
-          name: HotspotDevices-v1.0.0
+          name: HotspotDevices-v1.0.1
           path: |
-            dist/HotspotDevices-v1.0.0.apk
-            dist/HotspotDevices-v1.0.0.xapk
+            dist/HotspotDevices-v1.0.1.apk
+            dist/HotspotDevices-v1.0.1.xapk
             dist/SHA256SUMS.txt
           if-no-files-found: error
