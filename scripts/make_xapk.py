@@ -8,10 +8,10 @@ from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
 dist = root / "dist"
-apk = dist / "HotspotDevices-v1.0.0.apk"
+apk = dist / "HotspotDevices-v1.0.1.apk"
 package_apk = dist / "uk.co.divadiow.hotspotdevices.apk"
 icon = dist / "icon.png"
-xapk = dist / "HotspotDevices-v1.0.0.xapk"
+xapk = dist / "HotspotDevices-v1.0.1.xapk"
 
 
 def png_chunk(kind: bytes, data: bytes) -> bytes:
@@ -61,8 +61,8 @@ manifest = {
     "xapk_version": 2,
     "package_name": "uk.co.divadiow.hotspotdevices",
     "name": "Hotspot Devices",
-    "version_code": "1",
-    "version_name": "1.0.0",
+    "version_code": "2",
+    "version_name": "1.0.1",
     "min_sdk_version": "26",
     "target_sdk_version": "36",
     "permissions": [
