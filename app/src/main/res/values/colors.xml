@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#0B0F14</color>
+    <color name="card_background">#151B23</color>
+    <color name="card_border">#263241</color>
+    <color name="accent">#4FA3FF</color>
+    <color name="accent_dark">#1674D1</color>
+    <color name="text_primary">#F2F6FA</color>
+    <color name="text_secondary">#9FB0C2</color>
+    <color name="success">#62D394</color>
+    <color name="warning">#FFCE73</color>
+    <color name="danger">#FF7A7A</color>
+</resources>
