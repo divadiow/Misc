@@ -263,3 +263,4 @@ bk7231n_common_user_config_ty
 2021-02-23 1614078136
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202102/1614078136-bk7231n_common_user_config_ty_UG_1.0.0.bin
 
+https://images.tuyaeu.com/smart/firmware/upgrade/20240819/1724060566-oem_bk7231n_plug_UG_1.1.23.bin
