@@ -27,3 +27,8 @@ schneider_wiser_puck
 2.12.2
 2023-05-31 1685506296
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16855062966c6d846535c.zigbee
+
+schneider_wiser_fan_controller
+2.2.3
+2024-05-15 1715765258
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1583203554957GRnf/17157652587e6ae8afffa.zigbee

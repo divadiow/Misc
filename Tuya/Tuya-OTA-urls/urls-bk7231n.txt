@@ -292,3 +292,28 @@ ebit_wifi_water_timer
 1.0.8
 2025-07-10 1752137823
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1718672327362Llhs/17521378235a3dbe6064c.bin
+
+smartplug
+1.0.18
+2022-04-13 1649833521
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1541558493284HeY6j/1649833521903bbbd2c81.bin
+
+oem_bk7231n_light3_string_jt
+1.0.9
+2022-08-03 1659495162
+https://images.tuyaeu.com/smart/firmware/upgrade/202208/1659495162-oem_bk7231n_light3_string_jt_UG_1.0.9.bin
+
+AW301_UI_CB3S2
+1.1.0
+2022-09-13 1663062358
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1562583874631k02Aw/16630623585fb3cd6162b.bin
+
+qh_blissLights_pro
+1.1.0
+2023-01-31 1675146014
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511247606425okNQ1/167514601459cc2c2bf16.bin
+
+ua_app
+1.0.12
+2023-05-19 1684463361
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1647953792714cncK/1684463361f3acf6210e5.bin
