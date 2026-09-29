@@ -117,3 +117,8 @@ oem_bk7231s_light
 3.0.1
 2021-07-12 1626070894
 https://images.tuyaus.com/smart/firmware/upgrade/202107/1626070894-oem_bk7231s_light_ug_3.0.1.bin
+
+JB_DREAM_RGB_STRIP_ONEKEY
+1.2.4
+2021-12-11 1639194387
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1597022670130iZEz/1639194387e6fbf15c724.bin

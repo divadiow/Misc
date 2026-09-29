@@ -12,3 +12,13 @@ xr806_lowpower_common_ty
 1.1.4
 2024-08-02 1722582138
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202408/1722582138-xr806_lowpower_common_ty_UG_1.1.4.bin
+
+water_valve_so
+1.0.7
+2025-05-15 1747307879
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1699598085872fwbO/1747307879b29983f7f86.bin
+
+water_valve_so
+1.0.9
+2025-09-12 1757679814
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1699598085872fwbO/17576798148e355fb6814.bin
