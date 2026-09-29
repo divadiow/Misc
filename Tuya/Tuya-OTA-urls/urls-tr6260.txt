@@ -7,4 +7,3 @@ SXY_RGB01
 1.0.1
 2021-01-07 1609987170
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202101/1609987170-SXY_RGB01_ug_1.0.1.bin
-

@@ -122,3 +122,8 @@ oem_rtl8720cf_light2_oem_airam
 1.3.1
 2022-06-15 1655276242
 https://images.tuyaeu.com/smart/firmware/upgrade/202206/1655276242-oem_rtl8720cf_light2_oem_airam_UG_1.3.1.bin
+
+cuco_plug_po02_rtl_common
+1.2.1
+2025-01-07 1736233489
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1517974017716dABhC/1736233489edc3c49fef4.bin

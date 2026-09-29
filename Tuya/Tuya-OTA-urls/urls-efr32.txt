@@ -1,0 +1,29 @@
+schneider_wiser_chameleon_dimmer
+2.3.7
+2021-05-31 1622438235
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/1622438235e5764b7a861.zigbee
+
+schneider_wiser_chameleon_switch_10ax
+2.10.8
+2023-03-07 1678182210
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16781822109542aac900a.zigbee
+
+schneider_wiser_chameleon_switch_2ax
+2.5.9
+2023-03-10 1678411825
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/1678411825b98a1530a8c.zigbee
+
+schneider_wiser_fan_controller
+2.2.1
+2023-04-20 1681962924
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16819629247ee0445a5f4.zigbee
+
+schneider_wiser_dual_socket
+1.1.10
+2023-05-19 1684482376
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16844823767736d4b2cbc.ota
+
+schneider_wiser_puck
+2.12.2
+2023-05-31 1685506296
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16855062966c6d846535c.zigbee

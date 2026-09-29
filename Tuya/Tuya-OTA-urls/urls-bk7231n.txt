@@ -282,3 +282,13 @@ oem_bk7231n_plug
 1.1.23
 2024-08-19 1724060566
 https://images.tuyaeu.com/smart/firmware/upgrade/20240819/1724060566-oem_bk7231n_plug_UG_1.1.23.bin
+
+oem_bk7231n_common_KKT_config_ty
+2.1.8
+2023-03-15 1678872104
+https://images.tuyaeu.com/smart/firmware/upgrade/202303/1678872104-oem_bk7231n_common_KKT_config_ty_UG_2.1.8.bin
+
+ebit_wifi_water_timer
+1.0.8
+2025-07-10 1752137823
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1718672327362Llhs/17521378235a3dbe6064c.bin

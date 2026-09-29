@@ -1,0 +1,4 @@
+oem_bk7321_bk_1_switch
+1.1.3
+2021-11-09 1636439496
+https://images.tuyaeu.com/smart/firmware/upgrade/20211109/1636439496-oem_bk7321_bk_1_switch_UG_1.1.3.bin
