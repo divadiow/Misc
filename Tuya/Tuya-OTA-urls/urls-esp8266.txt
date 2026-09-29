@@ -193,6 +193,12 @@ oem_tuya_irbox
 2020-07-07 1594111101
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1594111101-oem_tuya_irbox_ug_TLS_2.2.3.bin
 
+farylink_soc_light_1_c_traic_rh6t58k
+1.0.2
+2019-05-28 1559028252
 https://images.tuyaeu.com/smart/firmware/upgrade/201905/1559028252-farylink_soc_light_1_c_traic_rh6t58k_ug_1.0.2.bin
 
+oem_tuya_irbox
+2.2.3
+2020-07-07 1594111101
 https://images.tuyaeu.com/smart/firmware/upgrade/202007/1594111101-oem_tuya_irbox_ug_TLS_2.2.3.bin

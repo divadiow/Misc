@@ -34,9 +34,19 @@ oem_bk7231n_strip_ty
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202309/1694674844-oem_bk7231n_strip_ty_UG_2.0.25.bin
 
 bk7231n_common_user_config_ty
+2.1.6
+2022-03-07 1646624790
+https://images.tuyaeu.com/smart/firmware/upgrade/202203/1646624790-bk7231n_common_user_config_ty_UG_2.1.6.bin
+
+bk7231n_common_user_config_ty
 2.1.17
 2023-11-20 1700475426
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202311/1700475426-bk7231n_common_user_config_ty_UG_2.1.17.bin
+
+bk7231n_common_user_config_ty
+2.1.24
+2024-07-04 1720087300
+https://images.tuyaeu.com/smart/firmware/upgrade/202407/1720087300-bk7231n_common_user_config_ty_UG_2.1.24.bin
 
 bk7231n_lowpower_common_ty
 2.1.8
@@ -107,6 +117,11 @@ bk7231n_common_user_config_ty
 3.1.28
 2024-11-25 1732516902
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202411/1732516902-bk7231n_common_user_config_ty_UG_3.1.28.bin
+
+bk7231n_common_user_config_ty
+3.1.28
+2025-01-08 1736304539
+https://images.tuyaeu.com/smart/firmware/upgrade/20250108/1736304539-bk7231n_common_user_config_ty_UG_3.1.28.bin
 
 oem_bk7231n_light_ty
 1.6.0
@@ -263,4 +278,7 @@ bk7231n_common_user_config_ty
 2021-02-23 1614078136
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202102/1614078136-bk7231n_common_user_config_ty_UG_1.0.0.bin
 
+oem_bk7231n_plug
+1.1.23
+2024-08-19 1724060566
 https://images.tuyaeu.com/smart/firmware/upgrade/20240819/1724060566-oem_bk7231n_plug_UG_1.1.23.bin
