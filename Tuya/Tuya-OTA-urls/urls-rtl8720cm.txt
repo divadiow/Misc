@@ -4,7 +4,22 @@ oem_rtl8720cm_dynamic_gateway_light_ty
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202204/1650778682-oem_rtl8720cm_dynamic_gateway_light_ty_UG_1.2.17.bin
 
 oem_rtl8720cm_gw_plug
+1.9.9
+2022-11-09 1667990073
+https://images.tuyaeu.com/smart/firmware/upgrade/20221109/1667990073-oem_rtl8720cm_gw_plug_UG_1.9.9.bin
+
+oem_rtl8720cm_gw_plug
 1.13.1
 2023-07-12 1689156867
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20230712/1689156867-oem_rtl8720cm_gw_plug_UG_1.13.1.bin
+
+oem_rtl8720cm_gw_plug
+1.13.1
+2023-07-12 1689163405
+https://images.tuyaeu.com/smart/firmware/upgrade/20230712/1689163405-oem_rtl8720cm_gw_plug_UG_1.13.1.bin
+
+oem_rtl8720cm_gw_plug
+1.19.22
+2026-01-05 1767597222
+https://images.tuyaeu.com/smart/firmware/upgrade/20260105/1767597222-oem_rtl8720cm_gw_plug_UG_1.19.22.bin
 
