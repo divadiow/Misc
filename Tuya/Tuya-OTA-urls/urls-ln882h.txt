@@ -3,7 +3,17 @@ cuco_plug_sw5b
 2025-03-15 1742027683
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1605149472695Vxa2/1742027683b313abb8468.bin
 
+Smart plug
+1.0.3
+2026-01-06 1767689250
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1652755319061JC2w/17676892505d20cb38840.bin
+
 ln_elec_plug
 1.2.0
 2026-05-06 1778030443
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15422864509092y6k8/1778030443590c506b068.bin
+
+4-433
+1.5.12
+2026-07-20 1784553398
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1782545409146GCke/178455339886425add027.bin

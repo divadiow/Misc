@@ -1,4 +1,19 @@
+oem_t3_light_ty
+1.0.9
+2025-08-01 1754041841
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1754041841-oem_t3_light_ty_UG_1.0.9.bin
+
+oem_t3_plug
+0.1.5
+2025-08-12 1754979243
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202508/1754979243-oem_t3_plug_UG_0.1.5.bin
+
 HH-VALB-LYAI-19
 1.0.5
 2026-01-19 1768811366
 https://images.tuyaeu.com/smart/firmware/upgrade/bay160585829854911MU/176881136642e152cd0c7.bin
+
+Smart Dual-Outlet Water Timer
+2.0.6
+2026-05-09 1778320472
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1699598085872fwbO/1778320472dd731ae7496.bin
