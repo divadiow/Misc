@@ -98,6 +98,11 @@ oem_t1_irbox_mol_ty
 2025-09-25 1758765247
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202509/1758765247-oem_t1_irbox_mol_ty_UG_1.1.1.bin
 
+temp_hum_sensor_t1u
+1.0.3
+2025-10-14 1760435351
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1537170211499MqxLj/1760435351cb3662cbf3d.bin
+
 oem_t1_plug
 1.1.4
 2025-11-05 1762307535
@@ -108,8 +113,23 @@ oem_t1_light_ty
 2025-12-08 1765195382
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202512/1765195382-oem_t1_light_ty_UG_1.0.51.bin
 
+qs_wifi_s10_c04_curtain
+1.1.1
+2026-01-12 1768217278
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1647842583499mtXt/1768217278a83bbbff7df.bin
+
 oem_t1_switch
 1.2.3
 2026-01-16 1768572393
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202601/1768572393-oem_t1_switch_UG_1.2.3.bin
+
+t1_common_user_config_ir_ty
+1.1.2
+2026-03-20 1773975209
+https://images.tuyaeu.com/smart/firmware/upgrade/202603/1773975209-t1_common_user_config_ir_ty_UG_1.1.2.bin
+
+th06_temp_hum
+1.8.1
+2026-07-09 1783590849
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1782545409146GCke/17835908492c788e73408.bin
 
