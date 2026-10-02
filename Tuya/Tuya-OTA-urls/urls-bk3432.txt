@@ -1,0 +1,4 @@
+tuya_ble_antilost_common_bk3432
+0.5
+2021-02-22 1613975740
+https://images.tuyaeu.com/smart/firmware/upgrade/202102/1613975740-tuya_ble_antilost_common_bk3432_0.5.bin
