@@ -1,0 +1,4 @@
+oem_phy62xx_temp_humi_lcd_fly
+2.4
+2023-03-10 1678433527
+https://images.tuyaeu.com/smart/firmware/upgrade/20230310/1678433527-oem_phy62xx_temp_humi_lcd_fly_2.4.bin
