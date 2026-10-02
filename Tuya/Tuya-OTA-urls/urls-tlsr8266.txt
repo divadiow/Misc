@@ -1,0 +1,4 @@
+tlsr_8266_mesh_wifi_adapter_common
+3.7
+2019-04-17 1555498659
+https://images.tuyaeu.com/smart/firmware/upgrade/201904/1555498659-tlsr_8266_mesh_wifi_adapter_common_3.7.bin
