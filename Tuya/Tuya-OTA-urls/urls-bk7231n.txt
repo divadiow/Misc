@@ -317,3 +317,18 @@ ua_app
 1.0.12
 2023-05-19 1684463361
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1647953792714cncK/1684463361f3acf6210e5.bin
+
+bk7231n_common_user_config_ty
+2.1.17
+2023-11-20 1700475426
+https://images.tuyaeu.com/smart/firmware/upgrade/202311/1700475426-bk7231n_common_user_config_ty_UG_2.1.17.bin
+
+bk7231n_common_user_config_ty
+3.1.17
+2024-07-09 1720505295
+https://images.tuyaeu.com/smart/firmware/upgrade/202407/1720505295-bk7231n_common_user_config_ty_UG_3.1.17.bin
+
+bk7231n_common_user_config_ty
+3.1.42
+2025-07-29 1753791059
+https://images.tuyaeu.com/smart/firmware/upgrade/202507/1753791059-bk7231n_common_user_config_ty_UG_3.1.42.bin
