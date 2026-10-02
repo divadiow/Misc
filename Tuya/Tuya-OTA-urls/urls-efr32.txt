@@ -32,3 +32,8 @@ schneider_wiser_fan_controller
 2.2.3
 2024-05-15 1715765258
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1583203554957GRnf/17157652587e6ae8afffa.zigbee
+
+tuya_g08pro_zigbee_bluetooth_gateway
+2.4.1
+2022-12-08 1670484983
+https://images.tuyaeu.com/smart/firmware/upgrade/20221208/1670484983-si32_mg21_115200_pta_665_OTA_2.4.1.bin
