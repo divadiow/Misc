@@ -1,0 +1,14 @@
+oem_tlsr8250_lightcfg_pwm_ty
+4.9
+2022-06-01 1654085033
+https://images.tuyaeu.com/smart/firmware/upgrade/20220601/1654085033-oem_tlsr8250_lightcfg_pwm_ty_4.9.bin
+
+tls_ble_common_8250
+9.23
+2023-06-02 1685696412
+https://images.tuyaeu.com/smart/firmware/upgrade/20230602/1685696412-tls_ble_common_8250_ota_9.23.bin
+
+tls_ble_common_8250_ly
+1.53
+2025-07-17 1752720574
+https://images.tuyaeu.com/smart/firmware/upgrade/20250717/1752720574-tls_ble_common_8250_ly_1.53.bin
