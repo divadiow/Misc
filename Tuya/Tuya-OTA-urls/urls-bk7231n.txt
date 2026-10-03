@@ -332,3 +332,108 @@ bk7231n_common_user_config_ty
 3.1.42
 2025-07-29 1753791059
 https://images.tuyaeu.com/smart/firmware/upgrade/202507/1753791059-bk7231n_common_user_config_ty_UG_3.1.42.bin
+
+bk7231n_lowpower_common_ty
+1.0.10
+2021-07-20 1626774799
+https://images.tuyaeu.com/smart/firmware/upgrade/202107/1626774799-bk7231n_lowpower_common_ty_UG_1.0.10.bin
+
+product_wtzndbz11uy9fjkw
+1.0.4
+2021-10-20 1634697134
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1498203399759ASLsi/1634697134b6b3e664caf.bin
+
+oem_bk7231n_dctrl_switch
+1.1.0
+2021-10-23 1634959435
+https://images.tuyaeu.com/smart/firmware/upgrade/202110/1634959435-oem_bk7231n_dctrl_switch_UG_1.1.0.bin
+
+product_nqbs1onwskmmmaac
+2.3.3
+2022-01-15 1642251878
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1536897190133VVeLx/16422518780a3dd18d05f.bin
+
+product_s58qrwktuxbbbspj
+1.1.1
+2022-01-18 1642506761
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1622775748160TnwE/16425067617988a764742.bin
+
+oem_bk7231n_dctrl_switch
+1.3.1
+2022-09-01 1662020863
+https://images.tuyaeu.com/smart/firmware/upgrade/202209/1662020863-oem_bk7231n_dctrl_switch_UG_1.3.1.bin
+
+bk7231n_lowpower_common_ty
+2.1.0
+2022-09-17 1663386254
+https://images.tuyaeu.com/smart/firmware/upgrade/20220917/1663386254-bk7231n_lowpower_common_ty_UG_2.1.0.bin
+
+product_o2c5btmpepi9pzf8
+1.0.4
+2022-10-22 1666424309
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/166642430912a2341eecd.bin
+
+oem_bk7231n_temp_hum_sensor
+1.1.17
+2023-01-13 1673578134
+https://images.tuyaeu.com/smart/firmware/upgrade/202301/1673578134-oem_bk7231n_temp_hum_sensor_UG_1.1.17.bin
+
+oem_bk7231n_dctrl_switch
+1.3.5
+2023-01-31 1675150996
+https://images.tuyaeu.com/smart/firmware/upgrade/202301/1675150996-oem_bk7231n_dctrl_switch_UG_1.3.5.bin
+
+product_uoa3mayicscacseb
+2.0.1
+2023-03-01 1677660375
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1647842583499mtXt/16776603756be1179562d.bin
+
+oem_bk7231n_outdoor_strip_ty
+1.0.20
+2023-06-12 1686564744
+https://images.tuyaeu.com/smart/firmware/upgrade/202306/1686564744-oem_bk7231n_outdoor_strip_ty_UG_1.0.20.bin
+
+oem_bk7231n_matter_plug
+1.7.16
+2024-01-11 1704966859
+https://images.tuyaeu.com/smart/firmware/upgrade/202401/1704966859-oem_bk7231n_matter_plug_UG_1.7.16.bin
+
+oem_bk7231n_light_ty
+1.5.40
+2024-06-19 1718775550
+https://images.tuyaeu.com/smart/firmware/upgrade/202406/1718775550-oem_bk7231n_light_ty_UG_1.5.40.bin
+
+product_pe3cnl8uofry8duj
+1.0.1
+2024-06-24 1719217485
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1567683623498TYeGx/17192174851f96f7a4e49.bin
+
+product_z5ow5tmqo2lbsjmy
+0.1.3
+2025-01-10 1736520657
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1628049589964ZR5T/1736520657bbf5637612a.bin
+
+oem_bk7231n_irbox_mol_ty
+2.0.6
+2025-04-03 1743645978
+https://images.tuyaeu.com/smart/firmware/upgrade/202504/1743645978-oem_bk7231n_irbox_mol_ty_UG_2.0.6.bin
+
+product_ljwxe1cyevzjt8m2
+1.0.4
+2025-04-08 1744074975
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1565138036928sSi0S/1744074975c886088e237.bin
+
+oem_bk7231n_light_ty
+1.6.3
+2025-05-22 1747904545
+https://images.tuyaeu.com/smart/firmware/upgrade/202505/1747904545-oem_bk7231n_light_ty_UG_1.6.3.bin
+
+oem_bk7231n_slide_strip_ty
+1.3.3
+2025-09-11 1757561483
+https://images.tuyaeu.com/smart/firmware/upgrade/202509/1757561483-oem_bk7231n_slide_strip_ty_UG_1.3.3.bin
+
+oem_bk7231n_control_switch
+8.8.8
+2026-08-17 1786950763
+https://images.tuyaeu.com/smart/firmware/upgrade/20260817/1786950763-oem_bk7231n_control_switch_UG_8.8.8.bin
