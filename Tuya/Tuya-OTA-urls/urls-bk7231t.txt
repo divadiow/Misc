@@ -182,3 +182,8 @@ HYS_03_018_bk7231t_tjsama0rocl95kdn
 1.1.0
 2021-09-17 1631845590
 https://images.tuyaeu.com/smart/firmware/upgrade/20210917/1631845590-HYS_03_018_bk7231t_tjsama0rocl95kdn_UG_1.1.0.bin
+
+bk7231t_common_user_config_ty
+1.1.80
+2021-04-02 1617352506
+https://images.tuyaeu.com/smart/firmware/upgrade/202104/1617352506-bk7231t_common_user_config_ty_UG_1.1.80.bin
