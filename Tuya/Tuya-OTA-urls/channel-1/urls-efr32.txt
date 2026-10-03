@@ -1,0 +1,4 @@
+tuya_multi_mode_gateway_haclbl0qkqlf2qds_bluetooth_module
+3.21.8
+2022-05-13 1652428813
+https://images.tuyaeu.com/smart/firmware/upgrade/20220513/1652428813-mg21_ncp_ble_mesh_app_3.21.8.bin
