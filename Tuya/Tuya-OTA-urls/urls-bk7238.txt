@@ -133,3 +133,8 @@ th06_temp_hum
 2026-07-09 1783590849
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1782545409146GCke/17835908492c788e73408.bin
 
+
+oem_t1_irbox_mol_ty
+1.2.1
+2026-01-20 1768913164
+https://images.tuyaeu.com/smart/firmware/upgrade/202601/1768913164-oem_t1_irbox_mol_ty_UG_1.2.1.bin
