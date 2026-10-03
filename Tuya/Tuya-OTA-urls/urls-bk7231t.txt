@@ -122,3 +122,63 @@ JB_DREAM_RGB_STRIP_ONEKEY
 1.2.4
 2021-12-11 1639194387
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1597022670130iZEz/1639194387e6fbf15c724.bin
+
+oem_bk7231s_1_plug_rnd_ffc_eltra
+1.0.3
+2020-04-11 1586605453
+https://images.tuyaeu.com/smart/firmware/upgrade/202004/1586605453-oem_bk7231s_1_plug_rnd_ffc_eltra_ug_1.0.3.bin
+
+realme_BK7231T_plug_rmh2009_un
+1.0.4
+2020-09-03 1599127649
+https://images.tuyaeu.com/smart/firmware/upgrade/202009/1599127649-realme_BK7231T_plug_rmh2009_un_ug_1.0.4.bin
+
+oem_bk7231s_light_ty
+2.9.3
+2020-09-07 1599486839
+https://images.tuyaeu.com/smart/firmware/upgrade/202009/1599486839-oem_bk7231s_light_ty_UG_2.9.3.bin
+
+oem_bk7231s_garage_door
+1.1.2
+2020-11-23 1606133375
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1606133375-oem_bk7231s_garage_door_UG_1.1.2.bin
+
+HYS_03_010_RGB_xhsx0clcbovz5xre
+1.0.2
+2020-12-21 1608540755
+https://images.tuyaeu.com/smart/firmware/upgrade/202012/1608540755-HYS_03_010_RGB_xhsx0clcbovz5xre_UG_1.0.2.bin
+
+oem_bk7231s_light_ty
+2.9.16
+2021-04-22 1619090887
+https://images.tuyaeu.com/smart/firmware/upgrade/202104/1619090887-oem_bk7231s_light_ty_UG_2.9.16.bin
+
+oem_bk7231s_strip_ir_daybetter
+1.1.9
+2021-04-27 1619518408
+https://images.tuyaeu.com/smart/firmware/upgrade/202104/1619518408-oem_bk7231s_strip_ir_daybetter_UG_1.1.9.bin
+
+oem_bk7231s_dltj_2switch_alerc
+1.1.4
+2021-04-29 1619688951
+https://images.tuyaeu.com/smart/firmware/upgrade/202104/1619688951-oem_bk7231s_dltj_2switch_alerc_UG_1.1.4.bin
+
+product_yk5dijqoa2oy341i
+1.2.1
+2021-06-28 1624858810
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1596451683727LH1p/1624858810cb9cddac6d4.bin
+
+oem_bk7231s_strip_ty
+1.3.3
+2021-07-06 1625563311
+https://images.tuyaeu.com/smart/firmware/upgrade/202107/1625563311-oem_bk7231s_strip_ty_UG_1.3.3.bin
+
+oem_bk7231_2onoff_wetemp
+1.2.8
+2021-07-16 1626417271
+https://images.tuyaeu.com/smart/firmware/upgrade/20210716/1626417271-oem_bk7231_2onoff_wetemp_UG_1.2.8.bin
+
+HYS_03_018_bk7231t_tjsama0rocl95kdn
+1.1.0
+2021-09-17 1631845590
+https://images.tuyaeu.com/smart/firmware/upgrade/20210917/1631845590-HYS_03_018_bk7231t_tjsama0rocl95kdn_UG_1.1.0.bin
