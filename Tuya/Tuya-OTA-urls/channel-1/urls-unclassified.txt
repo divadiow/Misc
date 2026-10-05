@@ -1,8 +1,3 @@
-16792808312527b3213bf.bin [wgv4haro]
-4.8
-2023-03-20 1679280831
-https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/16792808312527b3213bf.bin
-
 1679281844cfd17e2d4e3.bin [okkyfgfs]
 4.7
 2023-03-20 1679281844
@@ -17,6 +12,11 @@ https://images.tuyaeu.com/smart/firmware/upgrade/ay1550298204274iXb1I/1695718861
 2.7
 2024-04-03 1712113392
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/1712113392f42ce066fec.bin
+
+1785484301c7a10a60655.bin [gnpbj0bq]
+3.5
+2026-07-31 1785484301
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1550298204274iXb1I/1785484301c7a10a60655.bin
 
 17434327898a45c9b3465.bin [6fibxtph]
 2.1.7
@@ -38,7 +38,7 @@ https://images.tuyaeu.com/smart/firmware/upgrade/bay1649420836351VoLV/1761287711
 2025-10-30 1761807347
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1652942714461Akp0/1761807347097da2ccbd7.bin
 
-1785484301c7a10a60655.bin [gnpbj0bq]
-3.5
-2026-07-31 1785484301
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1550298204274iXb1I/1785484301c7a10a60655.bin
+16792808312527b3213bf.bin [wgv4haro]
+4.8
+2023-03-20 1679280831
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/16792808312527b3213bf.bin

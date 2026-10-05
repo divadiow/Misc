@@ -3,16 +3,6 @@ tuya_module_wifi
 2024-07-17 1721198571760
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1547209623516pqlXf/172119857176074bd1f38.bin
 
-xr806_lowpower_common_ty
-1.1.9
-2025-06-11 1749634972
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202506/1749634972-xr806_lowpower_common_ty_UG_1.1.9.bin
-
-xr806_lowpower_common_ty
-1.1.4
-2024-08-02 1722582138
-http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202408/1722582138-xr806_lowpower_common_ty_UG_1.1.4.bin
-
 water_valve_so
 1.0.7
 2025-05-15 1747307879
@@ -22,3 +12,13 @@ water_valve_so
 1.0.9
 2025-09-12 1757679814
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1699598085872fwbO/17576798148e355fb6814.bin
+
+xr806_lowpower_common_ty
+1.1.4
+2024-08-02 1722582138
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202408/1722582138-xr806_lowpower_common_ty_UG_1.1.4.bin
+
+xr806_lowpower_common_ty
+1.1.9
+2025-06-11 1749634972
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202506/1749634972-xr806_lowpower_common_ty_UG_1.1.9.bin

@@ -3,27 +3,27 @@
 2022-03-31 1648695859
 https://images.tuyaeu.com/smart/firmware/upgrade/20220331/1648695859-oem_telink_sf_switch_OTA_1.1.0.bin
 
-16558019807b2c85dea5b.bin [nslr42tt]
-1.0.5
-2022-06-21 1655801980
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1515026431018saCFs/16558019807b2c85dea5b.bin
-
 1663234985-oem_ztu_dimmer1_klt_OTA_1.0.6.bin [ngqk6jia]
 1.0.6
 2022-09-15 1663234985
 https://images.tuyaeu.com/smart/firmware/upgrade/20220915/1663234985-oem_ztu_dimmer1_klt_OTA_1.0.6.bin
+
+16558019807b2c85dea5b.bin [nslr42tt]
+1.0.5
+2022-06-21 1655801980
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1515026431018saCFs/16558019807b2c85dea5b.bin
 
 16772971057e453f8b476.bin [ol1uhvza]
 2.0.1
 2023-02-25 1677297105
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1647842583499mtXt/16772971057e453f8b476.bin
 
-171300133078424937815.bin [tgvtvdoc]
-1.0.3
-2024-04-13 1713001330
-https://images.tuyaeu.com/smart/firmware/upgrade/bay1679641119240nYmL/171300133078424937815.bin
-
 171956516957a5db43beb.bin [0jxeoadc]
 1.0.8
 2024-06-28 1719565169
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1528018319540RHaJO/171956516957a5db43beb.bin
+
+171300133078424937815.bin [tgvtvdoc]
+1.0.3
+2024-04-13 1713001330
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1679641119240nYmL/171300133078424937815.bin

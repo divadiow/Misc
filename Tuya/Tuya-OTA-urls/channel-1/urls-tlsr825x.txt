@@ -1,22 +1,7 @@
-ble_825x_water_valve
-7.40
-2021-10-14 1634198207
-https://images.tuyaeu.com/smart/firmware/upgrade/20211014/1634198207-ble_825x_water_valve_7.40.bin
-
-tlsr_ble_825x_common_custom_Lidl
-9.1
-2021-10-26 1635230649
-https://images.tuyaeu.com/smart/firmware/upgrade/20211026/1635230649-tlsr_ble_825x_common_custom_Lidl_ota_9.1.bin
-
 1651197077bcbac0eeef8.bin [e1poaiwa]
 1.5
 2022-04-29 1651197077
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1630562983262cn9K/1651197077bcbac0eeef8.bin
-
-16560494289340f4ee1b5.bin [46zia2nz]
-1.6
-2022-06-24 1656049428
-https://images.tuyaeu.com/smart/firmware/upgrade/bay1630562983262cn9K/16560494289340f4ee1b5.bin
 
 1661325260d447465ec7a.bin [8t5hebn0]
 1.2
@@ -27,3 +12,18 @@ https://images.tuyaeu.com/smart/firmware/upgrade/bay1641866577455CIHQ/1661325260
 3.0.0
 2025-06-27 1751017471
 https://images.tuyaeu.com/smart/firmware/upgrade/bay17093648867488Mzl/17510174717b63e7c1c13.bin
+
+16560494289340f4ee1b5.bin [46zia2nz]
+1.6
+2022-06-24 1656049428
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1630562983262cn9K/16560494289340f4ee1b5.bin
+
+ble_825x_water_valve
+7.40
+2021-10-14 1634198207
+https://images.tuyaeu.com/smart/firmware/upgrade/20211014/1634198207-ble_825x_water_valve_7.40.bin
+
+tlsr_ble_825x_common_custom_Lidl
+9.1
+2021-10-26 1635230649
+https://images.tuyaeu.com/smart/firmware/upgrade/20211026/1635230649-tlsr_ble_825x_common_custom_Lidl_ota_9.1.bin

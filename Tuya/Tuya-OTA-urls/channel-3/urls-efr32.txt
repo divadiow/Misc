@@ -1,48 +1,3 @@
-schneider_wiser_chameleon_dimmer
-2.3.7
-2021-05-31 1622438235
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/1622438235e5764b7a861.zigbee
-
-schneider_wiser_chameleon_switch_10ax
-2.10.8
-2023-03-07 1678182210
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16781822109542aac900a.zigbee
-
-schneider_wiser_chameleon_switch_2ax
-2.5.9
-2023-03-10 1678411825
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/1678411825b98a1530a8c.zigbee
-
-schneider_wiser_fan_controller
-2.2.1
-2023-04-20 1681962924
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16819629247ee0445a5f4.zigbee
-
-schneider_wiser_dual_socket
-1.1.10
-2023-05-19 1684482376
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16844823767736d4b2cbc.ota
-
-schneider_wiser_puck
-2.12.2
-2023-05-31 1685506296
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16855062966c6d846535c.zigbee
-
-schneider_wiser_fan_controller
-2.2.3
-2024-05-15 1715765258
-https://images.tuyaeu.com/smart/firmware/upgrade/bay1583203554957GRnf/17157652587e6ae8afffa.zigbee
-
-tuya_g08pro_zigbee_bluetooth_gateway
-2.4.1
-2022-12-08 1670484983
-https://images.tuyaeu.com/smart/firmware/upgrade/20221208/1670484983-si32_mg21_115200_pta_665_OTA_2.4.1.bin
-
-si32_mg21_115200_pta_665
-1.1.9
-2021-09-24 1632490467
-https://images.tuyaeu.com/smart/firmware/upgrade/20210924/1632490467-si32_mg21_115200_pta_665_OTA_1.1.9.bin
-
 1578472971-mcu_si32_zg_pir_mlk_OTA_1.0.4.bin [jytabjkb]
 1.0.4
 2020-01-08 1578472971
@@ -87,3 +42,48 @@ https://images.tuyaeu.com/smart/firmware/upgrade/20211108/1636362339-COO_TYZS4_1
 1.0.8
 2021-11-18 1637242672
 https://images.tuyaeu.com/smart/firmware/upgrade/20211118/1637242672-8711AM_COO_TYZS3_115200_65_test__1.0.8.ota
+
+schneider_wiser_chameleon_dimmer
+2.3.7
+2021-05-31 1622438235
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/1622438235e5764b7a861.zigbee
+
+schneider_wiser_chameleon_switch_2ax
+2.5.9
+2023-03-10 1678411825
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/1678411825b98a1530a8c.zigbee
+
+schneider_wiser_chameleon_switch_10ax
+2.10.8
+2023-03-07 1678182210
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16781822109542aac900a.zigbee
+
+schneider_wiser_dual_socket
+1.1.10
+2023-05-19 1684482376
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16844823767736d4b2cbc.ota
+
+schneider_wiser_fan_controller
+2.2.1
+2023-04-20 1681962924
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16819629247ee0445a5f4.zigbee
+
+schneider_wiser_fan_controller
+2.2.3
+2024-05-15 1715765258
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1583203554957GRnf/17157652587e6ae8afffa.zigbee
+
+schneider_wiser_puck
+2.12.2
+2023-05-31 1685506296
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557480848074dO17I/16855062966c6d846535c.zigbee
+
+si32_mg21_115200_pta_665
+1.1.9
+2021-09-24 1632490467
+https://images.tuyaeu.com/smart/firmware/upgrade/20210924/1632490467-si32_mg21_115200_pta_665_OTA_1.1.9.bin
+
+tuya_g08pro_zigbee_bluetooth_gateway
+2.4.1
+2022-12-08 1670484983
+https://images.tuyaeu.com/smart/firmware/upgrade/20221208/1670484983-si32_mg21_115200_pta_665_OTA_2.4.1.bin
