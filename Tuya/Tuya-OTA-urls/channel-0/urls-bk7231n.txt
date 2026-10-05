@@ -238,6 +238,11 @@ bk7231n_common_user_config_ty
 2025-07-29 1753791059
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202507/1753791059-bk7231n_common_user_config_ty_UG_3.1.42.bin
 
+bk7231n_common_user_config_ty
+3.1.64
+8 May 2026 1778223036
+http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202605/1778223036-bk7231n_common_user_config_ty_UG_3.1.64.bin
+
 oem_bk7231n_plug
 1.2.3
 2025-01-22 1737517845
