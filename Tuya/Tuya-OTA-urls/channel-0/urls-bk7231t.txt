@@ -43,11 +43,6 @@ oem_bk7231s_light_sp_mix4to5_db
 2021-04-10 1618021222
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202104/1618021222-oem_bk7231s_light_sp_mix4to5_db_UG_1.1.4.bin
 
-oem_bk7231s_light_ty
-2.9.16
-2021-04-22 1619090887
-https://images.tuyaus.com/smart/firmware/upgrade/202104/1619090887-oem_bk7231s_light_ty_UG_2.9.16.bin
-
 oem_bk7231s_light_db_par38
 1.0.6
 2021-04-28 1619597225
@@ -67,11 +62,6 @@ oem_bk7231s_light_ty_yb
 3.0.1
 2021-07-12 1626078774
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202107/1626078774-oem_bk7231s_light_ty_yb_UG_3.0.1.bin
-
-HYS_03_018_bk7231t_tjsama0rocl95kdn
-1.1.0
-2021-09-17 1631845590
-https://fireware-ttls.tuyaus.com:2443/smart/firmware/upgrade/20210917/1631845590-HYS_03_018_bk7231t_tjsama0rocl95kdn_UG_1.1.0.bin
 
 oem_bk7231s_light_db_a21
 1.1.6
@@ -107,11 +97,6 @@ oem_bk7231s_switch1_zero_kjd
 1.1.14
 2023-03-24 1679650241
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202303/1679650241-oem_bk7231s_switch1_zero_kjd_UG_1.1.14.bin
-
-oem_bk7231s_light_ty_yb
-3.0.1
-2021-07-12 1626078774
-https://images.tuyaus.com/smart/firmware/upgrade/202107/1626078774-oem_bk7231s_light_ty_yb_UG_3.0.1.bin
 
 oem_bk7231s_light
 3.0.1
@@ -157,11 +142,6 @@ oem_bk7231s_strip_ir_daybetter
 1.1.9
 2021-04-27 1619518408
 https://images.tuyaeu.com/smart/firmware/upgrade/202104/1619518408-oem_bk7231s_strip_ir_daybetter_UG_1.1.9.bin
-
-oem_bk7231s_dltj_2switch_alerc
-1.1.4
-2021-04-29 1619688951
-https://images.tuyaeu.com/smart/firmware/upgrade/202104/1619688951-oem_bk7231s_dltj_2switch_alerc_UG_1.1.4.bin
 
 product_yk5dijqoa2oy341i
 1.2.1

@@ -63,13 +63,3 @@ rtlbn_light_hc_base_htfgah4ycr6yqmay
 2021-06-05 1622869993
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210605/1622869993-rtlbn_light_hc_base_htfgah4ycr6yqmay_ug_1.0.3.bin
 
-oem_rtlbn_yr_1_plug_simple
-1.1.2
-2021-04-21 1619005397
-https://images.tuyaeu.com/smart/firmware/upgrade/20210421/1619005397-oem_rtlbn_yr_1_plug_simple_ug_1.1.2.bin
-
-rtlbn_light_hc_base_htfgah4ycr6yqmay
-1.0.3
-2021-06-05 1622869993
-https://images.tuyaeu.com/smart/firmware/upgrade/20210605/1622869993-rtlbn_light_hc_base_htfgah4ycr6yqmay_ug_1.0.3.bin
-
