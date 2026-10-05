@@ -1,0 +1,4 @@
+ANTIK_ATKPVH.01_PV WaterHeater_(STM32L072xB)_begaog5lyv6ttgpv_1.59
+1.59
+2026-07-23 1784796314
+https://images.tuyaeu.com/smart/firmware/acc/bay1632732964539V9C1/1784796314d259cebe83a.bin

@@ -1,0 +1,9 @@
+Beokeo_Elspet_S20Pro_Litterbox_(STM32F030x8)_l9gslsbbrd50r79y_1.2.0
+1.2.0
+2026-04-14 1776158558
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1758521691028U2Nt/17761585585505c92bbc4.bin
+
+HUA6-3P_PM2.5_air_quality_monitor_(STM32F0-compatible_build)_75erf4zsyfldtzp2_1.0.3_0c4c0c230a9b
+1.0.3
+2020-07-24 1595576713
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1552630952672jUXdf/159557671346003abd709.bin

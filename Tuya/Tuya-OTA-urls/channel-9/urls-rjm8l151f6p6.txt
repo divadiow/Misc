@@ -1,0 +1,9 @@
+Tuya_DY-RQ400A_(Runjet_RJM8L151F6P6)_stqmzk01tbm3qwhg_1.0.1
+1.0.1
+capture date not available
+Original Tuya URL not captured (SHA-256: 18c1ff1e1b7088996c5f5eac204a1c39f0dd16a34cd0f979af8d0235e3d50c4c)
+
+Tuya_DY-RQ400A_(Runjet_RJM8L151F6P6)_stqmzk01tbm3qwhg_1.0.2
+1.0.2
+2026-02-04 1770176300
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1537847617560vAgbw/1770176300fa713c3c446.bin

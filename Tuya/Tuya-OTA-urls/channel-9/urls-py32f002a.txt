@@ -1,0 +1,4 @@
+KWS-302WF_PowerMeter_(PUYA_PY32F002A)_tadm13agjigbdtxd_0.2.1
+0.2.1
+2025-02-28 1740739706
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1628049589964ZR5T/1740739706d773de15688.bin

@@ -1,0 +1,39 @@
+Cecotec_Conga_S1970_Robot_vacuum_(STM32F1-compatible_build)_daxvacilskoxsl2c_1.2.35_51af821ee785
+1.2.35
+2022-05-30 1653890628
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525342233337A874A/1653890628e1fd327d7b0.bin
+
+Conow_CBE2000_Pro_Battery_storage_(STM32F1-compatible_build)_c4ilzd7aybycece9_1.1.8_2c64f7ec3afd
+1.1.8
+2026-06-23 1782180153
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1687226494945d2dL/178218015384571dabb09.bin
+
+Kyvol_E31_F9370_Robot_vacuum_(STM32F1-family_build)_modhla03lopnmad8_1.1.36_86670496a3a8
+1.1.36
+2020-08-13 1597297788
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1523606394263orKK2/1597297788303f82339d2.bin
+
+Lenovo_E1_Robot_vacuum_(STM32F1-compatible_build)_lec6zthbnidtvk2g_1.3.3_8fc371d9155b
+1.3.3
+2020-12-17 1608168862
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525342233337A874A/1608168862217f123c6d6.bin
+
+Parkside_PAMRC_250_A1_City_Lawnmower_(STM32F1-compatible_build)_9hdajpiw_0.0.10_df8a1594d859
+0.0.10
+2025-08-26 1756189097
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654129550802y7Ux/1756189097145e2c3411c.bin
+
+Parkside_PMRC_250_Ai_Bluetooth_Lawnmower_(STM32F1-compatible_build)_7yr5iwga_0.1.2_6219c35f74dd
+0.1.2
+2025-03-12 1741749070
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654129550802y7Ux/174174907029f992dc2eb.BIN
+
+Parkside_PMRDA_20-Li_A1_Lawnmower_(STM32F1-compatible_build)_icw5sal7xfcevsve_0.4.8_b05491c49f09
+0.4.8
+2024-08-12 1723458287
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654129550802y7Ux/1723458287b0c160b6cdf.BIN
+
+Tesvor X500_Vacuum_(STM32F103VET6)_eqyrkx39otooi2xr_1.3.9
+1.3.9
+2022-05-27 1653632619
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16034424286052Omh/1653632619e45aa346230.bin

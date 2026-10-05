@@ -1,0 +1,4 @@
+Inkbird_IIC400_Irrigation_controller_(AT32F421C8T7)_x7hkmeis8yqj6ntj_1.0.2_d0df155bf027
+1.0.2
+2026-03-18 1773817086
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15157410971057cPZi/1773817086IIC-400-WIFI_CRC0x002726BA_AT32F421C8T7_Ver08_V102

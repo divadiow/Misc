@@ -1,0 +1,9 @@
+Rti-Tek_Salcar TRV801W_(Cmsemicon_BAT32G13x)_1q1grefcvygxzc7w_1.0.4
+1.0.4
+2024-03-06 1709714936
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654864343853ucU6/17097149368449e3002eb.bin
+
+Tuya_WT702_(Cmsemicon_BAT32G1xx)_cnwav2v9uxudsqsq_1.0.1
+1.0.1
+2026-02-07 1770460075
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1699598085872fwbO/1770460075d89a0d1f195.bin

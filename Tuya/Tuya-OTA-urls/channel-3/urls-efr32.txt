@@ -42,3 +42,48 @@ si32_mg21_115200_pta_665
 1.1.9
 2021-09-24 1632490467
 https://images.tuyaeu.com/smart/firmware/upgrade/20210924/1632490467-si32_mg21_115200_pta_665_OTA_1.1.9.bin
+
+1578472971-mcu_si32_zg_pir_mlk_OTA_1.0.4.bin [jytabjkb]
+1.0.4
+2020-01-08 1578472971
+https://images.tuyaeu.com/smart/firmware/upgrade/202001/1578472971-mcu_si32_zg_pir_mlk_OTA_1.0.4.bin
+
+1585301299-oem_si32_zg_uart_connect_ty_OTA_1.0.1.bin [aycxwiau]
+1.0.1
+2020-03-27 1585301299
+https://images.tuyaeu.com/smart/firmware/upgrade/202003/1585301299-oem_si32_zg_uart_connect_ty_OTA_1.0.1.bin
+
+1596789231-COO_TYZS4_115200_ota_1.0.9 [nzbkgncdndc4bcgo]
+1.0.9
+2020-08-07 1596789231
+https://images.tuyaeu.com/smart/firmware/upgrade/202008/1596789231-COO_TYZS4_115200_ota_1.0.9
+
+1600167449-si32_zg_uart_connect_sleep_ZS5_ty_OTA_1.1.5.bin [ckud7u2l, cwnjrr72]
+1.1.5
+2020-09-15 1600167449
+https://images.tuyaeu.com/smart/firmware/upgrade/202009/1600167449-si32_zg_uart_connect_sleep_ZS5_ty_OTA_1.1.5.bin
+
+1605512428-si32_zg_uart_connect_sleeped_ty_OTA_1.1.5.bin [czk78ptr]
+1.1.5
+2020-11-16 1605512428
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605512428-si32_zg_uart_connect_sleeped_ty_OTA_1.1.5.bin
+
+1618019456-oem_732_temp_hum_light_lcd_lo_OTA_1.0.4.bin [qaaysllp]
+1.0.4
+2021-04-10 1618019456
+https://images.tuyaeu.com/smart/firmware/upgrade/20210410/1618019456-oem_732_temp_hum_light_lcd_lo_OTA_1.0.4.bin
+
+1633762540-oem_si32_zs5_pir_sensor_xiaoyi_OTA_1.0.2.bin [zw6hxafz]
+1.0.2
+2021-10-09 1633762540
+https://images.tuyaeu.com/smart/firmware/upgrade/20211009/1633762540-oem_si32_zs5_pir_sensor_xiaoyi_OTA_1.0.2.bin
+
+1636362339-COO_TYZS4_115200_65_UG_1.0.12.bin [2d7enxgwcxrtjs8g]
+1.0.12
+2021-11-08 1636362339
+https://images.tuyaeu.com/smart/firmware/upgrade/20211108/1636362339-COO_TYZS4_115200_65_UG_1.0.12.bin
+
+1637242672-8711AM_COO_TYZS3_115200_65_test__1.0.8.ota [jrlfbtvfebypwvd9, lieerjyy6l4ykjor]
+1.0.8
+2021-11-18 1637242672
+https://images.tuyaeu.com/smart/firmware/upgrade/20211118/1637242672-8711AM_COO_TYZS3_115200_65_test__1.0.8.ota

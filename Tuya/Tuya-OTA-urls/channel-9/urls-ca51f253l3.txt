@@ -1,0 +1,4 @@
+BEOK_BOT-W506_R11_(CACHIP_CA51F253L3)_if6pqia2gbtvqa6l_1.1.5
+1.1.5
+2026-01-16 1768534881
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/1768534881fa1ac1e530c.bin

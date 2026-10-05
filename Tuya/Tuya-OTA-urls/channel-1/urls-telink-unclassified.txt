@@ -1,0 +1,9 @@
+16993563254e8984f44c9.bin [smd9kj1n]
+1.19
+2023-11-07 1699356325
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1588755969426Gamy/16993563254e8984f44c9.bin
+
+178090076802ab72f1e31.bin [q8tpmjtw]
+2.0
+2026-06-08 1780900768
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1756735685533VSCW/178090076802ab72f1e31.bin

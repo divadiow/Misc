@@ -1,0 +1,4 @@
+Coleman-Mach_RVP_9420-391_Thermostat_(Espressif_ESP32-S3)_iarskv8rllonqsvo_1.0_0bf5d541ea98
+1.0
+2024-05-21 1716263061
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1577179038777VfoD5/171626306132ede958a34.bin

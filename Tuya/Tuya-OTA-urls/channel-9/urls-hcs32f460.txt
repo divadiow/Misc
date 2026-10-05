@@ -1,0 +1,4 @@
+AT-Q-SYS_Meter_(HDSC_HCS32F460)_kmnzgh4yn8pa0lqh_1.0.8
+1.0.8
+2023-10-06 1696557769
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1638066107344ANbl/1696557769a8ad40d23ac.bin

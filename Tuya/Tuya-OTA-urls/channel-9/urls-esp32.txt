@@ -1,0 +1,14 @@
+Neptun_Smart_Water_leak_detector_(Espressif_ESP32)_vptg13wa7y8xmoio_1.1.2_9b9d46a1160d
+1.1.2
+2021-03-18 1616048333
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1592199725911oo92/1616048333c679cc24bc5.bin
+
+Teploluxe_MCS350_Thermostat_(Espressif_ESP32)_tfmfbr341u0tx3fb_4.0.2_4dfb82a89cd8
+4.0.2
+2020-12-01 1606799977
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1592199725911oo92/1606799977c3e80849752.bin
+
+TION_Breezer_Bio_X_(Espressif_ESP32)_9mqdhwklpvnnvb7t_1.0.77_6ac5b735b3be
+1.0.77
+2025-02-24 1740387362
+https://images.tuyaeu.com/smart/firmware/acc/bay1698380761191HvHV/1740387362142eaf392c6.bin

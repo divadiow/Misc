@@ -1,0 +1,9 @@
+Lubluelu_A901_Robot_vacuum_(Rockchip_RK3308)_vg6qvrgj99ase4xd_7.0.0_30eff7109c8d
+7.0.0
+2023-04-23 1682252009
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1609740653720FM3s/1682252009fe47cd9dbdd.bin
+
+Medion_X10_SW_Robot_vacuum_(Rockchip_RK3308)_hyzraigatjc4zr5n_02.19.0028_97c1123e2ee7.img
+02.19.0028
+2025-07-17 1752744704
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16261653984421JVr/17527447048e6925024f2.img

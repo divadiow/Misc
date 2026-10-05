@@ -1,0 +1,14 @@
+TONGOU_S1_(STC_8H3K64S2)_gnr22vuyz8uis3gr_1.0.2
+1.0.2
+2026-05-18 1779094801
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1677028124609EAyb/1779094801a4b5698f730.HEX
+
+Tongou_TO-Q-SA1_(STC_8H3K64S2)_myolkbunuzd2rh3k_1.2.3
+1.2.3
+2024-12-03 1733207708
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1677028124609EAyb/1733207708d87cd6cb185.bin
+
+TOVMT-216JWT_Rail_Breaker_(STC32G8K48)_rnfnjd9kuiukhdls_1.1.2
+1.1.2
+2025-05-19 1747626850
+https://images.tuyaeu.com/smart/firmware/acc/bay16570761439434Ehc/174762685038698133f3c.bin

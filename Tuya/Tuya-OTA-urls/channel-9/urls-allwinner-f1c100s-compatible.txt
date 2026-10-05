@@ -1,0 +1,9 @@
+Smart_Security_Panel_(Allwinner_F1C100S-compatible_build)_9brhjvyfixyydzld_1.0.18_f542c97c3191
+1.0.18
+2021-10-21 1634804665
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1569410984379VeGPj/163480466599db41d8ad6.bin
+
+Staniot_H700_TP_V2.0_CB3S_Security_panel_(Allwinner_F1C100S-compatible_build)_du5wifdsr8btglrl_2.1.16_12f9e460aa05
+2.1.16
+2024-03-12 1710228663
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557366574856XrXEF/1710228663a2aafbc5f9c.bin

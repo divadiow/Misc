@@ -1,0 +1,14 @@
+Tuya_PC321-W-TY_(GigaDevice_GD32E230)_gqmmtjclqb7reg5p_2.0.1
+2.0.1
+capture date not available
+Original Tuya URL not captured (SHA-256: 6facf5f03ee317ad1aea10d210dd0d65efbb949e07b5c76e11360909719bd7ba)
+
+Tuya_PC321-W-TY_(GigaDevice_GD32E230)_gqmmtjclqb7reg5p_2.1.0
+2.1.0
+capture date not available
+Original Tuya URL not captured (SHA-256: 0c9dbd613275467e62103b1fc5e949065caeaea24158a213234bba2dd3903564)
+
+Tuya_PC321-W-TY_(GigaDevice_GD32E230)_gqmmtjclqb7reg5p_2.1.2
+2.1.2
+2025-08-07 1754530866
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1515026431018saCFs/175453086644c0052c109.bin

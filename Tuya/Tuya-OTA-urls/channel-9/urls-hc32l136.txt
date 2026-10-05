@@ -1,0 +1,4 @@
+Tuya_TRV16_(HDSC_HC32L136J8TA)_ihedujbuli6hsx9b_1.3.9
+1.3.9
+2026-02-04 1770177801
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/1770177801eb4a25f2d2a.bin

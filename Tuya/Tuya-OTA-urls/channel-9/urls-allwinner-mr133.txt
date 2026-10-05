@@ -1,0 +1,4 @@
+Lefant_LS1_Pro_Robot_vacuum_(Allwinner_MR133_and_STM32_companion)_4tt4wulynvwcqicp_1.1.187_95719b027d54.tar.gz
+1.1.187
+2023-07-11 1689043137
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16074806709595RO4/16890431374091aa28b2f.tar.gz

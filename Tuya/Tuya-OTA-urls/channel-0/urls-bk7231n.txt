@@ -542,3 +542,23 @@ oem_bk7231n_matter_socket
 2.2.21
 2026-05-09 1778309565
 https://images.tuyaeu.com/smart/firmware/upgrade/202605/1778309565-oem_bk7231n_matter_socket_UG_2.2.21.bin
+
+ele_1switch [ngimwhcckkasc2ky]
+2.3.4
+2023-06-08 1686195332
+https://images.tuyaeu.com/smart/firmware/acc/bay1665546037940uvow/168619533278cdfd02281.bin
+
+SpdM-Lamp [xaq7njftocha1f6z]
+1.1.5
+2023-10-31 1698746869
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1565772522105xoF3l/169874686996a491c7921.bin
+
+magic [q5dhxp3mjrbmr5pi]
+1.3.2
+2023-10-11 1697009064
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1585732422040GgH0/1697009064ebbf9212684.bin
+
+bk7231N_wxml_G6L_lp [gznianheex1wcv5b]
+1.0.8
+2022-01-14 1642124046
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1611546397476F4rH/1642124046dcdd7e845f1.bin

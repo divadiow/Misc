@@ -1,0 +1,19 @@
+Atorch_AT4P_(WCH_CH573F)_tjtigg991kvoiiqi_1.0.9
+1.0.9
+2023-02-13 1676282851
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/167628285197593421873.bin
+
+Atorch_GR2P-WS_(WCH_CH573F)_sq1ahfxhgove4kgo_1.0.3
+1.0.3
+2023-11-30 1701332944
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/1701332944a506ee8f75a.bin
+
+Atorch_S1_(WCH_CH573F)_sqrf2g1amfutn4co_1.0.7
+1.0.7
+2023-11-13 1699861808
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/1699861808f1a50f38619.bin
+
+Atorch_S1TW-FR_(WCH_CH573F)_rj84vmyhm0dh0jwy_1.1.0
+1.1.0
+2023-11-04 1699088414
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/16990884148956d397761.bin

@@ -1,0 +1,9 @@
+Asahom_S105A_C_Decorative_lights_(Espressif_ESP32-C3)_wcx02kgo8o1qwaf8_4.01.67_965687bfb500
+4.01.67
+2024-09-28 1727511379
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1620888702907ZAvO/17275113790876ce8e8b7.bin
+
+Sanden_GAU-A45HP_Water_heater_(Espressif_ESP32-C3)_ssqd7htb3tbhxqvk_1.4.3_c37cb015cdfe
+1.4.3
+2023-10-09 1696820192
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1604625450445pyTG/169682019224cbaf7e53f.bin

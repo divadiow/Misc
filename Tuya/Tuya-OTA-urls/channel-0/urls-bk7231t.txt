@@ -187,3 +187,8 @@ bk7231t_common_user_config_ty
 1.1.80
 2021-04-02 1617352506
 https://images.tuyaeu.com/smart/firmware/upgrade/202104/1617352506-bk7231t_common_user_config_ty_UG_1.1.80.bin
+
+light1 [dxkmsiimcumdkoxb]
+2.0.5
+2020-12-04 1607078679
+https://images.tuyaeu.com/smart/firmware/upgrade/bay15947793414144yxM/1607078679ac815142c53.bin
