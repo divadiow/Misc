@@ -1,0 +1,4 @@
+WUKONG/T51/T51:8.1.0/O11019/1594379007:user/release-keys
+1.0.2
+2020-07-15 1594793015
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1558569879142tJL74/15947930150a0bae63ab1.bin

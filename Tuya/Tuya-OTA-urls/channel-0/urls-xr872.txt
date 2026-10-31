@@ -1,0 +1,9 @@
+oem_xr_speech_v2_irbox_newdp
+2.1.10
+2021-04-30 1619769065
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202104/1619769065-oem_xr_speech_v2_irbox_newdp_UG_2.1.10.bin
+
+oem_xr_speech_v2_irbox
+2.1.8
+2020-06-02 1591104702
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202006/1591104702-oem_xr_speech_v2_irbox_UG_2.1.8.bin

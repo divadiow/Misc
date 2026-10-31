@@ -1,0 +1,4 @@
+Smart_Video_Feeder_ew2qddipgegbosau_134.16.14_8fcb3601ca28
+134.16.14
+2025-12-19 1766135647
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541472742486ZYDmd/1766135647671c4342c1c.tar

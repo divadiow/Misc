@@ -1,0 +1,4 @@
+Cheego_CCA3_Smart_Baby_Monitor_5vezfqkxqilxkhmr_1.2.31_4ce38ffbd029
+1.2.31
+2023-12-29 1703834140
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1625560284270FYLn/17038341400a2dff61e34.bin

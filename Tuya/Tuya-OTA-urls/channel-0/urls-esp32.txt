@@ -1,0 +1,4 @@
+Drip_Irrigation_8ch_0uo7msdnt2yn1lgp
+1.1.9
+2026-10-25 1792936916
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay1791561490992Cgny/1792936916cba571d592e.bin

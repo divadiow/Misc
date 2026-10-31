@@ -2,3 +2,13 @@
 1.5.4
 2023-04-17 1681712186
 https://images.tuyaeu.com/smart/firmware/upgrade/20230417/1681712186-8721csm_bt_zg_gw_UG_1.5.4.bin
+
+8721csm_bt_zg_gw
+1.7.2
+2023-12-11 1702280281
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20231211/1702280281-8721csm_bt_zg_gw_UG_1.7.2.bin
+
+8721csm_bt_zg_gw
+1.8.2
+2024-04-01 1711940912
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240401/1711940912-8721csm_bt_zg_gw_UG_1.8.2.bin

@@ -1,0 +1,4 @@
+TPP01_Z_SmartPanel_ikpez04nhsefjzbi_3.5.13_3d5c44ebeb46
+3.5.13
+2024-06-27 1719475196
+https://images.tuyaeu.com/smart/firmware/upgrade/20240627/1719475196-tyznzk_TPP01_Z_OTA_3.5.13.bin

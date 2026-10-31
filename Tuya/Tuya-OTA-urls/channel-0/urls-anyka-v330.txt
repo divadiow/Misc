@@ -1,0 +1,4 @@
+AnyKaV330
+75.42.16
+2024-01-11 1704943277
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15985784739749Ndy/1704943277f44fb6f49b1.tar

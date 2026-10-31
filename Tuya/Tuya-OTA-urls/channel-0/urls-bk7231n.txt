@@ -44,6 +44,11 @@ bk7231n_common_user_config_ty
 https://images.tuyaeu.com/smart/firmware/upgrade/202407/1720087300-bk7231n_common_user_config_ty_UG_2.1.24.bin
 
 bk7231n_common_user_config_ty
+2.1.41
+2026-07-02 1782992613
+https://images.tuyaeu.com/smart/firmware/upgrade/202607/1782992613-bk7231n_common_user_config_ty_UG_2.1.41.bin
+
+bk7231n_common_user_config_ty
 3.1.16
 2024-07-02 1719915983
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202407/1719915983-bk7231n_common_user_config_ty_UG_3.1.16.bin
@@ -507,3 +512,18 @@ ua_app
 1.0.12
 2023-05-19 1684463361
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1647953792714cncK/1684463361f3acf6210e5.bin
+
+Door_Alarm_Sensor_ospvm2npprrwg5nx_2.2.0_34d1fbed5faa
+2.2.0
+2025-02-13 1739427181
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1635649659977oAWd/17394271819a0a42b4886.bin
+
+PC473-Airedale_xr5kjdxfxavku0gb
+1.1.3
+2026-08-25 1787644233
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15916030109112qja/178764423344e0863e0ee.bin
+
+WiFi_Plug_EU_standard_16A_dl7nspvmzj5rko71
+1.1.3
+2025-10-13 1760340930
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613720723966IkJE/1760340930d3aaf9340b7.bin

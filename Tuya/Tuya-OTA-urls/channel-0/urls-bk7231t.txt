@@ -172,3 +172,13 @@ realme_BK7231T_plug_rmh2009_un
 1.0.4
 2020-09-03 1599127649
 https://images.tuyaeu.com/smart/firmware/upgrade/202009/1599127649-realme_BK7231T_plug_rmh2009_un_ug_1.0.4.bin
+
+oem_bk7231s_curtain_switch
+1.5.5
+2020-11-19 1605755484
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202011/1605755484-oem_bk7231s_curtain_switch_UG_1.5.5.bin
+
+oem_bk7231s_plug_light_jiabt
+1.1.0
+2020-06-03 1591156364
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202006/1591156364-oem_bk7231s_plug_light_jiabt_ug_1.1.0.bin

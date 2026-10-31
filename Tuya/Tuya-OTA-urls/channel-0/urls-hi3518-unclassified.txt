@@ -1,0 +1,4 @@
+LY126_Battery_Camera_beabtvlycpo5amqk_1.1.61_050479472ab8
+1.1.61
+2019-09-11 1568187159
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201909/1568187159-liteoslzm

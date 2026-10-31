@@ -33,6 +33,31 @@ esp_common_e2s
 2019-02-27 1551261431
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1551261431-esp_common_e2s_ug_TLS_3.1.1.bin
 
+esp_common_e2s
+3.1.3
+2019-11-07 1573096033
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1573096033-esp_common_e2s_ug_TLS_3.1.3.bin
+
+esp_common_raw
+2.2.6
+2018-04-14 1523692078
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201804/1523692078-esp_common_raw_ug_2.2.6.bin
+
+esp_common_raw
+2.3.0
+2019-01-08 1546942259
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201901/1546942259-esp_common_raw_ug_2.3.0.bin
+
+esp_common_raw
+3.1.1
+2019-02-27 1551260269
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1551260269-esp_common_raw_ug_TLS_3.1.1.bin
+
+esp_common_raw
+3.1.3
+2019-09-30 1569850829
+https://images.tuyaeu.com/smart/firmware/upgrade/201909/1569850829-esp_common_raw_ug_TLS_3.1.3.bin
+
 esp_common_raw
 3.1.4
 2020-02-27 1582785194
@@ -82,6 +107,16 @@ HYS_00_001_qsetmsp4lgna0wyr
 1.0.1
 2020-07-06 1594033270
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1594033270-HYS_00_001_qsetmsp4lgna0wyr_ug_TLS_1.0.1.bin
+
+oem_esp_1_switch_rnd_arlec
+1.0.7
+2021-04-06 1617689935
+https://images.tuyaeu.com/smart/firmware/upgrade/202104/1617689935-oem_esp_1_switch_rnd_arlec_8M_UG_TLS_1.0.7.bin
+
+oem_esp_2_switch_rnd_arlec
+1.0.8
+2021-04-06 1617689972
+https://images.tuyaeu.com/smart/firmware/upgrade/202104/1617689972-oem_esp_2_switch_rnd_arlec_8M_UG_TLS_1.0.8.bin
 
 oem_esp_dltj
 1.0.4
@@ -139,6 +174,11 @@ oem_esp_light1_pwm_e2l_jbt_onoff
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1574389769-oem_esp_light1_pwm_e2l_jbt_onoff_ug_TLS_1.0.2.bin
 
 oem_esp_light_tuya
+3.3.26
+2019-10-04 1570174119
+https://images.tuyaeu.com/smart/firmware/upgrade/201910/1570174119-oem_esp_light_tuya_ug_TLS_3.3.26.bin
+
+oem_esp_light_tuya
 3.3.30
 2019-12-10 1575993226
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1575993226-oem_esp_light_tuya_ug_TLS_3.3.30.bin
@@ -149,9 +189,19 @@ oem_esp_light_tuya
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1586425482-oem_esp_light_tuya_ug_TLS_3.3.31.bin
 
 oem_esp_light_tuya
+3.3.35
+2020-05-12 1589293755
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1589293755-oem_esp_light_tuya_ug_TLS_3.3.35.bin
+
+oem_esp_light_tuya
 7.4.3
 2019-12-11 1576031982
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1576031982-oem_esp_light_tuya_ug_TLS_7.4.3.bin
+
+oem_esp_light_tuya
+7.4.4
+2020-04-14 1586844697
+https://images.tuyaeu.com/smart/firmware/upgrade/202004/1586844697-oem_esp_light_tuya_ug_TLS_7.4.4.bin
 
 oem_esp_mingyi_5_plug
 1.0.3
@@ -162,6 +212,11 @@ oem_esp_plug
 1.0.8
 2019-07-06 1562404563
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1562404563-oem_esp_plug_ug_TLS_1.0.8.bin
+
+oem_esp_plug
+1.0.8
+2019-07-06 1562407369
+https://images.tuyaeu.com/smart/firmware/upgrade/201907/1562407369-oem_esp_plug_ug_TLS_1.0.8.bin
 
 oem_esp_plug
 1.0.9
@@ -178,6 +233,11 @@ oem_esp_plug
 2020-04-12 1586652072
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1586652072-oem_esp_plug_ug_TLS_1.1.1.bin
 
+oem_esp_plug
+1.1.2
+2020-11-26 1606374621
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202011/1606374621-oem_esp_plug_8M_UG_TLS_1.1.2.bin
+
 oem_esp_switch
 0.1.3
 2018-07-27 1532679802
@@ -189,11 +249,191 @@ oem_esp_switch
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1586317249-oem_esp_switch_ug_TLS_1.1.5.bin
 
 oem_tuya_irbox
+2.1.5
+2019-04-04 1554359193
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201904/1554359193-oem_tuya_irbox_ug_TLS_2.1.5.bin
+
+oem_tuya_irbox
 2.1.9
 2019-12-05 1575513613
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1575513613-oem_tuya_irbox_ug_TLS_2.1.9.bin
 
 oem_tuya_irbox
+2.2.1
+2020-04-13 1586796144
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1586796144-oem_tuya_irbox_ug_TLS_2.2.1.bin
+
+oem_tuya_irbox
 2.2.3
 2020-07-07 1594111101
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1594111101-oem_tuya_irbox_ug_TLS_2.2.3.bin
+
+esp_guanglan_1_switch
+1.0.1
+2018-05-16 1526462783
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1526462783-esp_guanglan_1_switch_ug_1.0.1.bin
+
+esp_common_anker
+1.1.5
+2020-05-26 1590509416
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1590509416-esp_common_anker_ug_TLS_1.1.5.bin
+
+esp_hlw8032_3plug_kuke
+1.1.0
+2019-05-24 1558669375
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201905/1558669375-esp_hlw8032_3plug_kuke_ug_TLS_1.1.0.bin
+
+esp_ble_mesh_gw
+2.1.0
+2018-09-01 1535770932
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201809/1535770932-esp_ble_mesh_gw_ug_2.1.0.bin
+
+esp_ble_mesh_gw
+2.1.3
+2019-09-24 1569319246
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201909/1569319246-esp_ble_mesh_gw_ug_TLS_2.1.3.bin
+
+oem_esp_guangda_2_plug
+1.0.2
+2019-04-25 1556190172
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201904/1556190172-oem_esp_guangda_2_plug_ug_TLS_1.0.2.bin
+
+esp_common_hssi_raw
+3.1.1
+2019-02-27 1551262060
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1551262060-esp_common_hssi_raw_ug_TLS_3.1.1.bin
+
+esp_kaite_4_outlet
+1.2.0
+2018-05-12 1526117370
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1526117370-esp_kaite_4_outlet_ug_1.2.0.bin
+
+esp_common
+3.1.1
+2019-02-27 1551260942
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1551260942-esp_common_ug_TLS_3.1.1.bin
+
+esp_common
+3.1.3
+2019-11-07 1573094766
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1573094766-esp_common_ug_TLS_3.1.3.bin
+
+snt952wl
+1.0.4
+2021-04-08 1617873870
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210408/1617873870-snt952wl_ug_1.0.4.bin
+
+esp_ycf_4_meigui_plug
+1.0.7
+2018-08-16 1534400310
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201808/1534400310-esp_ycf_4_meigui_plug_ug_1.0.7.bin
+
+esp_ycf_SOP03_plug
+1.0.4
+2019-05-08 1557300630
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201905/1557300630-esp_ycf_SOP03_plug_ug_TLS_1.0.4.bin
+
+HYS-01-085_SOCKET
+1.0.1
+2018-08-10 1533869912
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201808/1533869912-HYS-01-085_SOCKET_ug_1.0.1.bin
+
+esp_drxb_2_curtain_switch
+1.0.2
+2018-12-12 1544600873
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201812/1544600873-esp_drxb_2_curtain_switch_ug_1.0.2.bin
+
+HYS-00-012
+1.0.7
+2019-10-11 1570759946
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201910/1570759946-HYS-00-012_ug_1.0.7.bin
+
+esp_lgzh_4_ch
+1.0.5
+2020-08-07 1596795145
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1596795145-esp_lgzh_4_ch_ug_1.0.5.bin
+
+esp_common_lowper_lock
+1.0.4
+2019-07-10 1562767215
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1562767215-esp_common_lowper_lock_ug_TLS_1.0.4.bin
+
+oem_tuya_irbox_study_airsocket_new
+2.0.0
+2019-06-21 1561120466
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1561120466-oem_tuya_irbox_study_airsocket_new_ug_TLS_2.0.0.bin
+
+esp_whitelight_plug_jingling
+1.1.0
+2019-02-21 1550762059
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1550762059-esp_whitelight_plug_jingling_ug_TLS_1.1.0.bin
+
+oem_warm_dd_key_e3s
+1.0.2
+2019-12-11 1576042140
+https://images.tuyaeu.com/smart/firmware/upgrade/201912/1576042140-oem_warm_dd_key_e3s_ug_TLS_1.0.2.bin
+
+esp_color_light_luman
+1.3.0
+2018-04-11 1523431375
+https://images.tuyaeu.com/smart/firmware/upgrade/201804/1523431375-esp_color_light_luman_ug_1.3.0.bin
+
+oem_white_light_pwm_e3s_ir_angui
+1.0.1
+2019-04-09 1554811792
+https://images.tuyaeu.com/smart/firmware/upgrade/201904/1554811792-oem_white_light_pwm_e3s_ir_angui_ug_TLS_1.0.1.bin
+
+esp_drxb_4_curtain_switch
+1.0.4
+2018-12-14 1544780875
+https://images.tuyaeu.com/smart/firmware/upgrade/201812/1544780875-esp_drxb_4_curtain_switch_ug_1.0.4.bin
+
+oem_esp_keman_1_wane_switch
+1.0.1
+2019-10-23 1571805442
+https://images.tuyaeu.com/smart/firmware/upgrade/201910/1571805442-oem_esp_keman_1_wane_switch_ug_TLS_1.0.1.bin
+
+esp_lgzh_wk1
+1.0.4
+2020-08-20 1597915315
+https://images.tuyaeu.com/smart/firmware/upgrade/202008/1597915315-esp_lgzh_wk1_ug_1.0.4.bin
+
+oem_warm_light_pwm_e3s_biterui
+1.0.5
+2020-06-30 1593486526
+https://images.tuyaeu.com/smart/firmware/upgrade/202006/1593486526-oem_warm_light_pwm_e3s_biterui_ug_TLS_1.0.5.bin
+
+FL_lamp_c
+1.0.2
+2019-05-28 1559026926
+https://images.tuyaeu.com/smart/firmware/upgrade/201905/1559026926-FL_lamp_c_ug_1.0.2.bin
+
+esp_lgzh_smart_plug_16A
+1.0.6
+2020-08-07 1596783719
+https://images.tuyaeu.com/smart/firmware/upgrade/202008/1596783719-esp_lgzh_smart_plug_16A_ug_1.0.6.bin
+
+esp_warm_light_luman
+1.2.0
+2018-04-11 1523429694
+https://images.tuyaeu.com/smart/firmware/upgrade/201804/1523429694-esp_warm_light_luman_ug_1.2.0.bin
+
+esp_warm_light_luman_white
+1.2.0
+2018-04-11 1523430687
+https://images.tuyaeu.com/smart/firmware/upgrade/201804/1523430687-esp_warm_light_luman_white_ug_1.2.0.bin
+
+esp_pinjun_plug
+1.0.1
+2018-05-14 1526263665
+https://images.tuyaeu.com/smart/firmware/upgrade/201805/1526263665-esp_pinjun_plug_ug_1.0.1.bin
+
+esp_warm_light_pwm_e3s_ir_angui
+1.0.2
+2019-03-16 1552738908
+https://images.tuyaeu.com/smart/firmware/upgrade/201903/1552738908-esp_warm_light_pwm_e3s_ir_angui_ug_TLS_1.0.2.bin
+
+esp_tg_1_switch
+1.0.4
+2019-12-04 1575430471
+https://images.tuyaeu.com/smart/firmware/upgrade/201912/1575430471-esp_tg_1_switch_ug_TLS_1.0.4.bin

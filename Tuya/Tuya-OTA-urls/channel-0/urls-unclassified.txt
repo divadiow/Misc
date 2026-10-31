@@ -1,0 +1,119 @@
+Cleverio_CD_100_abdki8qyzh4lmod8_2.10.6_3b5355841ab7
+2.10.6
+2021-08-18 1629290047
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511509043755MhIx1/16292900473d97eea5c27.bin
+
+1711533831-2024-03-27_16-31-05_sc116wz3_UG_1.3.4_d5857d
+1.3.4
+2024-03-27 1711533831
+https://images.tuyaeu.com/smart/firmware/upgrade/20240327/1711533831-2024-03-27_16-31-05_sc116wz3_UG_1.3.4_d5857d.bin
+
+1739243153ddb513caf7b
+2.1.00903
+2025-02-11 1739243153
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1672297587970Y0dy/1739243153ddb513caf7b.bin
+
+1741653560052d94228af
+3.0.0.8
+2025-03-11 1741653560
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15507223992875xh7c/1741653560052d94228af.bin
+
+17675780956337d43e3fb
+1.1.5
+2026-01-05 1767578095
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619746465859fsjt/17675780956337d43e3fb.bin
+
+Energizer_Doorbell_Cam_hnldrhknzv6bhzcf_2.10.0_90b6f027a479
+2.10.0
+2021-08-02 1627911705
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511509043755MhIx1/1627911705fc1af9c2ab9.bin
+
+PTZ_Camera_Setti_SC822_2qpika50turuwci4_33.53.92_9598543d0b8a
+33.53.92
+2025-03-25 1742881347
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1549882947781AQ72q/174288134765615c06453.tar
+
+Wi_Fi_repeater_wo8ibue55x1n2oaz_5.0.220624_c8f1099bec78
+5.0.220624
+2022-06-24 1656040196
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1580896010506VFGF/165604019678076e4d36d.bin
+
+162823789868063d39c28
+2.10.5
+2021-08-06 1628237898
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511509043755MhIx1/162823789868063d39c28.bin
+
+Calex_Mini7S_ahpgd4ptfekaer6k_4.0.7_16543d710205
+4.0.7
+2021-08-17 1629165947
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/1629165947905b6a099dc.bin
+
+Pet_Camera_1i2i6gmjoiane3xq_1.0.10_a052a89c1da6
+1.0.10
+2021-08-10 1628590224
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541558493284HeY6j/162859022491422e24372.bin
+
+TA_R9410_X2_rQsyl5xNfjpuZRhx_5.1.34_6ad915d4a6f0
+5.1.34
+2019-07-03 1562125295
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1562125295-5.1.34.zip
+
+Dream_Smart_Strip_XZ_D005_XZ_D006_wo6ugmvivdwxeobc_1.0.7_8b95ff416449
+1.0.7
+2021-08-25 1629893212
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596451683727LH1p/1629893212785338888b0.bin
+
+adapt_multimode_rfl8197fs_gw_fw
+1.1.0
+2022-06-20 1655731200
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220620/1655731200-adapt_multimode_rfl8197fs_gw_fw_UG_1.1.0.bin
+
+Petoneer_Cozy_Sofa_PH001_peo7xy3qgseqiyeu_1.2.9_e92c1a6d98aa
+1.2.9
+2025-01-08 1736314865
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1625108616122ANAG/17363148654329b6593fb.bin
+
+NutriVue_Feeder_PF008_olj2mhrlkvaj2w6y_3.16.16_7ace8d49cc69
+3.16.16
+2025-03-12 1741759084
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1625108616122ANAG/17417590845545555cc63.tar
+
+Haier_HSR_Pro_Lite_robot_vacuum_7v72fti5wivzgyzh_1.1.23_a3c89a44dfa4
+1.1.23
+2025-02-19 1739962603
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16048871493199Sbw/1739962603752913c5d29.bin
+
+KaBuM_Smart_900_Robot_Vacuum_7vx4ulan46paequq_0.1.14_aec2c7ac7968
+0.1.14
+2025-03-31 1743417464
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/ay1534681176370JSCKe/1743417464d0aed0ee9f5.bin
+
+Ecostrad_iQ_Ceramic_Radiator_7vmieyhabmukishx_1.0.8_9e782c340697
+1.0.8
+2021-08-08 1628425936
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1582356467127Ny1x/1628425936fb331d35f68.bin
+
+J166_Lidar_Robot_Vacuum_hevy1wkrdpvajqhl_1.0.35_7f9e4636a837
+1.0.35
+2019-12-12 1576118656
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1576118656-CleanPack2_W1_1.0.35.bin
+
+Solar_PTZ_Camera_ZC_YT01_ta8jymsud9ncwluj_3.4.26_1da42b0f569c
+3.4.26
+2021-08-04 1628076649
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1535355575089lOaew/16280766494c43cc43cd8.bin
+
+3MP_WiFi_PTZ_Camera_HB_6303_D_rv4pjeyypnkybvku_8.4.0_5f31e767c006
+8.4.0
+2021-09-29 1632895710
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1568808812161OlPJW/1632895710bf5d0c0d073.bin
+
+TY_S2_N1_WiFi_Camera_sdaelhizbh4wrssc_5.1.56_1e95a179ddb3
+5.1.56
+2019-10-10 1570686331
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/1570686331c3bd8d34783.bin
+
+L16_Battery_Doorbell_qkoxvevsydtaf3zv_28.00.29_3f3792151f40
+28.00.29
+2020-09-22 1600765300
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1512807056914MYFQP/1600765300c51e606d3ab.bin

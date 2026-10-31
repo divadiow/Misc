@@ -1,4 +1,49 @@
 rtlam_zigbee_gw
+1.1.7
+2019-09-30 1569825172
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201909/1569825172-rtlam_zigbee_gw_ug_1.1.7.bin
+
+rtlam_zigbee_gw
+1.1.11
+2020-03-05 1583418136
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202003/1583418136-rtlam_zigbee_gw_ug_1.1.11.bin
+
+rtlam_zigbee_gw
+1.1.12
+2020-04-03 1585898483
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1585898483-rtlam_zigbee_gw_ug_1.1.12.bin
+
+rtlam_zigbee_gw
+1.3.3
+2020-07-04 1593868431
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1593868431-rtlam_zigbee_gw_UG_1.3.3.bin
+
+rtlam_zigbee_gw
+1.10.0
+2022-03-18 1647582903
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220318/1647582903-rtlam_zigbee_gw_UG_1.10.0.bin
+
+rtlam_zigbee_gw
+1.11.0
+2022-06-16 1655348396
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220616/1655348396-rtlam_zigbee_gw_UG_1.11.0.bin
+
+rtlam_zigbee_gw
+1.12.0
+2022-10-21 1666357871
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202210/1666357871-rtlam_zigbee_gw_UG_1.12.0.bin
+
+rtlam_zigbee_gw
 1.13.2
 2023-03-09 1678359650
 https://images.tuyaeu.com/smart/firmware/upgrade/202303/1678359650-rtlam_zigbee_gw_UG_1.13.2.bin
+
+oem_rtlam_gw_common_4M
+1.1.6
+2019-10-30 1572429773
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201910/1572429773-oem_rtlam_gw_common_4M_ug_1.1.6.bin
+
+oem_rtlam_gw_common_4M
+1.2.1
+2020-01-09 1578572425
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202001/1578572425-oem_rtlam_gw_common_4M_ug_1.2.1.bin

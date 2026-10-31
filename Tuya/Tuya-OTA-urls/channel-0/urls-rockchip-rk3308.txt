@@ -1,0 +1,4 @@
+tyznzk_TPP01_Z
+3.5.17
+2025-05-30 1748583692
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250530/1748583692-tyznzk_TPP01_Z_OTA_3.5.17.bin

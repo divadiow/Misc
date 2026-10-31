@@ -1,0 +1,4 @@
+HB_QT36B_Robot_Vacuum_z9q1iuoexlubea7e_0.2.25_9daea2eae145
+0.2.25
+2020-12-01 1606814282
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1570852756293GLWZy/16068142823cc0fc29976.bin

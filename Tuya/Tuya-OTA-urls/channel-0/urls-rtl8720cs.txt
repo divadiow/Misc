@@ -1,0 +1,14 @@
+oem_8720cs_gw
+1.0.1
+2021-04-02 1617354897
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210402/1617354897-oem_8720cs_gw_UG_1.0.1.bin
+
+oem_8720cs_plug
+1.4.9
+2021-03-03 1614755974
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1614755974-oem_8720cs_plug_UG_1.4.9.bin
+
+oem_8720cs_plug
+1.6.2
+2021-10-20 1634711842
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211020/1634711842-oem_8720cs_plug_UG_1.6.2.bin

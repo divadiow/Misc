@@ -1,0 +1,14 @@
+Smart_Camera_9kk1nnsdopwl8k3l_1.4.8_510324205cd3
+1.4.8
+2022-05-24 1653396671
+https://images.tuyaeu.com/smart/firmware/upgrade/ay14873200345347KYMv/1653396671eabcaea9ef4.tar
+
+W4_Outdoor_PTZ_Camera_rg9ocp8xsmqlvjmc_2.1.3_84f1133266b0
+2.1.3
+2021-11-05 1636099517
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565933216599i3hct/163609951737732da982c.tar
+
+IPC112N_Camera_hpt7bbgapbrbat1f_1.2.7_f3dd1b5a42fb
+1.2.7
+2019-08-29 1567093457
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201908/1567093457-update.bin

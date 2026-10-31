@@ -1,0 +1,4 @@
+R430_Visual_Navigation_Robot_Vacuum_2bx48wbo9fbi3ivv_0.0.7_9f4f5b27975c
+0.0.7
+2019-08-13 1565684999
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1534681176370JSCKe/1565684999f59b9e978c4.bin

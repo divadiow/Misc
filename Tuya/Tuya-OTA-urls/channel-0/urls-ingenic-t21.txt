@@ -1,0 +1,24 @@
+linux_wifi_wired [jciufmbgjxjkwbq0]
+12.01.50
+2019-12-03 1575388773
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1575388773-F3C.TUYA.12.01.50.bin
+
+Tuya_702JBU_Ingenic_T21 [pftcuvcum7mqidfi]
+20.01.22
+2021-07-12 1626079979
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1581905408571hble/1626079979a2c2d8a234c.bin
+
+YT08I_TY_Smart_Tilt_Camera_aear3rjadzbuxybb_61.1.39_ae2de2abff53
+61.1.39
+2019-10-30 1572427929
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201910/1572427929-61.1.39.bin
+
+TY_S2_Q08_Floodlight_PTZ_Camera_vvnsj8zkaymixpuv_1.7.10_8cc1c41aad83
+1.7.10
+2022-02-10 1644493982
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/1644493982e8befd2d8bd.bin
+
+QJ05_TY_Outdoor_Box_Camera_bihaey7fkkrnabeg_1.1.26_b0f8f2bf378d
+1.1.26
+2019-07-20 1563656489
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1543912956738FkWZK/1563656489efc4b5f6e1b.bin

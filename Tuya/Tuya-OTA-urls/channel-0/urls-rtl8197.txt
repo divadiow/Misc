@@ -1,0 +1,4 @@
+rtl8197_bs_gw_prj
+0.1.0
+2022-03-22 1647944846
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220322/1647944846-wired_bluetooth_rfl8197fs_gw_fw_UG_0.1.0.bin

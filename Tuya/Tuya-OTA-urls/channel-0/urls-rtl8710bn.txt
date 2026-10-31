@@ -63,3 +63,17 @@ rtlbn_tls_common_115200
 2019-11-05 1572921986
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1572921986-rtlbn_tls_common_115200_ug_1.0.5.bin
 
+rtlbn_dltj_1plug_softbank
+1.2.1
+2022-01-18 1642504949
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220118/1642504949-rtlbn_dltj_1plug_softbank_ug_1.2.1.bin
+
+oem_rtlbn_tuya_irbox_airsocket
+2.0.2
+2019-11-01 1572578947
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1572578947-oem_rtlbn_tuya_irbox_airsocket_ug_2.0.2.bin
+
+rtlbn_common
+1.0.3
+2018-11-21 1542793321
+https://images.tuyaeu.com/smart/firmware/upgrade/201811/1542793321-rtlbn_common_ug_1.0.3.bin

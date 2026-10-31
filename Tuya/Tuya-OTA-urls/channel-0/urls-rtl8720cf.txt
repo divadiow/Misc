@@ -127,3 +127,13 @@ rtl8720cf_factory
 2.1.0
 2020-05-31 1590885160
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1590885160-rtl8720cf_factory_UG_2.1.0.bin
+
+rtl8720cf_voice_aircon_tcl_home
+1.0.69
+2026-05-25 1779693593
+https://images.tuyaeu.com/smart/firmware/upgrade/20260525/1779693593-rtl8720cf_voice_aircon_tcl_home_UG_1.0.69.bin
+
+Fresco_Mini_Pro_cp0uhxkjaky9thcz_1.0.11_085c112405f7
+1.0.11
+2024-04-11 1712813883
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1710134170390k1A1/1712813883c3376649cfc.bin

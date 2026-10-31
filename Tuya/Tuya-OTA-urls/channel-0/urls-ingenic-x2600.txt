@@ -1,0 +1,4 @@
+Lefant_M1_xlljfbbnf5yjit6k
+1.8.36
+2024-08-19 1724036059
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16074806709595RO4/17240360596fdedf56e1d.tar.gz

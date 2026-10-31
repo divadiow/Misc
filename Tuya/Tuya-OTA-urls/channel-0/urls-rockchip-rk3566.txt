@@ -1,0 +1,4 @@
+tpa08
+1.6.008
+2026-06-17 1781676815
+https://images.tuyaeu.com/smart/firmware/upgrade/20260617/1781676815-intl_tpa08_UG_1.6.008.bin

@@ -1,0 +1,4 @@
+app.ifu
+1.2.6
+2022-11-18 1668769018
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1568808812161OlPJW/1668769018b0b88457044.bin

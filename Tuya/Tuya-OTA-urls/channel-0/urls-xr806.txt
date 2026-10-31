@@ -22,3 +22,8 @@ xr806_lowpower_common_ty
 1.1.9
 2025-06-11 1749634972
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202506/1749634972-xr806_lowpower_common_ty_UG_1.1.9.bin
+
+tuya_module_wifi_delta_from_1.0.0
+1.0.4
+2024-08-03 1722682007418
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/diff/keyryxypduts8upx-1.0.4-1.0.0-1722682007418
