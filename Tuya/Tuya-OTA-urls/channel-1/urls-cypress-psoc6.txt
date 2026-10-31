@@ -1,0 +1,4 @@
+tysl_ble_public_pro_demo_psoc63
+8.6
+2022-04-07 1649313141
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1623305637055alhA/164931314199bb23d638e.bin

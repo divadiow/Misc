@@ -1,0 +1,24 @@
+SMKB2_ty_nRF52832_jaec8zfx
+1.5
+2021-01-11 1610366319
+https://images.tuyaeu.com/smart/firmware/upgrade/202101/1610366319-SMKB2_ty_nRF52832_jaec8zfx_1.5.bin
+
+SW_164_nRF52832_p7ncbdgh_3.4_b6f20481abf2
+3.4
+2021-04-08 1617851079
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1597023448052Wf6A/1617851079d7c21867f0e.bin
+
+tuya_ble_sdk_app_demo_nrf52832
+1.8
+2021-07-15 1626338018
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1615266822372MAjL/16263380180abe161e182.bin
+
+tuya_ble_sdk_app_demo_nrf52832
+2.1
+2021-03-16 1615899088
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1597023448052Wf6A/1615899088c86815cba28.bin
+
+WL_TY_PB_NRF52832
+1.0
+2020-08-21 1597997470
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1597997470-WL_TY_NRF52832_1.0.hex

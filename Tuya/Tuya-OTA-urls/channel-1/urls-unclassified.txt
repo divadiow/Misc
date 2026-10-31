@@ -1,3 +1,18 @@
+1634294017b04aa85439c.bin [aaohh9lb]
+4.1
+2021-10-15 1634294017
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16294379171616qRv/1634294017b04aa85439c.bin
+
+16702236718498606d814.bin [paqp1yz1]
+4.1.11
+2022-12-05 1670223671
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1639102822731S1Qa/16702236718498606d814.bin
+
+1678267780dea0759c773.bin [b2kaqstl]
+1.6
+2023-03-08 1678267780
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1604471687925inCm/1678267780dea0759c773.bin
+
 1679281844cfd17e2d4e3.bin [okkyfgfs]
 4.7
 2023-03-20 1679281844
@@ -42,3 +57,118 @@ https://images.tuyaeu.com/smart/firmware/upgrade/bay1652942714461Akp0/1761807347
 4.8
 2023-03-20 1679280831
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/16792808312527b3213bf.bin
+
+bluetooth_smart_lock_6pt5mb09_3.4_9270221c7a81
+3.4
+2025-12-25 1766633553
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/1766633553ae9650c545b.bin
+
+CTL20_SmartLock_tkbdvrzr_1.2.2_c5c9366714fc
+1.2.2
+2024-03-27 1711526800
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1639103512342JX7A/1711526800b58fc6c9c4a.bin
+
+Curtain_Robot_cq7xquhj_2.4_2e38887b50e8
+2.4
+2025-11-25 1764052945
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1652942714461Akp0/1764052945ab4e1b432ec.bin
+
+ES830_0m1ajdjg_1.2.2_e1addd53c527
+1.2.2
+2026-06-16 1781575691
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1639103512342JX7A/17815756917f6c3819732.bin
+
+KUMI_KU3S_cdiytarq
+2.1.12
+2022-12-12 1670816693
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1639102822731S1Qa/167081669377cbb7e445c.bin
+
+mg21_ncp_ble_mesh
+4.3.3
+2025-11-11 1762842564
+https://images.tuyaeu.com/smart/firmware/upgrade/20251111/1762842564-mg21_ncp_ble_mesh_UG_4.3.3.gbl
+
+Multimode_engineering_Gateway_wbbpigvvljeyrfxx_3.21.12_350873d62371
+3.21.12
+2024-11-28 1732757175
+https://images.tuyaeu.com/smart/firmware/upgrade/20241128/1732757175-mg21_ncp_ble_mesh_app_3.21.12.bin
+
+P02-PADLock_eqq4d6t7_3.3_18981888e061
+3.3
+2024-10-25 1729833866
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1639103512342JX7A/1729833866fb2192571b5.bin
+
+PW-500.app_ZX-5174_Smartwatch_nifmtxau
+6.6.7
+2022-04-14 1649936387
+https://images.tuyaeu.com/smart/firmware/upgrade/bay162911976655318xE/16499363875d7826507a7.bin
+
+R1_Smart_Lock_jiqwweph_1.4_fb351483c46a
+1.4
+2021-06-22 1624349350
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1604471687925inCm/1624349350bed4afad4b4.bin
+
+Roller_Blind_Robot_ousymtkt_1.5_a37cb8cbf9a7
+1.5
+2025-10-29 1761704140
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1652942714461Akp0/1761704140f4ef29a5e14.bin
+
+S1-TY-BLE-PRO_xqeob8h6_1.22_70786a0691fa
+1.22
+2024-06-14 1718345899
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1593504138803c9s7/1718345899261e04fb988.bin
+
+SecuroSmart_Lock_uyf1ewof
+6.2
+2023-05-16 1684236717
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15756008579021QDcV/168423671786a03aad6e5.bin
+
+Smart_Cylinder_Lock_z7ljx76i_1.9_2a9d3a64bb89
+1.9
+2024-10-23 1729691776
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1690359752339WXIj/1729691776ada8c300b05.bin
+
+Smart_Lock_qymgyczo_1.2.1_a5ebe7ec18dc
+1.2.1
+2026-06-15 1781519196
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1608689295835kN1v/1781519196e3d2185b143.bin
+
+Smart_Lock_teuldtae_1.1.8_daaa67c7f53d
+1.1.8
+2026-06-17 1781659668
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1608689295835kN1v/178165966813827d79de2.bin
+
+Echo4life_SL001_Lock_g9jsbm96_8.6_fdeb8ee741e6
+8.6
+2022-04-07 1649313368
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1623305637055alhA/16493133689ee7422fcfc.bin
+
+tuya_common_sdk_security_test
+8.1
+2021-05-02 1619936843
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210502/1619936843-tuya_common_sdk_security_test_ota_8.1.bin
+
+bomi_sdk
+3.5
+2022-03-01 1646144769
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1552298716418yWO8K/1646144769551a6061b64.bin
+
+Blusafe_Cloud_D01_Smart_Handle_Lock_gfv3bnqb_1.3_879cc6a0243e
+1.3
+2021-05-17 1621258215
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210517/1621258215-tuya_ble_lock_blusafe_nrf52_1.3.bin
+
+M1_Smart_Thermos_Bottle_locxusro_1.5_ecf38aa2ef3c
+1.5
+2021-07-23 1627023058
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1591156390623nO7n/1627023058168dfd119cb.bin
+
+MG_ZN001_Pawbby_Smart_Pet_Bowl_oyby0ull_1.10_4a3f909195f2
+1.10
+2021-06-08 1623112740
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1540891424367IByqR/16231127401b5c5bef6cb.bin
+
+YU0215_Cling_AURA_Wristband_d8gotd3s_1.50_b89f1eaedd3c
+1.50
+2020-01-08 1578477209
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521086571246ZWpjq/15784772095fd4ccbab55.bin

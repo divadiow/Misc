@@ -1,0 +1,14 @@
+GT5S_Smart_Watch_3purhqad_4.5.8_764c8e05622f
+4.5.8
+2022-07-14 1657764632
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1637224451118w7Fm/16577646327f64df01f99.bin
+
+V200_Smart_Watch_lhmr9ehm_1.22_39833343ea26
+1.22
+2021-10-28 1635385139
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16294379171616qRv/1635385139f2e33e6b888.bin
+
+V300_Smart_Watch_abpouvod_3.19_7ae745d25eb6
+3.19
+2021-12-07 1638858068
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1625541581171DbPa/1638858068a7792684caf.bin

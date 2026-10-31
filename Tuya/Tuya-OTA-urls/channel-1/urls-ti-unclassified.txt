@@ -1,0 +1,5 @@
+
+K3_BLE_PRO_ba2qk177_2.3.43_cddc094bc12c
+2.3.43
+2025-08-30 1756538582
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1593504138803c9s7/1756538582fafdd0df653.bin

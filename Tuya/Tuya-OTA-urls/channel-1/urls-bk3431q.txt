@@ -1,0 +1,94 @@
+bk_3431q_ble_lock_gyuan_bt2
+0.2
+2021-01-19 1611056299
+https://images.tuyaeu.com/smart/firmware/upgrade/202101/1611056299-bk_3431q_ble_lock_gyuan_bt2_0.2.bin
+
+bk_3431q_ble_lock_gyuan_bt2a
+0.5
+2022-06-15 1655288345
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1574134545425Sb8nN/16552883452104ebf390d.bin
+
+bk_3431q_ble_lock_leiy_bt1
+0.6
+2021-03-17 1615965797
+https://images.tuyaeu.com/smart/firmware/upgrade/202103/1615965797-bk_3431q_ble_lock_leiy_bt1_0.6.bin
+
+bk_3431q_ble_lock_yisiwei_CYZ_S1
+2.8
+2022-08-18 1660804223
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/166080422316c94f5d2c6.bin
+
+bk_3431q_ble_lock_yisiwei_CYZ_S1
+3.3
+2023-03-15 1678850492
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/1678850492e428e7ce981.bin
+
+bk_3431q_ble_lock_yisiwei_P22
+2.4
+2021-06-15 1623742867
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/162374286766bd8cd63ec.bin
+
+bk_3431q_ble_lock_yisiwei_P22_bt
+1.8
+2022-09-28 1664352442
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/1664352442f89ebe3bd25.bin
+
+bk_3431q_ble_lock_yisiwei_P22_bt
+1.8
+2022-09-28 1664353036
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/16643530368c70f033bad.bin
+
+bk_3431q_ble_lock_yisiwei_PLD_DS01
+6.6
+2022-12-10 1670654268
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15724370520156puq6/1670654268fbee0d0695d.bin
+
+tuya_ble_antilost_common_bk3431q
+1.5
+2020-12-07 1607340195
+https://images.tuyaeu.com/smart/firmware/upgrade/202012/1607340195-tuya_ble_antilost_common_bk3431q_1.5.bin
+
+tuya_ble_bluekey_bk3431q
+4.2
+2023-07-26 1690380399
+https://images.tuyaeu.com/smart/firmware/upgrade/20230726/1690380399-tuya_ble_bluekey_bk3431q_4.2.bin
+
+tuya_ble_lock_common_bk3431q_3
+2.4
+2021-10-26 1635215593
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1618898765024eIQQ/163521559309df21aefbe.bin
+
+tuya_ble_lock_common_bk3431q_3
+26.2
+2023-01-06 1672997651
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16552845471828P2H/16729976518f9677e0da9.bin
+
+tuya_ble_lock_fittings_common_bk3431q
+6.8
+2022-03-25 1648188890
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1623305637055alhA/1648188890d2412cc6d08.bin
+
+tuya_ble_lock_fittings_common_bk3431q
+7.10
+2022-08-26 1661500341
+https://images.tuyaeu.com/smart/firmware/acc/bay16552845471828P2H/1661500341db71f31fef7.bin
+
+YSW_BK3431Q_BLE_GY_H13
+5.6
+2025-04-14 1744595710
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15756008579021QDcV/1744595710e8aca12d711.bin
+
+ty_ble_demo
+0.2
+2025-11-24 1763979223
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1607074564173DosP/17639792238db42b10722.bin
+
+yunding_peugeot_lock_Y1_bk3431q
+2.5
+2022-05-11 1652262828
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1606371924768xMMa/165226282891059d0e448.bin
+
+TUYA_BCI_BK3431Q
+4.0
+2020-10-31 1604133753
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202010/1604133753-TUYA_BCI_BK3431Q_OTA_4.0.bin

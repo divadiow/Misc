@@ -2,3 +2,28 @@
 1.2.2
 2022-11-30 1669821039
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1552298716418yWO8K/16698210393233a1ff9d2.bin
+
+ble_lock_AT1_PRO_NORDIC_QIO
+1.9
+2022-11-30 1669821350
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1552298716418yWO8K/1669821350965dd11ee68.bin
+
+ble_lock_PT1_MAX_NORDIC_QIO
+1.6
+2022-09-05 1662354619
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1552298716418yWO8K/1662354619048b0abb56c.bin
+
+Cling_LEAP_CL0220_Smart_Watch_XjAwyxIE_1.65_8e83d3456763
+1.65
+2020-01-08 1578477150
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521086571246ZWpjq/1578477150d615df4de86.bin
+
+AT1_Retrofit_Lock_xydphwgb_1.8_7d81a5993a8e
+1.8
+2020-08-26 1598406449
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1598406449-BM_AT1_QIO_1.8.bin
+
+S170_All_in_one_Smart_Lock_h5zwhnwe_1.2_020b9f2baa77
+1.2
+2020-11-20 1605844532
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15602459704817nQ2d/160584453209cca05c9b7.bin

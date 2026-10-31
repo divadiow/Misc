@@ -7,3 +7,18 @@ https://images.tuyaeu.com/smart/firmware/upgrade/bay1588755969426Gamy/1699356325
 2.0
 2026-06-08 1780900768
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1756735685533VSCW/178090076802ab72f1e31.bin
+
+Pooleco_10S_uqybeeaw_1.1.5_eee07b199460
+1.1.5
+2025-05-22 1747901747
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619086319874gLD4/1747901747dabff1d14ec.bin
+
+Wireless_Water_Timer_9ud9tca8
+1.25
+2023-06-20 1687245316
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1588755969426Gamy/16872453169e41cb951e2.bin
+
+Petoneer_NutriCare_Feeder_PF009_Telink_ocsy1a5e_1.3.76_6997e0242375
+1.3.76
+2025-11-06 1762418279
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1624437525536EzXP/1762418279185a5e544aa.bin

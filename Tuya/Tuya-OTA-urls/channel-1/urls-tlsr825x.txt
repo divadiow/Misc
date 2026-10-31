@@ -23,7 +23,72 @@ ble_825x_water_valve
 2021-10-14 1634198207
 https://images.tuyaeu.com/smart/firmware/upgrade/20211014/1634198207-ble_825x_water_valve_7.40.bin
 
+Bluetooth_Dual_Irrigation_Controller_1cdtfdtu_1.7_88bb845781fc
+1.7
+2024-01-03 1704260677
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1528018319540RHaJO/170426067754ee2a75c1c.bin
+
+oem_tlsr825x_humi_temp
+3.3
+2023-06-12 1686537001
+https://images.tuyaeu.com/smart/firmware/upgrade/20230612/1686537001-oem_tlsr825x_humi_temp_3.3.bin
+
+oem_tlsr825x_humi_temp_plus
+1.3
+2022-06-30 1656588123
+https://images.tuyaeu.com/smart/firmware/upgrade/20220630/1656588123-oem_tlsr825x_humi_temp_plus_1.3.bin
+
+tlsr_825x_sig_mesh_common
+0.6
+2019-09-06 1567779890
+https://images.tuyaeu.com/smart/firmware/upgrade/201909/1567779890-tlsr_825x_sig_mesh_common_0.6.bin
+
+tlsr_825x_sig_mesh_common
+1.1
+2020-11-14 1605338296
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605338296-tlsr_825x_sig_mesh_common_1.1.bin
+
 tlsr_ble_825x_common_custom_Lidl
 9.1
 2021-10-26 1635230649
 https://images.tuyaeu.com/smart/firmware/upgrade/20211026/1635230649-tlsr_ble_825x_common_custom_Lidl_ota_9.1.bin
+
+TUYA_BCI_SENSOR_TLSR825x
+1.2
+2024-04-07 1712459027
+https://images.tuyaeu.com/smart/firmware/upgrade/20240407/1712459027-TUYA_BCI_SENSOR_TLSR825x_OTA_1.2.bin
+
+8258_module
+7.7
+2019-12-20 1576826163
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1576826163-8258_module_7.7.bin
+
+oem_tlsr825x_ble_4probe
+0.3
+2021-11-03 1635904346
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211103/1635904346-oem_tlsr825x_ble_4probe_0.3.bin
+
+tlsr_825x_mesh_rgbwcl_yu_td_h
+4.8
+2020-03-19 1584611986
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202003/1584611986-tlsr_825x_mesh_rgbwcl_yu_td_h_4.8.bin
+
+tuya_ble_quwen_tlsr825x
+1.6
+2024-06-06 1717643102
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240606/1717643102-tuya_ble_quwen_tlsr825x_1.6.bin
+
+tlsr_825x_sig_5rgbcw_h_pwm_cw_bt3l_oem_cfg
+0.9
+2019-08-23 1566546503
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201908/1566546503-tlsr_825x_sig_5rgbcw_h_pwm_cw_bt3l_oem_cfg_0.9.bin
+
+tuya_ble_sdk_demo_tlsr825x
+1.6
+2022-04-07 1649316461
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1624437525536EzXP/164931646111429900d78.bin
+
+tlsr_825x_sigmesh_remote_taiji
+0.3
+2021-06-28 1624861683
+https://images.tuyaeu.com/smart/firmware/upgrade/20210628/1624861683-tlsr_825x_sigmesh_remote_taiji_0.3.bin

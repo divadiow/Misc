@@ -1,0 +1,4 @@
+bk3435_ble_ty_app
+1.67
+2021-06-23 1624430581
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210623/1624430581-bk3435_ble_ty_app_oad_1.67.bin

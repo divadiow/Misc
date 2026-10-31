@@ -2,3 +2,18 @@ oem_phy62xx_temp_humi_lcd_fly
 2.4
 2023-03-10 1678433527
 https://images.tuyaeu.com/smart/firmware/upgrade/20230310/1678433527-oem_phy62xx_temp_humi_lcd_fly_2.4.bin
+
+oem_PHY6222_lightcfg_pwm_ty
+2.2
+2022-07-27 1658930032
+https://images.tuyaeu.com/smart/firmware/upgrade/20220727/1658930032-oem_PHY6222_lightcfg_pwm_ty_2.2.bin
+
+PHY6222_Thermohygrometer_TH05Y
+2.0
+2024-01-30 1706600193
+https://images.tuyaeu.com/smart/firmware/upgrade/20240130/1706600193-PHY6222_Thermohygrometer_TH05Y_2.0.bin
+
+Tuya_Temperature_Humidity_Sensor_acbm3gtd
+1.4
+2023-07-11 1689047527
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1679380238369Xn7I/16890475276b2a91579e3.bin

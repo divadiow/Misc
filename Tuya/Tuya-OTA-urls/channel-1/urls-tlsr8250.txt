@@ -1,3 +1,23 @@
+oem_tlsr8250_lightcfg_bt8c_ty
+3.1
+2020-05-13 1589371886
+https://images.tuyaeu.com/smart/firmware/upgrade/202005/1589371886-oem_tlsr8250_lightcfg_bt8c_ty_3.1.bin
+
+oem_tlsr8250_lightcfg_pwm_ty
+3.2
+2020-07-17 1594972868
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1594972868-oem_tlsr8250_lightcfg_pwm_ty_3.2.bin
+
+oem_tlsr8250_lightcfg_pwm_ty
+4.2
+2021-05-19 1621427727
+https://images.tuyaeu.com/smart/firmware/upgrade/20210519/1621427727-oem_tlsr8250_lightcfg_pwm_ty_4.2.bin
+
+oem_tlsr8250_lightcfg_pwm_ty
+4.6
+2021-10-30 1635602903
+https://images.tuyaeu.com/smart/firmware/upgrade/20211030/1635602903-oem_tlsr8250_lightcfg_pwm_ty_4.6.bin
+
 oem_tlsr8250_lightcfg_pwm_ty
 4.9
 2022-06-01 1654085033
@@ -12,3 +32,8 @@ tls_ble_common_8250_ly
 1.53
 2025-07-17 1752720574
 https://images.tuyaeu.com/smart/firmware/upgrade/20250717/1752720574-tls_ble_common_8250_ly_1.53.bin
+
+3Z_tls_ble_8250
+1.6
+2021-01-12 1610456854
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202101/1610456854-3Z_tls_ble_8250_1.6.bin

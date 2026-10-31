@@ -1,4 +1,24 @@
+tlsr_8266_mesh_rgbl_h_beacon_key
+3.8
+2019-09-02 1567396594
+https://images.tuyaeu.com/smart/firmware/upgrade/201909/1567396594-tlsr_8266_mesh_rgbl_h_beacon_key_3.8.bin
+
+tlsr_8266_mesh_wifi_adapter_common
+3.4
+2018-11-14 1542179384
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201811/1542179384-tlsr_8266_mesh_wifi_adapter_common_3.4.bin
+
 tlsr_8266_mesh_wifi_adapter_common
 3.7
 2019-04-17 1555498659
 https://images.tuyaeu.com/smart/firmware/upgrade/201904/1555498659-tlsr_8266_mesh_wifi_adapter_common_3.7.bin
+
+tlsr_8266_mesh_aledapter
+1.0
+2019-06-18 1560826625
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1560826625-tlsr_8266_mesh_aledapter_1.0.bin
+
+tlsr_8266_mesh_rgbwcl_keyi_h
+3.8
+2019-01-14 1547447894
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201901/1547447894-tlsr_8266_mesh_rgbwcl_keyi_h_3.8.bin
