@@ -17,3 +17,8 @@ Smart Dual-Outlet Water Timer
 2.0.6
 2026-05-09 1778320472
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1699598085872fwbO/1778320472dd731ae7496.bin
+
+bk7236_video_lock_ty
+3.0.41
+2026-04-14 1776162299
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202604/1776162299-bk7236_video_lock_ty_UG_3.0.41.bin

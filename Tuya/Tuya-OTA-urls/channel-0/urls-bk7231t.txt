@@ -113,6 +113,11 @@ oem_bk7231s_light_sp_mix4to5_db
 2021-04-10 1618021222
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202104/1618021222-oem_bk7231s_light_sp_mix4to5_db_UG_1.1.4.bin
 
+oem_bk7231s_light_sp_mix4to5_db
+1.1.7
+2022-05-30 1653890915
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202205/1653890915-oem_bk7231s_light_sp_mix4to5_db_UG_1.1.7.bin
+
 oem_bk7231s_light_ty
 2.9.3
 2020-09-07 1599486839
@@ -149,9 +154,19 @@ oem_bk7231s_strip_ir_daybetter
 https://images.tuyaeu.com/smart/firmware/upgrade/202104/1619518408-oem_bk7231s_strip_ir_daybetter_UG_1.1.9.bin
 
 oem_bk7231s_strip_ty
+1.0.5
+2020-04-09 1586438747
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1586438747-oem_bk7231s_strip_ty_ug_1.0.5.bin
+
+oem_bk7231s_strip_ty
 1.1.2
 2020-09-07 1599464227
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202009/1599464227-oem_bk7231s_strip_ty_UG_1.1.2.bin
+
+oem_bk7231s_strip_ty
+1.1.6
+2020-11-26 1606380362
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202011/1606380362-oem_bk7231s_strip_ty_UG_1.1.6.bin
 
 oem_bk7231s_strip_ty
 1.3.3

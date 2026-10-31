@@ -63,6 +63,11 @@ rtl8720cf_common_lock_ty
 2024-01-17 1705479462
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202401/1705479462-rtl8720cf_common_lock_ty_UG_1.1.14.bin
 
+rtl8720cf_common_lock_ty
+1.2.6
+2026-01-30 1769765585
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202601/1769765585-rtl8720cf_common_lock_ty_UG_1.2.6.bin
+
 rtl8720cf_common_tcl_air_ty
 1.0.2
 2022-12-30 1672392822

@@ -129,6 +129,16 @@ oem_bk7231n_1onoff_433_nuohua
 https://images.tuyaeu.com/smart/firmware/upgrade/20211210/1639126264-oem_bk7231n_1onoff_433_nuohua_UG_1.0.9.bin
 
 oem_bk7231n_ceiling_light_ty
+1.0.0
+2021-06-10 1623290838
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202106/1623290838-oem_bk7231n_ceiling_light_ty_UG_1.0.0.bin
+
+oem_bk7231n_ceiling_light_ty
+1.1.7
+2021-10-25 1635163881
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202110/1635163881-oem_bk7231n_ceiling_light_ty_UG_1.1.7.bin
+
+oem_bk7231n_ceiling_light_ty
 1.2.2
 2021-11-15 1636980145
 https://images.tuyaeu.com/smart/firmware/upgrade/202111/1636980145-oem_bk7231n_ceiling_light_ty_UG_1.2.2.bin
@@ -137,6 +147,11 @@ oem_bk7231n_colorful_ceiling_light_ty
 1.0.6
 2024-04-16 1713239150
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202404/1713239150-oem_bk7231n_colorful_ceiling_light_ty_UG_1.0.6.bin
+
+oem_bk7231n_colorful_ceiling_light_ty
+1.0.7
+2024-04-16 1713239217
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202404/1713239217-oem_bk7231n_colorful_ceiling_light_ty_UG_1.0.7.bin
 
 oem_bk7231n_colorful_ceiling_light_ty
 1.0.8
@@ -177,6 +192,11 @@ oem_bk7231n_cutout_self_switch
 1.0.18
 2023-06-02 1685703418
 http://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/202306/1685703418-oem_bk7231n_cutout_self_switch_UG_1.0.18.bin
+
+oem_bk7231n_cutout_self_switch
+1.2.10
+2025-10-20 1760960222
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202510/1760960222-oem_bk7231n_cutout_self_switch_UG_1.2.10.bin
 
 oem_bk7231n_dctrl_switch
 1.1.0
@@ -319,6 +339,11 @@ oem_bk7231n_outdoor_strip_ty
 https://images.tuyaeu.com/smart/firmware/upgrade/202306/1686564744-oem_bk7231n_outdoor_strip_ty_UG_1.0.20.bin
 
 oem_bk7231n_plug
+1.1.1
+2021-03-19 1616122227
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1616122227-oem_bk7231n_plug_UG_1.1.1.bin
+
+oem_bk7231n_plug
 1.1.6
 2021-07-27 1627377093
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202107/1627377093-oem_bk7231n_plug_UG_1.1.6.bin
@@ -407,6 +432,11 @@ oem_bk7231n_smart_ir_rf_pro_ty
 2.0.15
 2024-07-23 1721729226
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202407/1721729226-oem_bk7231n_smart_ir_rf_pro_ty_UG_2.0.15.bin
+
+oem_bk7231n_strip_ty
+1.1.5
+2021-04-23 1619160258
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202104/1619160258-oem_bk7231n_strip_ty_UG_1.1.5.bin
 
 oem_bk7231n_strip_ty
 2.0.19
@@ -527,3 +557,8 @@ WiFi_Plug_EU_standard_16A_dl7nspvmzj5rko71
 1.1.3
 2025-10-13 1760340930
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613720723966IkJE/1760340930d3aaf9340b7.bin
+
+fj_wifi_ble_controller_moto
+1.0.2
+2022-04-16 1650091813
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1528018319540RHaJO/1650091813ab749d7f88b.bin

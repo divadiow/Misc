@@ -12,3 +12,8 @@ oem_8720cs_plug
 1.6.2
 2021-10-20 1634711842
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211020/1634711842-oem_8720cs_plug_UG_1.6.2.bin
+
+keshlian_mesh_ir_gw
+1.0.0
+2021-03-09 1615258628
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1615258628-keshlian_mesh_ir_gw_UG_1.0.0.bin

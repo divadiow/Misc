@@ -14,6 +14,11 @@ oem_rtlbn_dltj_2M
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1563871788-oem_rtlbn_dltj_2M_ug_1.0.4.bin
 
 oem_rtlbn_dltj_2M
+1.0.8
+2019-10-12 1570847592
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201910/1570847592-oem_rtlbn_dltj_2M_ug_1.0.8.bin
+
+oem_rtlbn_dltj_2M
 1.1.6
 2021-04-20 1618903528
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210420/1618903528-oem_rtlbn_dltj_2M_ug_1.1.6.bin
