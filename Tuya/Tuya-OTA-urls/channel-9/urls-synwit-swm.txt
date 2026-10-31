@@ -1,0 +1,4 @@
+Air_Quality_Monitor_hkdmca1dhk7qa8sx
+1.0.7
+2021-12-10 1639139450
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1621003238182gtvr/1639139450ad40a68cde0.bin

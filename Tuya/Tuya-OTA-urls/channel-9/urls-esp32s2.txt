@@ -1,0 +1,5 @@
+
+Knob_Color_Screen_ESP32S2_zy2codiyo9yfjblh_1.0.4_8c5bd92c2e66
+1.0.4
+2026-07-01 1782872438
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/1782872438855a5a504ba.bin

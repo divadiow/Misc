@@ -1,0 +1,19 @@
+Hama_176576-176577_Outdoor_Camera_(Anyka_ARM_Linux)_7ow5s3hyqqpahu9h_5.6.6_1d890b22b089
+5.6.6
+2024-10-29 1730190166
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511509043755MhIx1/1730190166a95506e475c.bin
+
+linux_wifi_wired [g4fetl0yabablvha]
+3.0.22
+2021-03-18 1616054589
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15372371921250HFeV/16160545899b507cb2d9f.bin
+
+linux_wifi_wired [q4rnmgg27yiwkrvs]
+3.0.18
+2021-03-01 1614586065
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1514542396878sK5rw/16145860656cf8905f907.bin
+
+Tuya_IPC_Camera_(Anyka_ARMv5_Linux)_gtio3vi7cjc25lec_2.5.01_710ee00cadfc
+2.5.01
+2024-02-20 1708423228
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1514542396878sK5rw/17084232283a50e82c848.bin

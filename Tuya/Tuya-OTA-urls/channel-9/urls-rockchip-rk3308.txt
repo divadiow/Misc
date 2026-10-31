@@ -7,3 +7,8 @@ Medion_X10_SW_Robot_vacuum_(Rockchip_RK3308)_hyzraigatjc4zr5n_02.19.0028_97c1123
 02.19.0028
 2025-07-17 1752744704
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16261653984421JVr/17527447048e6925024f2.img
+
+rk3308bs-A3-0_6_6-NormalServer
+0.6.6
+2022-07-12 1657615093
+https://images.tuyaeu.com/smart/firmware/acc/bay1593764112481mNNc/165761509349e70719328.CleanPack

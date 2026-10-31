@@ -1,0 +1,4 @@
+Cecotec_Conga_X100_Allwinner_MR813_vmi5wjsg5yhprsvn_4.4.1_a3bb48b3cd8c
+4.4.1
+2026-03-16 1773624183
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1745409023794uv8j/1773624183ffbe8ce98d8.bin

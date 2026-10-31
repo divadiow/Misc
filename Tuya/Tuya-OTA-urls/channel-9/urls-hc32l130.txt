@@ -1,0 +1,4 @@
+Amerec_K2_Steamer_ui44jfdk1hxfkghy_1.2.9_c8b307a99a12
+1.2.9
+2023-07-06 1688624672
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1523170314091LbdQA/16886246723e1387f4891.bin

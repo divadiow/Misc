@@ -1,0 +1,10 @@
+
+Eco_Heater_without_display_Silabs_Gecko_csibqkjs0mijthmw_1.0.21_bbbc9c62abc7
+1.0.21
+2024-02-08 1707379257
+https://images.tuyaeu.com/smart/firmware/acc/ay1561229587068PHjp7/17073792570d1d298f096.bin
+
+Eco_Heater_with_display_Silabs_Gecko_ik5evzjpiz4hagr2_1.0.7_4f434a52df88
+1.0.7
+2024-02-08 1707379431
+https://images.tuyaeu.com/smart/firmware/acc/ay1561229587068PHjp7/1707379431680a80d24a2.bin

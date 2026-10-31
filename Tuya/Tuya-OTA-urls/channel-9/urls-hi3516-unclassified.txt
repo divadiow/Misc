@@ -1,0 +1,4 @@
+Mini_8_Class_Camera_c6omk2cmxhdive7b_21.6.8_c7c3d81ce4b8
+21.6.8
+2021-06-08 1623134991
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541399591405PK8RM/16231349914be178a8d5e.hex

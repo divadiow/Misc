@@ -1,0 +1,4 @@
+mmWave_SDK_xWR68xx_TASA-2B_phvyqr7jzs9apeeu
+1.3.4
+2023-04-21 1682068967
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1611566108142Tkyo/1682068967081c26956d4.bin

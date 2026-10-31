@@ -1,0 +1,4 @@
+bvrobot-ota_2.4.6-0_sunxi (Neatsvor X600PRO black; multi-component bundle including STM32)
+6.11.20
+2024-06-27 1719455026
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1613996446812tbll/171945502604042c9402f.bin

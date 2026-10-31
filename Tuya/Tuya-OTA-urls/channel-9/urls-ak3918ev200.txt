@@ -1,0 +1,4 @@
+AK012_XHR_AK3918EV200
+3.0.502
+2022-07-20 1658282057
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1600500391022Nrp2/1658282057cafc6c7b4ec.bin

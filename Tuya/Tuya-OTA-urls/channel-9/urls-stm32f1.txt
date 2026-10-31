@@ -8,6 +8,16 @@ Conow_CBE2000_Pro_Battery_storage_(STM32F1-compatible_build)_c4ilzd7aybycece9_1.
 2026-06-23 1782180153
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1687226494945d2dL/178218015384571dabb09.bin
 
+D5s_Pro_STM32F1_jpkqxdx1mbgoghjz_1.7.0_51fd66b3ebf3
+1.7.0
+2022-09-14 1663155798
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619086319874gLD4/1663155798c8537d95c33.bin
+
+E30_STM32F1_qv442aix6nlsktmi_1.1.31_ddf106a15c10
+1.1.31
+2020-06-29 1593421152
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1552647039402ueTid/15934211524f6ac2c6407.bin
+
 Kyvol_E31_F9370_Robot_vacuum_(STM32F1-family_build)_modhla03lopnmad8_1.1.36_86670496a3a8
 1.1.36
 2020-08-13 1597297788
@@ -33,7 +43,52 @@ Parkside_PMRDA_20-Li_A1_Lawnmower_(STM32F1-compatible_build)_icw5sal7xfcevsve_0.
 2024-08-12 1723458287
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1654129550802y7Ux/1723458287b0c160b6cdf.BIN
 
+Robot_Mower_City_8B107_(STM32F1-compatible_build)_dklaesta_0.0.7_fc62a763757f
+0.0.7
+2025-09-17 1758092162
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654129550802y7Ux/17580921621222c292f32.BIN
+
+SE8_Robot_vacuum_(STM32F1-compatible_build)_3hzpau4bolcskfhf_4.0.3_2207f4cb96ad
+4.0.3
+2021-09-02 1630572245
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1593498225097419R/1630572245ea3610331d7.bin
+
 Tesvor X500_Vacuum_(STM32F103VET6)_eqyrkx39otooi2xr_1.3.9
 1.3.9
 2022-05-27 1653632619
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16034424286052Omh/1653632619e45aa346230.bin
+
+Tuya_850T_Robot_vacuum_(STM32F1-compatible_build)_gyp55f4ljt2qcdbh_1.7.6_cd1b627fad74
+1.7.6
+2022-08-24 1661304369
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619086319874gLD4/1661304369ed25b0b6441.bin
+
+Tuya_BG800_Robot_vacuum_(STM32F1-compatible_build)_f2bbc08tdredj4a1_1.2.6_4474cfb2293d
+1.2.6
+2021-01-08 1610091777
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525342233337A874A/1610091777e8275e8f790.bin
+
+Tuya_Robot_Mower_8B102A2_(STM32F1-compatible_build)_8ipeamtsnppvbwa3_1.1.56_82f824bc7bc2
+1.1.56
+2026-08-18 1787096157
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654129550802y7Ux/1787096157220d6066683.BIN
+
+D5s_rh1waawelybsadoz_1.6.3_16ab2da3c1d1
+1.6.3
+2020-05-26 1590452277
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1523606394263orKK2/15904522771c582d7c4a5.bin
+
+Sense_410_rqourfd28xbrxwhi_1.2.8_7d6c8e8ea070
+1.2.8
+2019-08-01 1564649912
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525342233337A874A/156464991241f40b345f7.bin
+
+DynaKing_R3_vwtscamzqtdrpnzs_1.1.14_0d7cd55ba980
+1.1.14
+2020-01-15 1579049435
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1573024592793FaclU/1579049435f0fe82f0fea.bin
+
+850P_zykkcbhiclls11xv_1.7.6_6f7849444bde
+1.7.6
+2022-08-24 1661303940
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619086319874gLD4/166130394067144e58587.bin

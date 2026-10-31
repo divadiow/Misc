@@ -1,0 +1,9 @@
+Lenovo_A1_Robot_Vacuum_1reyqemhkvbxtu7l_3.0.24_8f10bca7f571
+3.0.24
+2019-11-25 1574662669
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/157466266951a8962fbfe.bin
+
+SI361_SI_360_Robot_Vacuum_puukr6hjupyhb8zp_0.0.10_68a207211b12
+0.0.10
+2020-08-06 1596683979
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1560499971531aomEw/1596683979a5aa82c7f67.pack

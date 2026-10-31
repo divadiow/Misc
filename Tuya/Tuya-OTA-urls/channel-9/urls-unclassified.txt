@@ -1,22 +1,102 @@
+1_HDMI_2.1_Fancy_Sync_Box_knxyr5g6qrpjqszj_4.1.0_262cb78442e1
+4.1.0
+2025-12-15 1765801777
+https://images.tuyaeu.com/smart/firmware/acc/bay1636085786753ZI4x/1765801777d4d493571e9.bin
+
+3_Phase_DIN_Rail_WiFi_Meter_rj0mrqo9rvfxalqw_1.0.6_1fe7d53e2ce5
+1.0.6
+2023-12-11 1702292307
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1536897190133VVeLx/17022923076ae9c36121b.bin
+
+3_Phase_DIN_Rail_WiFi_Meter_rvhaqc8s9wnovm46_1.0.6_97fd09689a8b
+1.0.6
+2023-12-11 1702292040
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1536897190133VVeLx/1702292040224c3e8e5cf.bin
+
+830T_P_ofqlgafdltzahwlh_1.4.3_973faebd02bb
+1.4.3
+2020-12-01 1606813656
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1591596322049kdk7/16068136568628f55f833.bin
+
+1311Z_FP_Thermostat_3regm3h6_1.1.0_449a0e6e238d
+1.1.0
+2025-02-26 1740537765
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619087544476uIXD/1740537765537d7aabeae.bin
+
+AC801_Blind_Motor_WiFi_Bridge_rlhigfgepms5u1n6_1.2.0_a6e7d2f468c4
+1.2.0
+2022-09-23 1663912173
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1566735522241p8Jxl/16639121736fa1c770b76.bin
+
+AC801B_Blind_Motor_WiFi_Bridge_81p7nd7auv7tc8m1_1.2.0_b174369a98c9
+1.2.0
+2025-05-24 1748047706
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1566735522241p8Jxl/17480477061c6e05e9da3.bin
+
 AGA_Electrickit_Advanced_Range_cooker_nsyzaeaife8j7sx0_1.0.7_986237c414ef
 1.0.7
 2025-04-25 1745570777
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1510219836821tjIsC/1745570777a5d0f54a010.bin
+
+AI_PresGuard_Sensor_udixtj772wjxfs1d_2.2.18_704efc90fb58
+2.2.18
+2025-08-26 1756209654
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1617692849065ymmu/1756209654e648bc3d0fb.bin
+
+Aimiler_EV_Charger_0s35q6hzkzqidmil_1.0.5_e7c5d491cc4f
+1.0.5
+2026-01-05 1767575190
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1675477920229LAF7/176757519083447938c19.bin
 
 Aimiler_EV_Charger_11kW_sdjwsgelux2upvuf_1.0.5_f05ecf390d95
 1.0.5
 2026-01-05 1767575516
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1675477920229LAF7/17675755169e7023d4333.bin
 
+Air_Purifier_for_Pets_tlqmw4ej2ym37kcv_1.1.4_4c31968ce9d6
+1.1.4
+2025-05-13 1747129827
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1589792063349Obje/174712982769ad4e29b4e.bin
+
+Air_to_Water_Heat_Pump_rbpslezjsgi8koci_2.8.2_325b969500da
+2.8.2
+2023-09-08 1694136392
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15570504473009UtX7/169413639273f3ab04023.bin
+
+AirMaster_q4hueaeqaevpseeq_1.1.6_44cc50e865fe
+1.1.6
+2020-05-25 1590396971
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1541381385946hoIoV/159039697126b192a1eda.bin
+
 Airrobo_P20_Robot_vacuum_fptshnsx98tak0zo_2.2.16_faecb55df45e
 2.2.16
 2022-11-25 1669360684
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16427284609120cAZ/1669360684f59e3c0bb4d.bin
 
+Airwasher_ijpda47znczgennt_2.5_dc1eda342a42
+2.5
+2025-03-19 1742391183
+https://images.tuyaeu.com/smart/firmware/acc/bay1674024567788kmWm/17423911837594659fe3b.bin
+
 AmperePoint_Q_Series_EV_charger_3axf0fkgiop0ukhb_1.0.3_961480c44cca
 1.0.3
 2026-03-21 1774061074
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15452001414318THhs/1774061074a3853dd3ee2.bin
+
+Aqualarm_GW_rbptoajhwdfsdmbu_2.2.7_3d3581f14690
+2.2.7
+2024-04-24 1713952143
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1582594676348nGd7/171395214378140e0ef05.hex
+
+Aqualarm_GW_vtboj5kndkktrtrj_2.2.2_3c87934c39a1
+2.2.2
+2023-06-26 1687747890
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1582594676348nGd7/1687747890bed3b6cd9ab.hex
+
+AQUALYSER_TOTAL_ydaidtp8gcswmslx_1.4.0_ba6934ee32a2
+1.4.0
+2025-06-27 1750991460
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1739865386268Lw8N/1750991460442bcbb56ec.bin
 
 Aquark_InverClear_Basic_Salt_chlorinator_hkkucfvllhqdatto_10.0.49_34c8b8909901
 10.0.49
@@ -33,6 +113,26 @@ Aquarobo_SH07S-TY_Sprinkler_controller_mxh2sjigimo463mg_1.0.4_e87ea1645d61
 2020-07-25 1595638797
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1513061730920i97zP/15956387974047e91cb75.bin
 
+AR331_noixx2uz_1.0.4_c6c746a5b316
+1.0.4
+2026-02-01 1769925763
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1753355940270mFgB/17699257631f3591aa3ee.bin
+
+AR331_PRO_nbv4tdaz_0.2.3_5c4aa46c4039
+0.2.3
+2026-02-01 1769926458
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1753355940270mFgB/176992645882a30d6a177.bin
+
+AT2P_Smart_DIN_Rail_Energy_Meter_gyq1uajrtzfe68e0_1.1.0_62acf419b149
+1.1.0
+2023-02-23 1677137040
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/1677137040d98a54ddecd.bin
+
+AT4P_Smart_Energy_Meter_2gieccf4oefewusc_1.0.9_dc18e2cca4c8
+1.0.9
+2023-06-20 1687248187
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/1687248187d8d3a0d850a.bin
+
 Atorch_AT4P_AT4PBWP_biylfs73ckmgqyk1_1.0.9_96b785eafc1b
 1.0.9
 2023-06-17 1686982062
@@ -43,10 +143,40 @@ Atorch_AT4PTW_Thermostat_switch_mebqypa73rdhby90_1.0.8_3ea8a99d503c
 2022-12-30 1672363375
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1637051743927kzjm/16723633757738f5ca0d3.bin
 
+ATORCH_DL24EW_Electronic_Load_Battery_Capacity_Tester_nnjhxkdsxriblko7_1.0.6_e17af1c0f511
+1.0.6
+2023-06-24 1687571286
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/168757128650f0f66f989.bin
+
 Atorch_DT20HBW_Energy_meter_1xgihnuztyo12pqv_1.0.9_81675a32757a
 1.0.9
 2024-10-07 1728291998
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1640759196703u4Jv/17282919980efb540299a.bin
+
+Automatic_Cat_Litter_Box_mncgcgm990dkgou6_1.2.8_b8db193d6f80
+1.2.8
+2022-11-09 1667964131
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1605579426838bMX8/166796413198c635dba33.bin
+
+Balcony_Power_860Wp_800W_TOPCON_Full_Black_syhnr4hlkyxxaluj_1.2.3_c69b7ec6f12c
+1.2.3
+2025-07-17 1752716564
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16696029585735qj2/17527165642785a6114f2.bin
+
+Base_Station_MIPS_Linux_dirndrjayajdmwmp_1.1.63_fad4ee93bce7
+1.1.63
+2022-05-20 1653036111
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1534902067044h8B1y/16530361113b292f6098f.tar
+
+Bituo_Technik_SDM01-01X-485_Energy_meter_ugekduaj_1.0.3_e78c5c78afea
+1.0.3
+2024-05-20 1716170834
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1716170834308bcc159ef.bin
+
+Blaupunkt_Bluebot_Xtreme_Robot_vacuum_cfq9n2spr1aqjkhy_1.1.8_680a34fda0c7
+1.1.8
+2022-03-09 1646818278
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1578876593173cszgt/16468182782bc52ca92ae.bin
 
 Blaupunkt_XBoost_Robot_vacuum_jtyaym20ydwcrith_2.1.1_41842054ad96
 2.1.1
@@ -58,10 +188,40 @@ Bluetooth_Smart_TRV_llflaywg_1.0.3_f36602d21b43
 2024-12-18 1734495972
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1654864343853ucU6/1734495972f119b4d8646.bin
 
+Bluetooth_Water_Timer_klpcpgrh_1.0.19_5c43a894bca2
+1.0.19
+2025-05-15 1747300594
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1501578980436KOuNc/174730059419c503c398c.bin
+
+Breaker_4hdbt6rn_1.0.2_9d2ca9dd6bb8
+1.0.2
+2026-05-18 1779094651
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1677028124609EAyb/1779094651c718e63b1b7.HEX
+
+Breaker_432zhuwe_1.0.1_15ceeb0d2f0a
+1.0.1
+2026-04-02 1775121728
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16570761439434Ehc/1775121728c599bb0ce24.bin
+
 Breaker_cnpkf4xdmd9v49iq_0.3.3_8275682547d1
 0.3.3
 2025-12-26 1766708509
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1701221505029URIg/1766708509baa304e9a44.bin
+
+Breaker_ntmp1wikmiuzrew2_1.0.1_fcec946fad1a
+1.0.1
+2025-03-17 1742175404
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16570761439434Ehc/174217540407de926ef66.bin
+
+Breaker_s5vuaadg_1.0.1_519c5cbbf088
+1.0.1
+2026-04-02 1775121263
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16570761439434Ehc/17751212636c6a0978029.bin
+
+Breaker_tuhfx7tf_1.0.1_5ba387e9c1ee
+1.0.1
+2026-04-02 1775121513
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16570761439434Ehc/177512151369f985d9625.bin
 
 Breville_Smart_Mist_Top_LAH508_Humidifier_6pxoqf0qpaxqtpj3_1.0.1_b427fdb8158c
 1.0.1
@@ -72,6 +232,36 @@ Breville_the_All_Climate_2-in-1_Dehumidifier_&_Purifier_BAD358_lcjqatjseirq4msl_
 1.0.8
 2025-07-11 1752225493
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1677234222373n1No/1752225493d24b4c41c52.bin
+
+C6-DU4L_WS_TYB_L_UP
+30.1.9
+2021-11-12 1636689496
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1587638193105QkZL/163668949609251dee6b9.bin
+
+Castle_FW70_1bnq0dygljpp6dpy_35.3.9_d661137fb0fb
+35.3.9
+2024-10-23 1729668239
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1577717726791liVBu/17296682397ae9b38546b.bin
+
+Cat_Litter_Box_8oia6g6vuznvake8_1.2.0_7e20957a8053
+1.2.0
+2026-04-07 1775554363
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1758521691028U2Nt/1775554363b33d87e4fd8.bin
+
+Cat_Litter_Box_020-10246_cag0ylxhxufsdjgv_1.0.1_bcf6fe87adc3
+1.0.1
+2026-05-13 1778651799
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1726879457824wUKc/177865179906776623368.bin
+
+Cat_Litter_Box_qebtvtlmcnx2ifdx_1.0.3_188b153b5cff
+1.0.3
+2025-08-28 1756343268
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1726879457824wUKc/175634326816874846abf.bin
+
+Cat_Litter_Box_y8bfaunxxkrhwhd2_1.0.2_b2fc508b886d
+1.0.2
+2025-11-04 1762217815
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1726879457824wUKc/17622178156c8d03633a5.bin
 
 Cecotec_Conga_2290_Robot_vacuum_j9wx0qronrtd9nxh_1.1.5_817ef3d96bfa
 1.1.5
@@ -93,10 +283,45 @@ Computherm_Q20_Thermostat_ajiidg1xj03fdut3_1.6.2_0b4a820dcc3a
 2025-11-04 1762218389
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1541463935213XqnXM/1762218389a8520580e14.bin
 
+Connecte_Thermostat_4hbx5cvx_1.0.7_9e81430d2038
+1.0.7
+2022-01-12 1641969211
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1628040814785F7DM/1641969211de5c0fe5900.bin
+
+Connecte_Thermostat_e5hpkc6d_1.0.4_f56650d9c1b6
+1.0.4
+2022-11-22 1669104252
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15105572196954rxr3/1669104252c9ca935eac6.bin
+
+Curtain_Switch_kq1l5eu5_1.0.3_a69d0ae037b5
+1.0.3
+2026-01-17 1768613457
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1555059089863sMgqv/1768613457edaf8f7eb5b.bin
+
+Curtain_switch_upt8lzi0_1.0.3_5b73339c0e98
+1.0.3
+2026-01-17 1768613368
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1555059089863sMgqv/1768613368eab33a98bf7.bin
+
+D2_pbapxd3a2x9trb79_1.9.40_7e722e4120fe
+1.9.40
+2023-06-17 1687029380
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1616485990780ZhKn/1687029380c568eecfe39.bin
+
+D10_BT_brqalal9im5dkazt_1.0.22_9c4671d8ba1b
+1.0.22
+2025-01-16 1736992242
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619086319874gLD4/1736992242077e6e810f3.bin
+
 Dabbsson_DBS2300_Plus_Portable_power_station_hvvsflpzy2kspt23_24.03.27_28200b03c792
 24.03.27
 2024-03-29 1711699202
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1650442404213MaTc/1711699202884b4d66dda.bin
+
+Denver_SHA-150_Smart_alarm_system_dlyseajmjupobt4y_1.0.4_f7106fa29ce6
+1.0.4
+2022-05-06 1651831666
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1538192123602LsjQt/1651831666b231c101401.bin
 
 DMEGC_M01_Micro_Battery_mwllseqnhzar191l_3.0.9_e83c78751301
 3.0.9
@@ -107,6 +332,36 @@ DOEL_Ti+_Litter_box_ijas23irjjaenllv_0.5.1_62547c1f5166
 0.5.1
 2025-07-18 1752829098
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1618969574852rl9Y/175282909802ce2a49407.bin
+
+Domestic_Hot_Water_Heat_Pump_cxgbazubxeai6txu_1.0.5_86df1dde2264
+1.0.5
+2026-07-27 1785122199
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626241523186veFT/17851221990c3ac7f03b2.bin
+
+E2_lxbl1pnc4zriyx2z_3.3.12_b92ed91b6f44
+3.3.12
+2025-07-08 1751954245
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1691388432577FpfE/175195424597c086f464d.bin
+
+E25_ZigBee_Battery_Thermostat_cg8hdnjv_2.0.6_478e0bbd706d
+2.0.6
+2025-12-19 1766153864
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/1766153864dd150d0c373.bin
+
+E25_ZigBee_Thermostat_cmyc8g5i_2.0.4_14a4e77c263b
+2.0.4
+2025-12-19 1766153294
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/1766153294f6666d6b609.bin
+
+E40_ZigBee_230V_Thermostat_glk6viwg_0.2.1_a7001e3b93a1
+0.2.1
+2025-12-19 1766139469
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/1766139469f285327deb7.bin
+
+E40_ZigBee_Battery_Thermostat_lnxdk2ch_0.2.5_1e2b303d7c0e
+0.2.5
+2025-12-19 1766139387
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/17661393878e405c2e440.bin
 
 EARU_Electronic_EASEM-D_Multi-circuit_power_meter_tehjajiyfp2phy4d_1.0.14_7dd149447a92
 1.0.14
@@ -128,6 +383,11 @@ ELKO_EKO07262_Thermostat_fy012zc3l51doakx_2.3.178_0eaf59d84fec
 2026-05-28 1779950725
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1654838819760h3Ub/1779950725ea351fdc1fa.bin
 
+Ellenpent_cat_litter_box_wwezgj9gdtwli25p_1.0.1_6a45061abbc7
+1.0.1
+2025-09-08 1757320455
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1726879457824wUKc/17573204557cf9d9ceefa.bin
+
 Elspet_Orbitie_Cat_litter_box_nbkqubgxxmanacsv_1.2.0_00b91a78a210
 1.2.0
 2026-04-07 1775551736
@@ -148,10 +408,30 @@ Engo_EFAN230W_Fan_coil_thermostat_tnvv9nnqnz8nljgt_0.4.1_45caaca62e0b
 2025-06-24 1750728724
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/175072872497b8bf8685a.bin
 
+Etaker_F2000_ex0nj9l2thnxwmby_1.2.2_742738fc6025
+1.2.2
+2025-01-09 1736417816
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1701420970627bgbF/173641781608259754526.bin
+
+Eufy_Clean_X8_Pro_Hybrid_SES_T2276_(ARM_Linux_package)_ftals4d7hsayhrqm_3.0.60_c65012e3d7be
+3.0.60
+2023-04-10 1681090754
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1636967444744gBFQ/168109075454c1dcd3130.pack
+
+eufy_RoboVac_G10_Hybrid_4CdkmlLLrDpSTddv_1.3.4_90ca3c538c76
+1.3.4
+2023-07-19 1689747880
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1645588050778utsg/16897478801bcae0f894a.bin
+
 Eufy_RoboVac_S1_Pro_T2080A_robot_vacuum_k8ttkrhlqtnfd8e9_7.0.168_3e65a3c7f318.tar.gz
 7.0.168
 2026-01-15 1768465474
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1679988230528qYeh/1768465474cc2a5325d66.tar.gz
+
+eufy_RoboVac_UceA1fpIZIAySN6U_1.6.2_683f1f38682d
+1.6.2
+2023-07-07 1688724180
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1529982304505OYAXg/1688724180af8e035f3e7.bin
 
 Fairland_Mr.Pure_Salt_chlorinator_5ls2jw49hpczwqng_1.10.9_9d200754f26b
 1.10.9
@@ -168,10 +448,35 @@ Faroro_PF50_Pet_feeder_vglnuveujzyrpku9_1.6.0_4e58408821f2
 2022-03-28 1648457382
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1521004915158Sqi7u/1648457382c756e30e61b.bin
 
+FP-Thermostat_ilzkxrav_1.1.3_d362c3e83d70
+1.1.3
+2024-06-25 1719302402
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1539244260287RY0l6/17193024020a9a0ecaa6b.bin
+
+FP_Thermostat_fu1bfwza_1.0.1_5ed785504c23
+1.0.1
+2024-09-20 1726810631
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1547110530245tcZgC/1726810631e6618b76459.bin
+
 Gainsborough_Liberty_Smart_Entrance_Lock_Door_lock_yfqp0shy_2.1.7_a1465c5a4724
 2.1.7
 2024-10-21 1729490058
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15756008579021QDcV/1729490058025e04a693d.bin
+
+Gateway.e_q3rrd31ntit0m2fw_1.1.9_8d8259ec61f1
+1.1.9
+2021-08-24 1629784441
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1521165954459sVl6M/162978444179941c57d12.bin
+
+Grande_2_Robot_Vacuum_o9sp4arjknhopuop_1.0.7_29ca6cf5e8ea
+1.0.7
+2022-10-17 1665998853
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525342233337A874A/16659988530371858d4fa.bin
+
+Grundig_Robot_a8loogcta1lmi9nw_0.0.45_5edb194698a0
+0.0.45
+2024-12-31 1735618256
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15723293788525psjV/17356182567e15c5d40c4.pack
 
 Haozee_12_zone_Sprinkler_controller_nqhft5inckqtnewv_1.0.5_42441a9366d2
 1.0.5
@@ -188,6 +493,11 @@ Happy_Llama_Tech_SoCool_Pet_feeder_l0opxehxjnmzyree_2.4.0_48f320d17f59
 2025-03-28 1743149786
 https://images.tuyaeu.com/smart/firmware/acc/bay1684450100756d7Dp/17431497866e9dc7ed1ae.bin
 
+Heating_Thermostat_32F_C17_8gzn1aeee0rdw9fh_1.0.9_87f4b09a9fd6
+1.0.9
+2021-10-05 1633422651
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15657387780542Lyo7/1633422651e770be67853.bin
+
 Heiman_WS2GW-R_wireless_interlink_gateway_dsxr1rzitzdzrsda_1.0.5_f0c7af362b37
 1.0.5
 2024-12-20 1734681628
@@ -203,15 +513,90 @@ Howeall_Sanycasa_Register_booster_fan_zbhikxau56accfsp_1.0.5_44d392bcca83
 2025-07-28 1753679380
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1588841801984SxVz/1753679380f1bc7db4b33.BIN
 
+Human_Perception_Sensor_hgkndbycdcd6dvjl_1.0.6_99c7c44fb3d5
+1.0.6
+2024-10-28 1730114485
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16011912921704imr/1730114485Apps_encode_b3ecee96
+
+Human_Perception_Sensor_ly0hywwth5uaavww_1.0.6_999a26708c5f
+1.0.6
+2024-10-28 1730114128
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16011912921704imr/1730114128Apps_encode_a50e78cb
+
+Human_Presence_Detector_dapwryy7_1.0.3_a81b83232381
+1.0.3
+2024-05-21 1716289197
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1537170211499MqxLj/1716289197bfd83d42a83.bin
+
+Human_Presence_Sensing_Radar_9qayzqa8_1.0.6_220f19065873
+1.0.6
+2022-06-30 1656584606
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1527158370272nBxbg/165658460694159ade635.bin
+
+Human_Presence_Sensor_muvkrjr5_1.0.3_8935a0b7a9f4
+1.0.3
+2023-07-13 1689229441
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1584351192642lNaT/1689229441d3bfa670691.bin
+
+Human_presence_sensor_uuvwd42v_1.3.2_f76f5e680d6f
+1.3.2
+2026-06-18 1781762396
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1592379622321WGXt/17817623966a3cd552c2d.bin
+
 Iebelong_ECH-103_Doorbell_mu90mkl2valkaar3_1.1.7_2444b9128275
 1.1.7
 2025-02-26 1740561430
 https://images.tuyaeu.com/smart/firmware/upgrade/ay14939862722938yOM2/17405614303ad5e5f424f.bin
 
+iFeel_Easy_Temperature_Humidity_Sensor_eanjj2pa_1.0.1_a111e6561413
+1.0.1
+2022-04-13 1649834179
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1584351192642lNaT/16498341799a59a18d74b.bin
+
+IM-03-W_vftsypplefmoy4uc_1.0.3_0148a22231f1
+1.0.3
+2025-04-22 1745289417
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1516245371558amrLW/1745289417cf6c5dd534e.bin
+
+iMeter_3PN_s4sa1mcx_1.0.3_5378d4c56a41
+1.0.3
+2025-11-24 1763954277
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1763954277e7abdb38b99.bin
+
+Inkbird_ISC-027BW_2.0_BBQ_Smoker_Controller_8e49mqp3zvmnajlq_1.0.6_f18369332312
+1.0.6
+2025-04-21 1745209231
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1516245371558amrLW/174520923131443d67ce8.bin
+
+LDD11_MAX_HDMI_Light_Sync_Controller_i0hpwfp2ctpksddl_1.4.4_a9e448cba811
+1.4.4
+2024-05-07 1715083505
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1615980634491NPlo/1715083505ed5dd3ab90d.bin
+
+LED_Temperature_Humidity_Alarm_Clock_at2ojht0w8x1ba4e_1.0.2_91528db3e637
+1.0.2
+2024-10-16 1729039846
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1729039846fe2a56709c1.bin
+
+Lefant_M210P_Robot_Vacuum_cgrfjjwmstsaemw8_26.2.43_60652b9a325a
+26.2.43
+2024-08-16 1723775427
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1542254159262ZB6ee/17237754279475d16e40f.bin
+
 Leo's_Loo_Too_Pet_toilet_1badzyvwh1e1hrog_1.0.02_c874850f8059
 1.0.02
 2023-07-24 1690168365
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1539928297801ur47D/16901683658aa214d1f24.bin
+
+Lidl_LED_Christmas_Light_Chain_s8gkrkxk_1.0.6_d9509c1a388e
+1.0.6
+2020-09-08 1599541977
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1588731404161abLR/159954197760b4f6f9fc8.bin
+
+Liectroux_C30B_Robot_vacuum_imk0pcrtmyx9cbfg_1.1.0_ea14293ada3b
+1.1.0
+2019-12-04 1575451849
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1521275236617KA7xc/15754518499d7b431e9a6.bin
 
 Liectroux_G7_Robot_vacuum_bvcx2bum8jsb4zra_1.1.13_9e22b5119410
 1.1.13
@@ -223,35 +608,130 @@ Liectroux_XR500_T3_Robot_vacuum_wvk5sm5nr0tkij3b_5.0.49_a391e1402c8d.pack
 2022-12-31 1672476776
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1534681176370JSCKe/167247677627b30057677.pack
 
+Litter_Box_gy5qc3eakgqcvsap_1.0.33_be244e38e9ec
+1.0.33
+2022-01-24 1643002272
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1597138399994SXAB/1643002272ae40cd636c8.bin
+
 Lohxa_SR208C_Solar_water_heater_hyrswocbx6i1rveo_5.6.0_0a9f3d5bc390
 5.6.0
 2026-06-08 1780962127
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1533178077631T1Xxv/1780962127f60cec87ec6.bin
+
+M213_Robot_Vacuum_eyzydkcywshpgfko_15.1.26_d88de179c28d
+15.1.26
+2021-12-29 1640760653
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1637028999142rgBp/16407606535903d45ebc4.bin
+
+M320_Robot_Vacuum_jvajy3gco0wlgini_1.0.39_269fb4794818
+1.0.39
+2024-06-12 1718164851
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626667461269JwZr/1718164851d0a7fd0aa20.bin
+
+M501_Robot_vacuum_5q9r5qdi1ledkucx_1.1.8_c7a94e49e3e3
+1.1.8
+2020-12-14 1607915481
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1606961679798yexx/1607915481fc48063b3ca.bin
+
+M571_svzodwdwajshluni_1.3.6_578bbef79901
+1.3.6
+2021-03-05 1614944431
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16051512140913HdC/1614944431e67b4dc7ab9.bin
 
 Madimack_InverChlor_Pool_chlorinator_cplkrhlhx1sl0jz1_1.1.2_ef55b2e45464
 1.1.2
 2025-01-03 1735867333
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16970890112680R0g/17358673333abeaa86244.bin
 
+Mamibot_Flomo_III_Floor_Washer_n3qiuliydg9uhtmy_1.3.2_6d82f53f27dc
+1.3.2
+2022-10-14 1665726938
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1632360962532bO4W/1665726938dc9dc5b3106.bin
+
+Matsutake-Power_PVHUB_EMS_q40nircvnassmmju_1.1.18_8bef21ffb602
+1.1.18
+2024-06-18 1718676526
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1693821697841OrN1/1718676526dbc7a08ae13.bin
+
 Mayborn_GroClock_Connect_Alarm_clock_pnauiuyatd821djd_1.1.6_6128eccc3fea
 1.1.6
 2021-08-16 1629104689
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1522637811891ZWAu6/1629104689e09054db4a3.bin
+
+MEDION_Robot_S40_MD10916_qonaq2uzo3wur5te_503.1.106_4c678b893b52
+503.1.106
+2022-08-02 1659404770
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16527761091136YVZ/1659404770f30853e195d.bin
+
+MEDION_Robot_X50_SW_op7ts4yttflao0nq_0.6.5_d554c1a4fc6c
+0.6.5
+2024-05-21 1716279083
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15723293788525psjV/17162790837626352cc3c.bin
 
 Medion_S10_SW_MD19601_Robot_vacuum_dxzaldz77vzlxauh_2.2.7_b34df7de7c35
 2.2.7
 2022-05-12 1652328586
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1587559178491alYH/1652328586404be76cc42.bin
 
+MEDION_S12_SW_MD20041_Robot_vacuum_40ntrashkmiom6m9_5.0.7_9bacd99aee99
+5.0.7
+2022-04-28 1651139888
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1587559178491alYH/1651139888e3c62114a44.bin
+
 Medion_S20-SW_Robot_vacuum_ltp2oxcyx2l80unp_1.0.2_30c8c58ebd44
 1.0.2
 2021-10-15 1634282129
 https://images.tuyaeu.com/smart/firmware/upgrade/bay15837394960222rJO/1634282129b340e18c0e2.bin
 
+MEDION_S30_SW_MD20021_Robot_vacuum_gc6qiaal3bsq85ek_3.0.10_8cd2119a6e14
+3.0.10
+2021-12-17 1639732618
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15723293788525psjV/1639732618b142274cdd9.bin
+
+Medion_S30_SW_Robot_vacuum_jorauxyzl2vzemjr_1.1.4_58a89ee6dc48
+1.1.4
+2021-09-18 1631936922
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1598863923441NAYs/1631936922dcc14ec2533.bin
+
+MEDION_X40_SW_MD20040_0jmdmbom28iahneu
+0.3.14
+2024-04-01 1711942961
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15723293788525psjV/17119429619d9bed39542.CleanPack
+
+Metering_2PN_WF_cdwmea1jlytpywxt_1.1.12_d867b8d86e80
+1.1.12
+2025-11-28 1764325567
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1764325567d845ad0faa4.bin
+
+Metering_2PN_ZB_78ioiaml_1.1.12_12599879bc10
+1.1.12
+2025-11-28 1764324246
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/17643242461286517fd55.bin
+
+Metering_3PN_ZB_dikb3dp6_1.1.12_92696799de62
+1.1.12
+2025-11-28 1764323590
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1764323590273844ab442.bin
+
+Metering_3PN_ZB_gomuk3dc_1.1.12_afd3ee4bd9b1
+1.1.12
+2025-11-28 1764316967
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1764316967fb348535d71.bin
+
+Metering_3PN_ZB_ny94onlb_3.2.0_c3ca060afc24
+3.2.0
+2024-09-07 1725681400
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/17256814004a62ea490a9.bin
+
 Milano_Ceiling_Fan_Fan_with_light_kbhfiv4zxa3qkcsf_0.1.3_e89d53a9e777
 0.1.3
 2023-02-13 1676276318
 https://images.tuyaeu.com/smart/firmware/acc/bay1639644358698lfEV/1676276318ea4c6cbb9d8.bin
+
+Milano_Slider_Ceiling_Fan_r5qkmy3olgnrbjpz_0.2.0_e762cc643394
+0.2.0
+2026-02-24 1771912960
+https://images.tuyaeu.com/smart/firmware/acc/bay1639644358698lfEV/177191296081f3ce33761.bin
 
 Modern_Flames_Landscape_Pro_Slim_Fireplace_v4r5dzjgkhnagnqc_1.2.7_8849c1a95edf
 1.2.7
@@ -283,15 +763,35 @@ MoesGo_PCT513-WB-TY_Thermostat_sqkxklkleeasfk8w_1.6.1_4639b8d0b2f1
 2023-07-24 1690163972
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1515026431018saCFs/16901639720288192a6b5.bin
 
+MONSGA_MS1_MAX_Robot_Vacuum_aickx5sqa8yxqpev_1.1.9_7c7e5f48fa8e
+1.1.9
+2025-05-12 1747021250
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1534681176370JSCKe/1747021250a6bb8763eaa.BIN
+
 MrCarTool_S311_32A_EV_charger_6yb7bdqiiapigxpq_1.0.7_3c53996a8e9b
 1.0.7
 2024-07-08 1720432826
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1614821111798DjCd/172043282654898ca96eb.bin
 
+MT-501_Robot_vacuum_d0k0qxoyu2qrqgkq_1.0.27_3ac3534fc34c
+1.0.27
+2019-10-08 1570507599
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1542254159262ZB6ee/15705075991ab03a85c33.bin
+
+MW_SC10_wyvu1hlo3s9weqt9_1.0.4_c7fdb44298fd
+1.0.4
+2026-04-29 1777455814
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1597138399994SXAB/1777455814626233beb76.bin
+
 Nedis_Pet_feeder_yxhdmalt36kbawev_1.0.1_9ccc645ba713
 1.0.1
 2021-04-20 1618913109
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1541381385946hoIoV/1618913109102b41b274c.bin
+
+Neo_2208_xyvel8lfnudadrm9_1.3.3_e1ca3f499840
+1.3.3
+2022-11-22 1669105172
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1615980634491NPlo/1669105172ae615b82813.bin
 
 NEO_NAS-RT01W6_Smart_AC_Controller_6qvdtaoelxa4k5c5_1.0.15_c73fa64906e6
 1.0.15
@@ -303,10 +803,35 @@ Neptun_Smart+_Water_leak_detector_fbewfxzogbzphuy3_1.1.9_d6c120f9e029
 2026-06-09 1781013738
 https://images.tuyaeu.com/smart/firmware/acc/bay1592199725911oo92/178101373893b2e954c34.bin
 
+Netbot_S15_rsyse6okboceueag_1.1.8_86ac84be7d2b
+1.1.8
+2021-09-29 1632913351
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16034424286052Omh/1632913351f229b0e17f3.bin
+
+NG_7-in-1_WLAN_Weather_station_Black_q3vykjg1ipfefdmz_1.0.1_9e3b98045f69
+1.0.1
+2025-03-21 1742536817
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1578477819095nAVrd/1742536817870e7353948.bin
+
 Nivian_NVS-A6WG_Alarm_system_p3sdak6d9jznh14x_1.0.9_1c44b75d04b8
 1.0.9
 2020-09-27 1601186202
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1538192123602LsjQt/160118620257ac2303bfa.bin
+
+Nobito-2C09T_w4k0qeatuuyandmp_0.2.1_aea8e02bbc1e
+0.2.1
+2025-07-31 1753953869
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1618969574852rl9Y/17539538693dfedfe1686.bin
+
+orphek_lighting_eh4tcr8zsdshvdrl_1.2.7_beab63371465
+1.2.7
+2021-09-17 1631869920
+https://images.tuyaeu.com/smart/firmware/upgrade/bay15983490952490evR/16318699206b9567286ae.bin
+
+Oscal_PowerMax_1800SE_Portable_power_station_sgjrplhxfruooz9t_2.3.14_c63ddafd71bb
+2.3.14
+2026-07-14 1784013315
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1687145896857m7pO/17840133157325abc4fa6.bin
 
 Oscal_PowerMax_2400_Pro_Portable_power_station_8fges9jxy2ovdwxn_1.0.01_73f6ffc87d5f.img
 1.0.01
@@ -328,6 +853,11 @@ Owon_PCT513_Thermostat_rsujjtinksnzcezy_1.2.1_a7adf08d2bbd
 2020-10-30 1604048688
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1515026431018saCFs/1604048688339de3afc9e.bin
 
+P10_Robot_Vacuum_esbk1uquvo0ch4rk_1.0.8_309f9b69c67b
+1.0.8
+2022-10-26 1666779987
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16427284609120cAZ/1666779987551a8a57634.bin
+
 Palicy_EC_Pro_20_Chlorine_generator_4lzloikpfiinsmea_1.0.4_3882f85ff96b
 1.0.4
 2025-05-24 1748051903
@@ -347,6 +877,11 @@ Parkside_PLGS2012A1_Battery_charger_h6pglenun37dzsgo_1.0.9_12b6f4573824
 1.0.9
 2022-02-12 1644635294
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16038529415135NEl/1644635294346011ad730.bin
+
+PAWBBY_Smart_Automatic_Cat_Litter_Box_fetjzvf6o6dihnhq_1.2.5_2b3831aea6f2
+1.2.5
+2024-01-03 1704277164
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1582880651849itga/17042771648e2aa4dafb5.bin
 
 Pawspik_Microchip_Pet_feeder_ht47hdx6aghbzzqk_1.2.2_a9bfd2b8fb86
 1.2.2
@@ -393,6 +928,11 @@ PG-01_Power_gateway_l5yjijwcykqo57aj_2.1.17_117deb4fa925
 2019-12-06 1575615206
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1575615206cae4407a797.bin
 
+PIXI_Smart_Feeder_rlm2m69n0xzcvjpq_1.0.12_7f0f269134d7
+1.0.12
+2020-12-10 1607597273
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1583188063253SYm3/1607597273375efc0baa9.bin
+
 Plikc_Ario_Wifi_PLKARW100_Air_vent_lc29ihcc61xcyhyj_1.4.9_819020436a89
 1.4.9
 2024-06-12 1718173131
@@ -402,6 +942,11 @@ Plikc_Neve_X_W_Thermostat_5kwgvcaqzzkzrftu_1.4.6_8b949c42b27b
 1.4.6
 2021-04-15 1618451820
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1541463935213XqnXM/16184518206752f0228c0.bin
+
+PN-CF01_Auto_Pet_Feeder_bsskmojt2nazzvjl_1.1.9_9e677d6ab274
+1.1.9
+2026-01-08 1767841401
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1628574157811uQBd/1767841401bc62477ee2f.bin
 
 PNI_CT45_Thermostat_ono8zmpmwfbm06ke_0.1.7_07e13bb78afb
 0.1.7
@@ -418,6 +963,11 @@ Polytherm_Polyalpha_Thermostat_k2vv9hr0yumh0vo8_1.1.5_3e52cd906614
 2025-01-20 1737357260
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15657387780542Lyo7/1737357260ceb3cb096ab.bin
 
+Pool_Cleaner_TA_dam7i9gk_1.0.2_5eab5cd8a8b0
+1.0.2
+2026-03-13 1773395413
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1697425823725hvir/177339541387381935f49.bin
+
 Poopy_Nano_2_mzuro9jgjs7uiryn_0.6.2_db303060ebea
 0.6.2
 2025-12-04 1764814466
@@ -427,6 +977,31 @@ PowBay_JGQW01-63_Energy_monitor_ejo7xbrodydgnavj_3.1.18_d10b905dbe43
 3.1.18
 2026-07-02 1782960201
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1569217519073AWM6q/1782960201453bbb9cd08.bin
+
+PowerMax_1800_SE_EU_lihkwwoeahoxmd3z_2.2.13_5c9fccaaf15d
+2.2.13
+2026-05-09 1778331882
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1687145896857m7pO/1778331882f9e4ddc42ea.bin
+
+PowerMax_3600_EUR_pn3tusirvypgun0a_1.1.030000_04babf50be57
+1.1.030000
+2024-05-09 1715251180
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1687145896857m7pO/171525118067e03eb6ef5.bin
+
+Presence_kapvnnlk_1.0.10_ba619b4843a5
+1.0.10
+2023-07-11 1689038578
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/16890385789554367e4e5.bin
+
+Presence_Sensor_kyhbrfyl_1.0.11_d350a0f6ca94
+1.0.11
+2026-06-03 1780471009
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/1780471009fd759882d1d.bin
+
+PROBOT_Robot_vacuum_njpmyjyykglg2zvm_10.6.1_f7c617f9f7ce
+10.6.1
+2020-07-10 1594380145
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525416449213MwUCw/1594380145c5d8fa88362.bin
 
 Proscenic_850T_Robot_vacuum_azunidlguro1hvic_1.7.0_fd528e0a7ce1
 1.7.0
@@ -438,25 +1013,180 @@ Proscenic_M9_Robot_vacuum_ise3eub6pvacnzdw_1.1.41_32ac6f44989a.pack
 2024-11-04 1730702275
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1619086319874gLD4/1730702275be8f4178900.pack
 
+Proscenic_T21_Air_Fryer_ngdn90sk1yqmk9ww_1.0.2_2a086a8fd8d9
+1.0.2
+2019-12-10 1575971961
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1533718828917HNmxD/1575971961dcb2acb9aab.bin
+
 ProWarm_Touch_Button_S_series_Underfloor_heating_abe2ogjiak94ix0j_2.2.6_4b1987b2a89d
 2.2.6
 2026-03-06 1772768267
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16693729746086BeH/177276826740646614f51.bin
+
+R13_LCD_Smart_Wifi_Thermostat_wzatd269tbc3qwbe_1.1.0_2d2415d26c5c
+1.1.0
+2026-05-22 1779420537
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/177942053705b0c481ca5.bin
+
+R13_LED_Smart_WiFi_Thermostat_d18cih052cvtrr3l_1.0.7_408d1dcf27e6
+1.0.7
+2026-05-22 1779420449
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/17794204493996eee93a7.bin
 
 Realme_TechLife_P058-T3_Robot_vacuum_aayuntqnrmc7jnq9_0.3.9_4b0548fc229b
 0.3.9
 2021-08-27 1630063024
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1601364293889drNz/1630063024676eb7dbf0a.bin
 
+Redkey_R10_hu1006jtfv2nm1rw_0.0.52_d04fd9e56c67
+0.0.52
+2024-12-11 1733915514
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16170665756459CFw/173391551466b81ee7d3e.bin
+
+Register_Booster_Fan_pjabraecffsfrmxz_1.0.5_2443f7972a5e
+1.0.5
+2025-07-25 1753428686
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1588841801984SxVz/1753428686a1a3e71daa6.bin
+
+Rheem_Water_Heater_GLP_dmz0vvqevyyzjaxy_1.0.2_0a6ca4901f9e
+1.0.2
+2021-08-25 1629881855
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1607514294323zFKd/16298818559de6eec3561.bin
+
+Robo_fswirrmacvpuwie7_1.5.11_dae62f2ee063
+1.5.11
+2021-02-01 1612153742
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1554283350527Jh4Al/16121537422653e837376.bin
+
+Robot_Lawn_Mower_20V_lt5ntgslj2smxld6_2.1.28_a098e468e0db
+2.1.28
+2026-07-22 1784705579
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654129550802y7Ux/1784705579399a0a984b9.bin
+
+Robot_Vacuum-15_ant3dd2fai9ixtsx_1.0.36_0f97c10d4a81
+1.0.36
+2024-08-20 1724120309
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1534681176370JSCKe/1724120309bdeaf2384cc.bin
+
+Robot_Window_Cleaner_v6qeqdnoumjnoaa8_1.0.28_c3e14799deed
+1.0.28
+2024-05-21 1716257126
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1634710563373uPpj/1716257126835c94d8db2.ota
+
+Robot_Window_Cleaner_wvxdpnqs_0.1.1_e3e91782b27f
+0.1.1
+2025-06-10 1749526245
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1647333505426jAwK/174952624539be5cf3b35.bin
+
+RoboVacPB_P30_oaiiou57mar5w1qa_1.1.29_8d2074ba1d25
+1.1.29
+2025-02-06 1738839074
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16427284609120cAZ/1738839074096373f4734.bin
+
+Room_thermostat_wxmbjwpt8yea7bag_1.3.1_053d61468ce3
+1.3.1
+2023-06-21 1687315397
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1541463935213XqnXM/16873153978e2bc9bcbfd.bin
+
+S8_OMNI_ouh93tro69lmgafr_0.3.8_2e146bc3f6bf
+0.3.8
+2024-10-28 1730096903
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1663935188626x3a9/1730096903bd231fc184e.pack
+
+S28_7uerfkkqyp5sqxhi_1.0.8_ed0f215150b6
+1.0.8
+2026-09-07 1788764799
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1648779566440p6T7/1788764799e534269a836.bin
+
+SA1-Zigbee_1P_Smart_Energy_Accessory_pglpvdar_1.0.9_0a36bc1d5456
+1.0.9
+2026-05-18 1779094570
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1677028124609EAyb/1779094570a8918ede8bb.HEX
+
+Sencor_SWS_16600_WiFi_SH_xbwbniyt6bgws9ia_1.0.1_e1594897931c
+1.0.1
+2025-03-21 1742539523
+https://images.tuyaeu.com/smart/firmware/acc/ay1578477819095nAVrd/1742539523dd983f5bb4f.bin
+
 SH07-8_Sprinkler_controller_e8fwsklivj87msao_1.0.9_d4abb8e72196
 1.0.9
 2022-08-05 1659692418
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1513061730920i97zP/16596924181931f2db8cf.bin
 
+SI-360_Italy_i6jqaeyzaasvvoxf_0.0.1_3e3a309947fc
+0.0.1
+2021-01-05 1609844883
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16049999249611juG/1609844883802247a95da.bin
+
+Sichler_PCR-3100_ZX-7075_Robot_Vacuum_fzubsp0a1sj1zycz_1.1.3_2fce57d31dcb
+1.1.3
+2021-04-28 1619573741
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1597042464494RoSl/16195737413f7804ad113.bin
+
+Sichler_PCR-3200_ZX-7121_Robot_vacuum_czhj4y9q1fvla6zu_5.0.15_d373738ea7d8.pack
+5.0.15
+2021-12-24 1640321828
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1534681176370JSCKe/16403218284a8991e292f.pack
+
+Smart_Camera_ARM_Linux_Updater_ic1fe5nqimzizncq_2.4.42_a6b3a4a43fca
+2.4.42
+2021-07-19 1626682649
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1555461570141vLl8p/16266826494e2922c5c4a.bin
+
+Smart_Cat_Litter_Box_jmw6obn0reh0fqle_1.0.1_dd73441d165d
+1.0.1
+2025-08-28 1756343093
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1726879457824wUKc/1756343093b9678d21f6c.bin
+
+Smart_Mouser_y7gt5mm0hsqazncd_1.0.8_d4e8fceb5623
+1.0.8
+2026-05-29 1780017774
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/17800177745d6df29106c.bin
+
+Smart_Radiator_Controller_y40tvzbu_1.3.3_d32964fb3b84
+1.3.3
+2025-10-20 1760928750
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1502346775735S3aBS/176092875078e10382aa9.bin
+
+Smart_Robot_Vacuum_Cleaner_McXstxKGPkNwPelz_3.0.3_ab9884dbc879
+3.0.3
+2019-03-04 1551683969
+https://images.tuyaeu.com/smart/firmware/upgrade/201903/1551683969zrscnv3ph3q_0.bin
+
+Smart_Security_Box_loamqbx18adckvze_1.0.06_28faab2ba5ef
+1.0.06
+2024-02-20 1708430318
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1557366574856XrXEF/17084303188acc2152172.bin
+
+Smart_Sensor_Switch_wru4e9feq5839ysf_2.2.4_fd46658bb9b0
+2.2.4
+2023-03-15 1678867706
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1665546037940uvow/16788677067ca6edeaece.bin
+
+Smart_Siren_d7bwplp3edtnkxxh_1.0.1_e3215efb5f3a
+1.0.1
+2023-08-29 1693281252
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1565138036928sSi0S/1693281252d155cc4faaf.bin
+
+Smart_Sprinkler_Controller_f8s22a3qzeqp9bam_1.0.9_c2b8110e84b7
+1.0.9
+2022-08-05 1659690000
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1513061730920i97zP/1659690000131100c5118.bin
+
 Smart_Thermostat_tjvnxyobs3upidjo_1.1.3_c45bd2790be4
 1.1.3
 2024-04-15 1713153368
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1539244260287RY0l6/171315336866110a30049.bin
+
+Smart_WiFi_Controller_a31qwchfeqkwkffo_1.0.2_1da523f82e40
+1.0.2
+2026-03-05 1772692634
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1589959502650E5Q5/1772692634fc284c270c1.bin
+
+Smart_WiFi_Thermostat_BGL_txpkybaq7fp8mrwa_1.0.9_9eefb6825cd6
+1.0.9
+2025-07-07 1751903090
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/175190309024cabdd846d.bin
 
 Smartmi_Air_Purifier_P1_nedhywwbir5vbypd_1.0.43_fc4d8dff168c
 1.0.43
@@ -468,10 +1198,60 @@ Smartmi_E1_Air_purifier_pwrmggdhwkz1lnvh_1.0.71_9525ba7a196f
 2022-10-26 1666770871
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1620265811462rftl/16667708710d19cd8d3cc.bin
 
+Smartmi_Humidifier_Rainforest_ahoqsnorxmf2g70s_1.2.28_df85373d96a3
+1.2.28
+2022-07-13 1657710212
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1620265811462rftl/1657710212422dadfb280.bin
+
 Smartmi_ZLBPKQXHS02ZM_Circulating_fan_ld6lwruyddlfx7a2_1.3.3_4eb69620cc63
 1.3.3
 2022-07-19 1658201039
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1606356277389S4ui/1658201039fb8c78f62fe.bin
+
+SNOW_Automatic_Pet_Water_Fountain_6atwtbtrc6xszdem_1.2.1_02c31003033b
+1.2.1
+2025-06-04 1749021228
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1589792063349Obje/17490212281dca436706d.bin
+
+Soil_Moisture_g2e6cpnw_1.0.7_34f5d454353b
+1.0.7
+2024-07-22 1721636805
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/1721636805fc8fb89109e.bin
+
+Soil_Sensor_sgabhwa6_1.0.12_b05ceb64a782
+1.0.12
+2025-06-13 1749795402
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/1749795402327184e21b8.bin
+
+Solius_892_jfjh9bdmn03arqzr_2.3.0_375e8da6887f
+2.3.0
+2022-05-31 1653964073
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1463872191172iilT5/1653964073f319a537674.bin
+
+SPM02_3PN_Zigbee_ves1ycwx_2.0.0_882df89378af
+2.0.0
+2023-03-02 1677739268
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1677739268f709362b064.bin
+
+Sprinkler_Controller_a9ojznj8_1.0.2_a7a6e31c26fe
+1.0.2
+2024-07-13 1720841655
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/1720841655ba59905d883.bin
+
+Sprinkler_Controller_rzrrjkz2_2.1.0_8c8ff92157d3
+2.1.0
+2024-07-16 1721118908
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/1721118908e51888d8626.bin
+
+Sprinkler_Controller_uab532m0_3.1.0_e673efd9a479
+3.1.0
+2024-07-13 1720836536
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1503986080106Gppjy/1720836536662bfcede47.bin
+
+SR46_1ogqu4bxwzrjxu8v_1.0.9_0926ce7897dc
+1.0.9
+2020-07-04 1593865384
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1536047723331OpdLN/15938653842cd6da6b570.bin
 
 Stahlmann_Smart_Water_leak_detector_13rpipcbxy5ih282_1.1.1_5fac1496648e
 1.1.1
@@ -488,6 +1268,41 @@ Standing_desk_wi4xyngyvd8kp6ly_1.0.2_ce11a368ef1a
 2022-07-15 1657854102
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1620985360920rfwL/1657854102b6a02a7f9c4.bin
 
+Standing_Desk_ytr6xsdi1kngw2j1_1.0.2_76330489d935
+1.0.2
+2023-02-09 1675928635
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1620985360920rfwL/1675928635d061f40d8ca.bin
+
+String_Lights_lfur04xbspulvuat_2.0.110_f56c89db9ab1
+2.0.110
+2021-01-26 1611627773
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427929508283DPUM/1611627773f15cbd0e516.bin
+
+SYS-Wi-Fi_Smart_Meter_npz3qtdolailwnw3_1.2.5_124a2ae12fcd
+1.2.5
+2025-04-17 1744876519
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16570761439434Ehc/17448765190884a1ddf86.bin
+
+SYS_Zigbee_Smart_Meter_6ocnqlhn_1.1.6_037a9a05bb92
+1.1.6
+2025-06-29 1751188628
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1677028124609EAyb/1751188628397655831cf.bin
+
+T7_zia0pthsijursfdj_1.0.6_55b20359eb5e
+1.0.6
+2023-05-27 1685154323
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525342233337A874A/168515432312d07d8b0a4.bin
+
+T22_egd3t0rpwfqgcttg_1.0.8_baa8bc429988
+1.0.8
+2021-09-03 1630635881
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1533718828917HNmxD/16306358816a82fe97a0f.bin
+
+Tecbot_M1_pahyrkrhjjo3ivt1_1.2.0_1e7f18ad5483
+1.2.0
+2022-06-24 1656042493
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1608775127089Abg5/1656042493dde9553b060.pack
+
 Tefal_X-plorer_S75_Animal_Robot_vacuum_and_Rowenta_X-plorer_S75_Robot_vacuum_gahugwuufkhzie7v_0.9.12_tw2o6dntmqfpwsc7_0.9.12_26cbeee2ba0f.CleanPack
 0.9.12
 2021-09-06 1630938001
@@ -498,20 +1313,80 @@ Tefal_X-plorer_S75_Animal_Robot_vacuum_and_Rowenta_X-plorer_S75_Robot_vacuum_gah
 2021-09-28 1632813021
 https://images.tuyaeu.com/smart/firmware/acc/ay15748409168332lI6v/16328130217dd8a6a3f1b.CleanPack
 
+Temperature_and_Humidity_Sensor_with_Clock_Function_tvkwsikpvdtqyciw_1.1.1_44439ec7972e
+1.1.1
+2025-02-17 1739792339
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1739792339ab15dc78958.bin
+
+Temperature_Humidity_Sensor_U2_Series_hbbfcnv722aylznx_1.0.1_5109636859b1
+1.0.1
+2023-12-09 1702088633
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1684546495119sxNC/170208863369d7628b719.bin
+
+Temperature_Humidity_Sensor_with_Probe_snx96j9e_1.0.1_73f485b433cc
+1.0.1
+2026-08-07 1786110510
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/17861105109d11f413ecd.bin
+
 TermoPlaza_TermoPlaza900_Infrared_panel_heater_xlln3q6hczrp31df_1.4.0_604174e070f0
 1.4.0
 2026-09-07 1788780609
 https://images.tuyaeu.com/smart/firmware/acc/bay1607348090427rdBH/1788780609fefd1d1e619.bin
+
+Tesvor_M1_Robot_vacuum_2zjuqh4n3ry2aqcx_1.3.6_0b6839557787
+1.3.6
+2022-05-06 1651808088
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16034424286052Omh/1651808088f67fc6d62d5.bin
+
+Tesvor_M1_Robot_vacuum_qrwbupltpqyo8ffv_1.3.9_044b99a65ce8
+1.3.9
+2022-05-27 1653640899
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16034424286052Omh/1653640899a41aa01a7ec.bin
+
+Tesvor_X500_Pro_Robot_vacuum_pivszcsbbwfshv8a_1.3.6_698c10add9ca
+1.3.6
+2022-05-04 1651648596
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16034424286052Omh/16516485961923188767c.bin
 
 TH213-E_Thermostat_3uoeudsge0ooafig_3.0.6_a6778d66e307
 3.0.6
 2020-10-29 1603951121
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15105572196954rxr3/160395112128e09baf6df.bin
 
+TH3130_Electric_Thermostat_p3lqqy2r_1.0.6_45229d5e11c3
+1.0.6
+2023-10-25 1698202970
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1628040814785F7DM/1698202970258a9131c10.bin
+
+Thermostat_connecte_Zigbee_ouy7vpm1_1.3.2_89d62b45ea01
+1.3.2
+2025-04-15 1744697901
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/17446979017ca5535a593.bin
+
+Thermostat_ST300_qn4upx5kzja3rg1l_1.0.2_0460971fa1c9
+1.0.2
+2025-10-16 1760585759
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15363081105326zLBj/1760585759f7079f1d18e.bin
+
+Thermostats_hwvq1zucci0fqfja_1.1.9_94e418c58973
+1.1.9
+2020-12-09 1607501764
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1548672455382PhyCi/160750176454cf10e32de.bin
+
 Ti_Ti_Pro25_Smart_Cat_Litter_Box_yn6wqmizg7abe5k8_1.0.15_6a67a24cf4d4
 1.0.15
 2026-08-13 1786599685
 https://images.tuyaeu.com/smart/firmware/upgrade/bay17415834149769c7T/1786599685f33e00441ed.bin
+
+TION_Breezer_4S_rllylqfcd3lfe3s3_1.12.23_c22b32dbd211
+1.12.23
+2025-09-24 1758697733
+https://images.tuyaeu.com/smart/firmware/acc/bay1698380761191HvHV/1758697733254c285d277.bin
+
+TKT_EV_CHARGER_altsclkea1ahx3md_1.1.9_8aacb5fa38a5
+1.1.9
+2025-09-29 1759139024
+https://images.tuyaeu.com/smart/firmware/upgrade/bay17492035964349CFX/17591390240793599f6f5.bin
 
 Tonepie_Ti+25_Litter_box_d8kra6getv3rzgk0_1.0.7_7acb9ab14b5b
 1.0.7
@@ -538,6 +1413,11 @@ Tongou_TOVTH-216WTTDA_Sensor_switch_oj6soirdngp9jijy_1.1.0_7ab828df809a
 2025-11-12 1762924082
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16570761439434Ehc/1762924082fe692f9ab6a.bin
 
+TRCD73_rgxpkygv_1.1.1_f0fd2aec2068
+1.1.1
+2025-12-24 1766603919
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1650270896545tHXk/1766603919ba6cc3929c8.bin
+
 Treatlife_DS02S_Smart_dimmer_switch_qafrodaboc2rtsa0_3.2.6_6ed3e5e50bde
 3.2.6
 2019-09-30 1569851364
@@ -552,6 +1432,11 @@ TS100_Water_quality_controller_momdb5fyxnl6x41g_0.0.2_1e29beb472ef
 0.0.2
 2026-08-11 1786440784
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1764750749902QhJs/17864407848ed201dc770.bin
+
+Tuvio_TUH07DE_ma3uzk3nvzpxhsbn_1.1.4_e700eb710caf
+1.1.4
+2025-08-12 1755004852
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1634110239464qD9e/17550048523f6fab93552.bin
 
 Tuya_1-gang_scenario_smart_switch_i8wvbdaj6rdcnol5_1.1.12_9e9d69fb5acf
 1.1.12
@@ -568,15 +1453,190 @@ Tuya_3-gang_scenario_smart_switch_oimjwjxmjht95nzw_1.1.12_ddf9c389e0b1
 2025-08-01 1754016406
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1555059089863sMgqv/17540164064f232a52533.bin
 
+Tuya_Breaker_fqncgm4ucg5ckqtu_1.0.2_989e9efe3aa9
+1.0.2
+2026-04-02 1775119966
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16570761439434Ehc/177511996676bf562422a.bin
+
+Tuya_Breaker_y8r7pfnkmeytq4do_3.0.4_c28d8e875924
+3.0.4
+2023-12-08 1702004837
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1572417367195I1zWH/1702004837f9b54ffa94a.bin
+
+Tuya_Cat_Litter_Box_8ohmlpgkyb5tgkdh_1.0.1_7a52d9f9a80b
+1.0.1
+2025-10-20 1760936318
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1726879457824wUKc/1760936318707222161f5.bin
+
+Tuya_Cat_litter_box_fmgalhe7botai3bn_1.4.0_d71b65f0d7bb
+1.4.0
+2026-01-10 1768027004
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1758521691028U2Nt/1768027004d35d0e322d2.bin
+
+Tuya_Circuit_Breaker_7qnpxp7ykvzgsrfx_2.0.1_bf958c7f50d5
+2.0.1
+2021-05-26 1621999635
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1515026431018saCFs/1621999635242774cc70e.bin
+
+Tuya_EV_Charger_7KW_mayntimyn6t6ot5c_1.0.6_cfec0c90b509
+1.0.6
+2024-09-11 1726025065
+https://images.tuyaeu.com/smart/firmware/acc/bay1634298100130B3ax/1726025065bfcf0941f87.bin
+
+Tuya_Fan_Heater_l3cns6rccnos2bik_1.0.6_d415445d962b
+1.0.6
+2020-07-30 1596096937
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1538020303692hR9wt/1596096937288e65fe8e0.bin
+
+Tuya_Floor_Heating_Thermostat_0xrwvfytfnpwcjhh_3.0.5_7d9d2e81c80a
+3.0.5
+2020-09-25 1600999540
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1558486843242DDAJV/1600999540bd646330521.bin
+
+Tuya_Gateway_14dnbg5o4cblwvgd_1.0.3_a740deb64e0c
+1.0.3
+2021-10-29 1635479409
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1538192123602LsjQt/16354794099c478c7e4c0.bin
+
+Tuya_Human_presence_sensor_holel4dk_2.0.10_5e08b33d680f
+2.0.10
+2023-06-01 1685616862
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15767438872311dZtq/168561686255a0a392e2c.bin
+
+Tuya_Intelligent_radiator_controller_rxntag7i_1.0.4_4a2c8c60dac8
+1.0.4
+2023-08-28 1693219255
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1547110530245tcZgC/169321925555914b40871.bin
+
+Tuya_Metering_3PN_Zigbee_v9hkz2yn_3.1.5_a6fe2e36cfe0
+3.1.5
+2025-01-02 1735784452
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1735784452f6e290b9379.bin
+
+Tuya_Neptune_Cat_litter_box_skljeamqh5pmmj1g_1.3.7_653368ba2e9f
+1.3.7
+2024-12-31 1735614466
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1542781904936WGL9o/173561446610f3e9339d8.bin
+
+Tuya_P10_Robot_vacuum_4gpvzx1ypaj8yssy_1.0.8_2b003333a63e
+1.0.8
+2022-12-02 1669960260
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16427284609120cAZ/16699602606b1a6b5baf6.bin
+
+Tuya_Power_Clamp_sjcz5yxldgbelvsq_1.0.3_80ae4c86fef2
+1.0.3
+2021-11-11 1636601704
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1515026431018saCFs/1636601704ef279ef3d71.bin
+
+Tuya_R11-B_Smart_WiFi_Thermostat_wb5zvenpm04lf9xd_1.1.5_5dec81c0fe29
+1.1.5
+2026-01-16 1768534996
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/1768534996f0a6bee432e.bin
+
+Tuya_R11_Robot_vacuum_5ajwv18j6hx6dawf_1.4.7_2fe7c53fc497.pack
+1.4.7
+2026-09-15 1789447421
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1718672024264N8Fj/1789447421078ee5f57ad.pack
+
+Tuya_S3BW_Smart_metering_controller_zs6abkzgtanaabfg_1.0.8_9d0bab558fcb
+1.0.8
+2022-06-23 1655947040
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1637051743927kzjm/16559470409a709d69b85.bin
+
+Tuya_Security_Alarm_Gateway_yavjndceybck8uux_1.0.1_56ca30f199d3
+1.0.1
+2020-09-12 1599897207
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1537847617560vAgbw/159989720795224b5a176.bin
+
+Tuya_Smart_Doorbell_6169oo3cmmki8dr5_1.0.10_4762726b5cb4
+1.0.10
+2022-04-26 1650934300
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1513061730920i97zP/165093430056ab4398cb8.bin
+
+Tuya_Smart_Fireplace_jffs7netdi23za71_1.0.2_1b2a785a5b14
+1.0.2
+2020-12-25 1608877480
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1540261036985hn6yp/1608877480b5ebed5ff07.bin
+
+Tuya_Smart_Sprinkler_Controller_vzwrarlekxlh1ptf_1.0.9_abb74ae764b0
+1.0.9
+2022-08-05 1659693193
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1513061730920i97zP/1659693193e45c0162bc2.bin
+
+Tuya_Smart_Temperature_Controller_uwcmamxsts6ixsfc_4.2.1_2e1a844c2436
+4.2.1
+2020-12-18 1608256895
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1540349529268SGLmc/160825689535490839f5d.bin
+
+Tuya_Smart_Thermohygrometer_axuisgr7uu76kixk_1.2.8_9397d7498a6b
+1.2.8
+2025-05-30 1748576368
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1748576368374c0a92733.bin
+
 Tuya_SPM02_3P+N_smart_energy_monitor_vowqogd4woktqu9y_1.1.12_7e51e4420e97
 1.1.12
 2025-11-28 1764325253
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/1764325253628c508e0e5.bin
 
+Tuya_T11_Thermostat_vzsgkgqi8vw2wjla_1.0.7_68f99e91547e
+1.0.7
+2024-07-19 1721396684
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1612765790830Z3ZH/17213966841e258e52c84.bin
+
+Tuya_Temperature_Humidity_Sensor_keverit2hdu6sbo0_1.0.1_896dd5fb4608
+1.0.1
+2022-03-07 1646620176
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1565138036928sSi0S/1646620176e3e237d4d81.bin
+
+Tuya_TRV_Thermostatic_Radiator_Valve_ymldrmzx_1.0.11_df8060537955
+1.0.11
+2026-02-06 1770371913
+https://images.tuyaeu.com/smart/firmware/acc/bay1663732639749GfWf/1770371913ad93d3f15fd.bin
+
+Tuya_WIFI_Access_Control-X_nk8ajktfnghqcbp0_1.0.5_9361262fac6e
+1.0.5
+2025-12-12 1765528453
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1589959502650E5Q5/17655284537553e02fe98.bin
+
+Tuya_WiFi_Temperature_Humidity_Sensor_lmx37hk0nnjugvy6_1.0.2_4527d9219c4a
+1.0.2
+2025-05-26 1748264396
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/17482643967734f66158c.bin
+
+Tuya_WiFi_Temperature_Humidity_Sensor_vg7hw134iamro7x2_1.0.9_d4017825a870
+1.0.9
+2026-09-28 1790599504
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/17905995048b0268b4d0e.bin
+
+Tuya_Zigbee_Smart_TRV_a4bpgplm_1.0.3_92bd50df9e88
+1.0.3
+2021-08-07 1628323022
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16178755210382spo/1628323022c7e8f0b2e06.bin
+
+Tuya_Zigbee_Thermostatic_Radiator_Valve_eekpf0ft_1.3.0_12eab9bfa263
+1.3.0
+2025-11-03 1762149977
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/176214997711e22807ede.bin
+
+TUYAE4_C3 (Security Camera patch package)
+1.3.2
+2021-08-24 1629785792
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16123549056675yZW/16297857923563b07c5d1.tar
+
+TV01-ZG_Zigbee_Radiator_Thermostat_e9ba97vf_2.0.4_68506822ec83
+2.0.4
+2022-01-10 1641797538
+https://images.tuyaeu.com/smart/firmware/upgrade/ay156144560900410bUk/164179753855caeab5b01.bin
+
 TV02-ZG_Zigbee_thermostatic_radiator_valve_hue3yfsn_2.0.4_d40578e8fd31
 2.0.4
 2022-01-07 1641551522
 https://images.tuyaeu.com/smart/firmware/upgrade/ay156144560900410bUk/164155152229641863dfc.bin
+
+TyloHelo_IR2_Infrared_Sauna_Controller_89elwzde5ge9pe4a_1.1.0_a82b8c422955
+1.1.0
+2020-09-19 1600509051
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1523170314091LbdQA/160050905121b33d49f52.bin
 
 Ultenic_T10_Robot_vacuum_skn6zhhv0uxrylrk_2.3.4_c319e032a170.CleanPack
 2.3.4
@@ -593,10 +1653,20 @@ Unidentified_TuyaMCU_device_Yhtig6DeVgGXKT2W_1.1.8_d852179ec55d
 2023-07-07 1688721237
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1529982304505OYAXg/1688721237dec43c65b33.bin
 
+V3_Robot_vacuum_o30y8jelaluvb6h7_0.1.2_bcdf226a982a
+0.1.2
+2023-12-28 1703759124
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15274699417350SyaI/170375912476869a9e19c.bin
+
 Venta_Original_Connect_AH510_AH515_Humidifier_ecihf2xeg7ghlfnh_1.4.0_fa77fc863886
 1.4.0
 2026-04-22 1776822766
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1516260237145kZ0GD/1776822766af84e872f0b.bin
+
+Water_Level_Monitor_cwrapdzslzzacmjb_1.1.1_4733d27e4759
+1.1.1
+2025-11-25 1764054650
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1764054650b765735c9d8.bin
 
 Wenzhi_MTG276-WF-RL_(UNKNOWN_MCU)_pmnjl6jvjbmrdw9s_1.0.6
 1.0.6
@@ -608,20 +1678,95 @@ Wenzhi_WZ35_24GHz_MTG236-WF-RL_Presence_sensor_19m3dfjwe46njety_1.0.6_8dbc014ec1
 2024-10-28 1730112711
 https://images.tuyaeu.com/smart/firmware/upgrade/bay16011912921704imr/1730112711Apps_encode_22522fcb
 
+WIFI_A_edhygpnzl0nkwprd_1.0.7_36ea6d61086f
+1.0.7
+2025-02-13 1739460074
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1702339623915ZACg/173946007466cfe736019.bin
+
+WIFI_Doorbell_gayokz3waxf4eman_1.0.3_17971c5eeda9
+1.0.3
+2019-09-26 1569490264
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1526456778981jngjT/1569490264e07c46a21a6.bin
+
+WiFi_Face_Access_td7kahmaly2odklo_0.0.9_eb945c7a0fc5
+0.0.9
+2025-08-01 1754031226
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1589959502650E5Q5/17540312265e32fa969b2.bin
+
+WiFi_Pet_Feeder_l6v4blghniggaoal_1.7.0_bffaf97987b9
+1.7.0
+2023-01-17 1673937675
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1521004915158Sqi7u/16739376757d98903d07e.bin
+
+WiFi_Smart_Gas_Boiler_Thermostat_fi6dne5tu4t1nm6j_1.1.0_195667137784
+1.1.0
+2026-01-17 1768639321
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/17686393211dfadeb0d78.bin
+
+WiFi_Smart_Gateway_uiukq4fmwdyjnffv_1.9.9_691b3c4f4d22
+1.9.9
+2022-03-29 1648532956
+https://images.tuyaeu.com/smart/firmware/upgrade/ay14939862722938yOM2/164853295655bbab74711.bin
+
+WiFi_Thermostat_ovza7kwujqrcroyj_1.0.3_58f5ac01df43
+1.0.3
+2024-10-11 1728647541
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1715826364305vnMd/17286475414169b39e175.bin
+
+WiFi_Thermostatic_Radiator_Valve_pfohdesc8xeiwy8h_1.3.9_53c8b7d9a241
+1.3.9
+2026-02-04 1770177909
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/1770177909850ad0474c2.bin
+
+Wireless_Control_Box_for_Underfloor_Heating_System_oahqgdig_3.0.0_404f38c10092
+3.0.0
+2025-11-07 1762510210
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16693729746086BeH/17625102109d94a7fe5fc.bin
+
+Wireless_Control_Box_for_Underfloor_Heating_System_zaabefnt_3.0.2_3a2bfd65a183
+3.0.2
+2025-11-07 1762511217
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16693729746086BeH/17625112170175d015edc.bin
+
+Wireless_Doorbell_fxzcw6fib25m8rbu_1.0.4_a01eaeb646ca
+1.0.4
+2022-04-26 1650952900
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1513061730920i97zP/1650952900575e34ee7a3.bin
+
+Wireless_Weight_Sensing_Pet_Fountain_cwrqimudzkuuipcg_1.4.8_89e7bd3808b3
+1.4.8
+2025-12-31 1767161932
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1589792063349Obje/1767161932dac792b0480.bin
+
 Woox_R7246_IR_remote_with_sensors_deaf0nqhy4chqpdn_1.5.0_134912704c52
 1.5.0
 2025-01-02 1735811059
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1723544119971bnAN/1735811059527b5cd4283.bin
+
+WS2GW [s3x3xmgbeohtvm40]
+1.0.8
+2025-08-23 1755924581
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1523863664200blDVo/17559245810b63c2f56d6.bin
 
 WS06-T1-3S_Weather_station_q6fgexhltimjtyow_1.1.6_b706fdeb321a
 1.1.6
 2025-10-16 1760607791
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1525749833414yotNt/1760607791d2b1aee5529.bin
 
+WT198_Smart_WiFi_Thermostat_ojgqfmphr2s5qqeb_1.3.7_417ea5a0ec0a
+1.3.7
+2026-01-20 1768877079
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/1768877079447af11424d.bin
+
 Yuposl_Dual_band_Pet_feeder_eb3olqllh0l0hvwz_5.9.0_861a7d804446
 5.9.0
 2024-12-30 1735523699
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1521004915158Sqi7u/1735523699a525e47f8fc.bin
+
+ZEDAR_K1200_Cat_Litter_Box_pv7gwtryo6uccfn1_2.3.5_39a4beb2311d
+2.3.5
+2025-10-13 1760345888
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1537266087379ueEwg/17603458880f75dc617c5.bin
 
 Zemismart_SDM01-TW0_TZ0-12_Energy_meter_fzxonzodwjiugioz_1.0.3_84c3fc8dac01
 1.0.3
@@ -632,3 +1777,378 @@ Zemismart_SPM01_Zigbee_Energy_meter_qhlxve78_3.1.3_2154d2a0218c
 3.1.3
 2024-07-17 1721185424
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1553162414592ZG6Kk/17211854247e38bd26c81.bin
+
+Zigbee_FP_Thermostat_eq83dclk_1.2.0_b9d6f007c5f4
+1.2.0
+2025-03-15 1742036412
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/174203641255f1d875470.bin
+
+ZigBee_Smart_Thermostat_awnadkan_2.1.1_7b1d53bebbcae
+2.1.1
+2025-03-14 1741932839
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/17419328394a9ff4493ac.bin
+
+ZigBee_Smart_Thermostat_ca3i8m8p_3.0.4_2396d3a667da
+3.0.4
+2025-03-14 1741934950
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/17419349505f0c7115af9.bin
+
+ZigBee_Smart_Thermostat_djurk6p5_3.1.1_e8d5a60ccb90
+3.1.1
+2026-04-22 1776856429
+https://images.tuyaeu.com/smart/firmware/upgrade/bay171498510452204UG/1776856429e00c07574c6.bin
+
+ZigBee_Smart_Thermostat_gtouvmvl_2.0.4_8b545d7f32eb
+2.0.4
+2025-03-12 1741774534
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1626947817642TN57/17417745345dd54894556.bin
+
+Zigbee_Smart_TRV_z1tyspqw_1.0.2_22395c7b7ca1
+1.0.2
+2023-03-15 1678844742
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1654864343853ucU6/16788447423709001aaca.bin
+
+Zigbee_Temperature_and_Humidity_Sensor_qf5mzewi_1.1.3_993f5db4524b
+1.1.3
+2026-04-25 1777082110
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1777082110d0d053a39a0.bin
+
+Zigbee_Thermostat_Radiator_Valve_vjpaih9f_1.3.0_2c76c37b06f2
+1.3.0
+2025-11-03 1762150087
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1671175132655mOtP/1762150087b6d37c479fa.bin
+
+ZooZee_Robot_Vacuum_dcvlcnxflukrulky_14.0.10_b11ec36d9231
+14.0.10
+2021-07-29 1627546594
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1554283350527Jh4Al/162754659400302840662.bin
+
+ZOOZEE_Z50_Robot_Vacuum_b6fw6higffd9t5qs_19.0.6_0caa66bf5a31
+19.0.6
+2021-08-13 1628847334
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1554283350527Jh4Al/16288473340f2f27c6c55.bin
+
+Split_Pared_Artic_ytdek3ddm6hlig7r_01.001.042_d6b4995f5cb7
+01.001.042
+2026-09-29 1790648944
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1490665601168Tqur3/17906489442a2815f2145.bin
+
+Dreamegg_Sunrise_1Plus_yible1syyda3s5iv_1.3.7_f03dc2236ebd
+1.3.7
+2026-04-21 1776757828
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16691937081900wqy/1776757828417e14e1da5.bin
+
+PATBRELA_MSP01_unvgwjvxa1dgmzjz_1.5.4_0e2f6c0508cd
+1.5.4
+2026-09-07 1788748925
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay17568680865918eWb/1788748925c9b4837bd91.bin
+
+Poolex_Aqualyser_Flex_znwak16puku13ysy_1.4.1_30881ca8f51d
+1.4.1
+2025-06-20 1750405457
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1739865386268Lw8N/17504054572b78bf610b8.bin
+
+ME220FW_Smart_Valve_6w5zwkrivvjgqizb_1.1.3_914785e205c0
+1.1.3
+2026-07-31 1785541564
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1614837762606RDah/17855415640ea4e26f5bb.bin
+
+Engo_E55W_7frvwc6y3rh903az_1.5.5_229f345664a6
+1.5.5
+2025-10-10 1760064451
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1701331043830t6UB/176006445196474f1c8f7.bin
+
+Eufy_RoboVac35C_T2117_VkfXO4Rkkcxlc1Wt_1.2.0_ad63e09edae7
+1.2.0
+2020-08-05 1596614102
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565231916893oYHY5/1596614102ca2d8d2bf4d.bin
+
+Cecotec_Conga_8290_Immortal_Ultra_Power_kofl9ubyyyfznpxw_1.3.4_2783c76b243e
+1.3.4
+2023-07-11 1689072644
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/16890726444e7b0842bcc.bin
+
+Proscenic_Q8Max_vvbkevkwvws90c6z_1.1.15_e20f44e88dd6
+1.1.15
+2025-02-25 1740445682
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1619086319874gLD4/174044568263da55297ee.bin
+
+Tuvio_TKP1317S_TKP1417S_TKP1517S_TKP1617S_TKP1717S_ggcjxa4ywouub0ji_1.5.6_d8aada652397
+1.5.6
+2026-09-12 1789181563
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1638606224218hzAU/17891815637f83d087045.bin
+
+Tylo_Bliss_d3hy0cu1zqxr28q5_2.0.0_ad1393f0aa71
+2.0.0
+2024-11-27 1732676334
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1557404022926yWg4F/1732676334d70d1be2397.bin
+
+DS02S_Smart_Dimmer_Switch_uvidh5cqxphmtrxp_2.5.1_544c393f4bb3
+2.5.1
+2019-07-25 1564047195
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1535784595783Zbut5/1564047195a8bdddad433.bin
+
+OWON_PCT503_TY_yqtvutnarapq9p80_1.3.4_94a3825ab8b2
+1.3.4
+2021-06-28 1624863790
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1515026431018saCFs/1624863790afd64cfd048.bin
+
+OWON_PC321_TY_ki7a5adjaeuajgvx_1.0.8_0193596ada6a
+1.0.8
+2022-01-07 1641519746
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1515026431018saCFs/16415197463e8916b208d.bin
+
+OWON_PC341_W_TY_3tfjqtt29da736vk_1.1.1_d7254af60862
+1.1.1
+2024-04-28 1714300691
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1515026431018saCFs/171430069111d1ae3f2c2.bin
+
+Petoneer_Fresco_Pro_FSW010_9xey3ma1zibfuaqq_1.0.14_634f82fc9351
+1.0.14
+2020-03-16 1584351774
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542071090990VYk4Y/1584351774d002c5ed0de.bin
+
+Nutri_FDW010_zmzcgnyiqez93muc_1.2.21_05c0cfe78f7a
+1.2.21
+2020-03-06 1583495313
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1561097711401mgZjY/158349531320cf3532556.bin
+
+Nutri_Mini_PF005_hlxxr2s5bo6iuwcd_1.0.21_d2b1edf86718
+1.0.21
+2021-04-20 1618916972
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541381385946hoIoV/16189169724e3ccd3fe0b.bin
+
+TRV_ZX05Z_Thermostatic_Valve_uhntpmnd_1.1.0_9b3ccb985771
+1.1.0
+2024-10-23 1729661675
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1534490862266NApJD/1729661675f2c7e1e1ffd.bin
+
+Perenio_Joule_PEJPH02_Heater_ammysfuio3z2b5e7_1.0.41_0b71c69d0928
+1.0.41
+2023-11-01 1698821492
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/ay1561229587068PHjp7/1698821492c964a09486a.bin
+
+Neo_Coolcam_mouse_trap_NAS_MA02W6_V1_6j6pmks80ftdhg9p_1.0.8_cb7f4b8c05e2
+1.0.8
+2026-05-29 1780016880
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/17800168800e7ac97cfa8.bin
+
+Enboya_DL30_Pro_1h3gf4y7gt3eytpt_5.1.0_32263b9b24d4
+5.1.0
+2025-04-01 1743505940
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1554283350527Jh4Al/1743505940fc17f55daf6.bin
+
+Momcozy_DreamSync_Smart_Baby_Sound_Machine_WN05_7dirq5hqba22fw5y_1.0.40_f8cf741eccbf
+1.0.40
+2025-05-20 1747725708
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1589439371120kSUq/17477257085aa3951d02c.bin
+
+Pet_flat_SM001_cat_litter_box_qreoxm3cqasnhai8_1.7.2_327434821733
+1.7.2
+2024-12-20 1734688163
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1619746465859fsjt/1734688163a6a2b01b507.bin
+
+Engo_E20iWIFI_thermostat_f1tbiilmxdkvy9x2_2.1.22_46455da56606
+2.1.22
+2025-03-27 1743040387
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1626947817642TN57/1743040387c529674885f.bin
+
+80A_WiFi_Smart_Three_Phase_Energy_Meter_and_Protector_MTY2_4tpaetqac6lap6mv_1.0.24_b95f933755d5
+1.0.24
+2026-07-06 1783307075
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1696662873247qbXk/178330707590fa560448b.bin
+
+Oukitel_EP2500_EP2500E_energy_storage_eztu0lip1f0e05xs_0.1.24_209b0d83148e
+0.1.24
+2026-10-27 1793085381
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1733817655877P4N7/17930853815fef143d3d6.bin
+
+MW825T_4_in_1_IR_Controller_wloupggjgar1jtgz_1.1.8_b0e6eefd8979
+1.1.8
+2024-02-21 1708517847
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1525749833414yotNt/1708517847d123f0aefbd.bin
+
+Oscal_PowerMax_2400_uezcclucii8uajav_2.1.07_37b1087a39e3
+2.1.07
+2025-02-14 1739530688
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1687145896857m7pO/1739530688b3f11801ef7.bin
+
+Onemi_Smart_Garden_YMT_20201c_2aqnvxwnc3ipfioe_1.2.10_8dbf826e9fa6
+1.2.10
+2022-03-07 1646659213
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1607507286760kXvc/16466592138665f66b209.bin
+
+X3TH01TW_WiFi_Thermostat_zrk5ctgzhyaupkrn_0.8.0_22c70f65071e
+0.8.0
+2021-06-09 1623204779
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1557452849573pkfB7/162320477967d32a6ec5e.bin
+
+BL_G7_Multifunction_Alarm_klyahl08nkiaeavz_3.4.26_1bbc47febf7b
+3.4.26
+2020-09-29 1601366650
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565158691061CaTAu/16013666503cf0dfd9a43.bin
+
+Koray_RX_G550_4H_Grow_Light_Controller_nly0fqfzaxpwxg62_1.0.95_908cae25490e
+1.0.95
+2020-09-18 1600416878
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1526004026286XODAi/1600416878ac2685c8dbb.bin
+
+TZ300_RestOn_Sleep_Tracker_y8ffp9jbdf1je23m_3.2.0_442793ccb869
+3.2.0
+2021-05-26 1622017169
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15200409832226MYZI/162201716988e3059044e.bin
+
+WM_3_RF_Alarm_Starter_Set_9t9fvfoqyfuuhvnu_1.3.9_445a9cf65e64
+1.3.9
+2020-09-26 1601115300
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1538192123602LsjQt/1601115300e1a0e274d80.bin
+
+WL_JT_10GTS_Security_Gateway_ppnttlrdtehwhfue_1.1.1_7b2fb479614f
+1.1.1
+2021-01-18 1610957571
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15427647462366edzT/161095757114f77b7ef88.bin
+
+WiFi_RJ45_Smart_Camera_AK8640_hqzdtnvi7deffnep_3.0.24_0ff4f25ae462
+3.0.24
+2022-08-03 1659508546
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15372371921250HFeV/1659508546884fb9857d9.bin
+
+Kyvol_Cybovac_S31_Robot_Vacuum_mdqiqgtpolsuxo30_0.6.6_4dea1c784d33
+0.6.6
+2021-06-03 1622685635
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1552647039402ueTid/1622685635a0250c35a4d.CleanPack
+
+Baby_Sleep_Trainer_AFQ05_tzooq3x1npq11rpf_1.1.1_450cfefcd7df
+1.1.1
+2021-05-14 1620988078
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1522637811891ZWAu6/16209880780aa899d9f2c.bin
+
+M12_BLE_Fingerprint_Touchscreen_Lock_qdhbs9qv_0.0.9_86cf558393e7
+0.0.9
+2022-08-09 1660012678
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1573089662568cGNjW/16600126780b6bff22440.bin
+
+TH115A_WIFI_Thermostat_teLKe8O95brpIRg3_1.0.7_4d0802618753
+1.0.7
+2019-11-22 1574390674
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15105572196954rxr3/1574390674d9f25e51be6.bin
+
+E35_Robotic_Vacuum_Cleaner_mfnqkhom5tntzsnt_1.2.4_139eb46c3030
+1.2.4
+2020-04-29 1588139294
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/15881392946dc3016f336.bin
+
+AX_WF185_Smart_Coffee_Maker_TDtmdaZXM06reqKc_1.0.7_1bb0640f8a4d
+1.0.7
+2022-01-07 1641550027
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521255220239EOpb6/1641550027ecf41df2df5.bin
+
+OV6_Smart_Alarm_Hub_yhcfvtor1wwuzha5_1.0.4_49171ac12367
+1.0.4
+2020-04-14 1586832977
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1572487818099bbN3f/1586832977d7b4172e169.bin
+
+RS_CN_HM_2SG_2SW_Iceberg_Fire_Humidifier_II_h9y49wkflyq3upvp_1.2.6_80acc2c54f75
+1.2.6
+2019-03-18 1552874802
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201903/1552874802wof753g479k_0.bin
+
+Linptech_N2_T_Doorbell_Gateway_cph2mxshd0wnvocn_2.2.3_4c8dc7507882
+2.2.3
+2021-02-25 1614236823
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541129189848tRH06/1614236823f5b7119d00c.bin
+
+LS3_716_Thermostat_xwebegd8dnpew8al_1.1.2_10421be84df9
+1.1.2
+2020-11-10 1605001120
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1571215549099vmDAi/16050011200e6d64ef076.bin
+
+MS_S5_WiFi_Cellular_Alarm_Gateway_7ebytllhrlsxkerk_1.0.2_cda332836598
+1.0.2
+2020-11-12 1605165824
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537170211499MqxLj/16051658246eeb5d97fa5.bin
+
+HP110B_White_Noise_Device_ta9o0ngbphd4kpo2_1.1.1_f75da8e2f949
+1.1.1
+2021-01-26 1611658635
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1522637811891ZWAu6/161165863517ee4f64242.bin
+
+TH115T_WIFI_Heating_Thermostat_sztapog6tiiok8yc_1.0.7_aec249d4d59d
+1.0.7
+2019-11-22 1574390835
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15105572196954rxr3/1574390835aac9077cfae.bin
+
+T18XUTW_7_WIFI_TY_Programmable_Thermostat_arvg3r8g30dao52o_2.8.8_69da0c3af3f9
+2.8.8
+2021-10-29 1635498149
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15674734664207PoAF/163549814909408390279.bin
+
+PF05WD_T_Wi_Fi_Pet_Feeder_zeanen4kzooa5qiy_1.3.0_8751ae1f36d8
+1.3.0
+2020-05-15 1589533377
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542272230095VpnOm/158953337733db5b0e164.bin
+
+KR310_KRV310_Robot_Vacuum_jbhjezy1kabvhos2_2.0.5_a0ccf281c41b
+2.0.5
+2020-01-08 1578467444
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15102171075958euWF/157846744457495069158.bin
+
+XR302_R320_Robot_Vacuum_zbtuvf8xwzhdbqbf_1.1.5_e3f4c0f4f068
+1.1.5
+2020-01-08 1578468228
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/157846822898fc3e4597d.bin
+
+SEL600_WIFI
+1.0.9
+2019-11-25 1574675934
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1564560066460aKqL3/15746759342128c153cd0.bin
+
+TH113E_WIFI_Heating_Thermostat_2hm3r0obo06jpuzd_2.0.7_f8a711a32076
+2.0.7
+2019-11-22 1574390905
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15105572196954rxr3/157439090550bd4a5a391.bin
+
+J050_Robot_Vacuum_bhbar2ml3p9rl8ua_1.6.00_a7d8ad2507b6
+1.6.00
+2020-03-18 1584507857
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542254159262ZB6ee/15845078574d1bac0ef1d.bin
+
+Disinfection_Dryer_CF_C1_m6alvd1pic0o52lj_1.3.0_5e8e66aadece
+1.3.0
+2020-07-25 1595649713
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15390744835205YZ9b/1595649713e6feae27398.bin
+
+smart_cloth_hanger_AFH_Y1_zxq5bvclr2r14t4p_1.3.0_f659439dd6ed
+1.3.0
+2020-07-24 1595578579
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1550028012135ipmEm/1595578579a655bf05de3.bin
+
+DBS2300L_mseug7isizurvaon_22.00.04_cfff3691c1b9
+22.00.04
+2023-01-10 1673330628
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1650442404213MaTc/167333062891bf2b5e104.bin
+
+S15Pro_Remote_Hub_nyvqnzrxyara4feq_1.1.1_9e56b8cc4661
+1.1.1
+2022-09-23 1663928633
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1525749833414yotNt/16639286339e64a29891d.bin
+
+KRV185_Robot_Vacuum_xDFlmZGWPtoviN0H_1.1.3_8a8bc9e9cf50
+1.1.3
+2019-03-13 1552441631
+https://images.tuyaeu.com/smart/firmware/upgrade/201903/1552441631024byws44jjl_0.bin
+
+Dilwis_gwrwpufpfz6skwir_1.2.6_e3f6efa0d9d3
+1.2.6
+2026-09-21 1789986763
+https://images.tuyaeu.com/smart/firmware/acc/bay1592199725911oo92/1789986763d2316d92507.bin
+
+Neptun_Smart_SE_MAX_nszkwyua5xpbzvo9_1.1.10_bcff9cc71459
+1.1.10
+2026-06-30 1782823035
+https://images.tuyaeu.com/smart/firmware/acc/bay1592199725911oo92/1782823035e9b4ac0747f.bin
+
+Tuya_Liquid_Level_Sensor_mgxzoh5cfyrq5eqx_1.2.0_ab97787fb2ea
+1.2.0
+2026-10-12 1791804357
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1791804357eb0f1c04928.bin

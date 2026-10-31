@@ -1,0 +1,4 @@
+Denkirs_DK-7400_Lighting_Gateway_Telink_br85qgx86gsavad9_1.2.0_6360243193b8
+1.2.0
+2021-01-11 1610333596
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1540172560870A0crs/1610333596cee35d374fd.bin

@@ -1,0 +1,4 @@
+S60_Robot_Vacuum_supplier_model_S600_apzkbc6qw08v8saf_0.0.7_369a455d86eb
+0.0.7
+2023-07-21 1689922084
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1607666581333nLpO/168992208425ad396f21b.bin

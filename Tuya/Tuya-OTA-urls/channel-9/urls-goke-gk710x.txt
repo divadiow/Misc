@@ -1,0 +1,19 @@
+ipcfeeder_v1.2.21 [f0ohik0mrsp78r2f]
+1.21.37
+2020-12-16 1608112910
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1541381385946hoIoV/1608112910e3e837112fb.bin
+
+TUYA_GK710XX_camapp [8lw0enzlgfsxwaqa]
+2.3.01
+2020-07-04 1593831747
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1578126393849AQjKd/1593831747camapp
+
+Tuya_IPC_Camera_(Goke_GK710x_Linux)_7mt40gdb8bznoyvm_2.3.01_93993d9857ce
+2.3.01
+2020-06-17 1592365104
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1543301533473xg0e2/1592365104b5d1f2437c1.bin
+
+TV_TYK530TD_2MP_Smart_Lamp_Camera_audf0necgys4yz3w_2.3.01_463a904094bb
+2.3.01
+2020-07-03 1593768722
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1578126393849AQjKd/1593768722camapp

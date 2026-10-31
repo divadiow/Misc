@@ -1,9 +1,44 @@
+Multifunction_Alarm_Allwinner_F1C100S_compatible_sx1ykvkpjbavz252_2.1.22_970e775330dd
+2.1.22
+2024-12-10 1733831778
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557366574856XrXEF/1733831778b6218dbda2f.bin
+
 Smart_Security_Panel_(Allwinner_F1C100S-compatible_build)_9brhjvyfixyydzld_1.0.18_f542c97c3191
 1.0.18
 2021-10-21 1634804665
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1569410984379VeGPj/163480466599db41d8ad6.bin
 
+Smart_Security_Panel_Allwinner_F1C100S_compatible_bvqcpdahhulw9dpi_2.1.11_1b1b2edc7a7e
+2.1.11
+2023-08-03 1691051186
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1569410984379VeGPj/16910511866c22b629948.bin
+
+Smart_Security_Panel_(Allwinner_F1C100S-compatible_build)_d7dgjao5nvj03p5q_2.1.15_296ca49eadb3
+2.1.15
+2024-02-20 1708415685
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557366574856XrXEF/17084156854500d3e81e4.bin
+
+Smart_Security_Panel_(Allwinner_F1C100S-compatible_build)_fkbumi7jbqlymy2z_2.3.05_6db954fa5ce5
+2.3.05
+2025-11-06 1762420697
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557366574856XrXEF/1762420697030b3c48694.bin
+
+Smart_Security_Panel_Allwinner_F1C100S_compatible_twew2ntxiplulgil_3.1.14_c1deafa23b55
+3.1.14
+2023-10-18 1697612011
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1557366574856XrXEF/1697612011573efac91d1.bin
+
+Smart_Security_Panel_Allwinner_F1C100S_compatible_vdorudpj4d9swnr6_3.1.15_f826e256e77a
+3.1.15
+2024-02-20 1708412066
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1557366574856XrXEF/17084120663591d109fa3.bin
+
 Staniot_H700_TP_V2.0_CB3S_Security_panel_(Allwinner_F1C100S-compatible_build)_du5wifdsr8btglrl_2.1.16_12f9e460aa05
 2.1.16
 2024-03-12 1710228663
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1557366574856XrXEF/1710228663a2aafbc5f9c.bin
+
+Tuya_Smart_Security_Panel_Allwinner_F1C100S_compatible_bb9b7sphvabbhiso_1.0.18_08b457e50484
+1.0.18
+2021-10-21 1634804700
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1569410984379VeGPj/16348047003ff1192fbf9.bin
