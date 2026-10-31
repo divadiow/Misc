@@ -1,0 +1,19 @@
+oem_IR_control
+1.0.3
+2021-09-17 1631869728
+https://images.tuyaeu.com/smart/firmware/upgrade/20210917/1631869728-oem_IR_control_OTA_1.0.3.bin
+
+oem_si32_zg_light2_pwm_a60_lidl
+1.1.0
+2020-04-15 1586955865
+https://images.tuyaeu.com/smart/firmware/upgrade/202004/1586955865-oem_si32_zg_light2_pwm_a60_lidl_OTA_1.1.0.bin
+
+oem_si32_zg_light5_pwm_lidl
+1.1.4
+2022-03-07 1646643754
+https://images.tuyaeu.com/smart/firmware/upgrade/20220307/1646643754-oem_si32_zg_light5_pwm_lidl_OTA_1.1.4.bin
+
+zs3_115200
+1.0.6
+2020-04-07 1586266766
+https://images.tuyaeu.com/smart/firmware/upgrade/202004/1586266766-8711AM_COO_ota_1.0.6

@@ -1,3 +1,8 @@
+8711AM_COO_TYZS3_115200_65
+1.0.7
+2021-06-11 1623394428
+https://images.tuyaeu.com/smart/firmware/upgrade/20210611/1623394428-8711AM_COO_TYZS3_115200_65_1.0.7.ota
+
 1578472971-mcu_si32_zg_pir_mlk_OTA_1.0.4.bin [jytabjkb]
 1.0.4
 2020-01-08 1578472971
@@ -43,6 +48,201 @@ https://images.tuyaeu.com/smart/firmware/upgrade/20211108/1636362339-COO_TYZS4_1
 2021-11-18 1637242672
 https://images.tuyaeu.com/smart/firmware/upgrade/20211118/1637242672-8711AM_COO_TYZS3_115200_65_test__1.0.8.ota
 
+common_link_lp_ZS5
+1.0.3
+2024-04-29 1714354952
+https://images.tuyaeu.com/smart/firmware/upgrade/20240429/1714354952-common_link_lp_ZS5_OTA_1.0.3.bin
+
+common_link_scene_MG21
+1.0.5
+2024-03-13 1710333737
+https://images.tuyaeu.com/smart/firmware/upgrade/20240313/1710333737-common_link_scene_MG21_OTA_1.0.5.bin
+
+COO_TYZS4_115200_65
+1.0.13
+2021-11-08 1636362625
+https://images.tuyaeu.com/smart/firmware/upgrade/20211108/1636362625-COO_TYZS4_115200_65_UG_1.0.13.bin
+
+DOOWIFI_SHUTTER_ZIGBEE_xxgrunjb_1.0.2_5bce6a4b3e80
+1.0.2
+2021-11-02 1635821542
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1504535816017oOfFp/16358215428eb6ec4d235.bin
+
+klt_zg_dimmer
+1.0.2
+2021-04-20 1618886243
+https://images.tuyaeu.com/smart/firmware/upgrade/20210420/1618886243-klt_zg_dimmer_OTA_1.0.2.bin
+
+oem_light_mg21_linea
+1.0.7
+2023-10-27 1698389895
+https://images.tuyaeu.com/smart/firmware/upgrade/20231027/1698389895-oem_light_mg21_linea_OTA_1.0.7.bin
+
+oem_mg21_6wire_control_xhy
+1.0.2
+2024-02-05 1707106016
+https://images.tuyaeu.com/smart/firmware/upgrade/20240205/1707106016-oem_mg21_6wire_control_xhy_OTA_1.0.2.bin
+
+oem_mg21_common_link_lp_xhy
+1.0.7
+2024-04-17 1713353256
+https://images.tuyaeu.com/smart/firmware/upgrade/20240417/1713353256-oem_mg21_common_link_lp_xhy_OTA_1.0.7.bin
+
+oem_mg21_common_link_lp_xhy
+1.0.8
+2024-04-25 1714031058
+https://images.tuyaeu.com/smart/firmware/upgrade/20240425/1714031058-oem_mg21_common_link_lp_xhy_OTA_1.0.8.bin
+
+oem_mg21_common_link_xhy
+1.0.3
+2023-12-08 1702006133
+https://images.tuyaeu.com/smart/firmware/upgrade/20231208/1702006133-oem_mg21_common_link_xhy_OTA_1.0.3.bin
+
+oem_mg21_common_link_xhy
+1.0.5
+2024-04-25 1714032664
+https://images.tuyaeu.com/smart/firmware/upgrade/20240425/1714032664-oem_mg21_common_link_xhy_OTA_1.0.5.bin
+
+oem_mg21_light_5_briloner
+1.0.2
+2021-07-23 1627011671
+https://images.tuyaeu.com/smart/firmware/upgrade/20210723/1627011671-oem_mg21_light_5_briloner_OTA_1.0.2.bin
+
+oem_mg21_plug_relay_xz
+1.3.3
+2022-03-03 1646278818
+https://images.tuyaeu.com/smart/firmware/upgrade/20220303/1646278818-oem_mg21_plug_relay_xz_OTA_1.3.3.bin
+
+oem_mg21_temp_hum_bright_eink
+1.0.11
+2021-06-30 1625058404
+https://images.tuyaeu.com/smart/firmware/upgrade/20210630/1625058404-oem_mg21_temp_hum_bright_eink_OTA_1.0.11.bin
+
+oem_mg21_zg_light_bulb
+1.1.9
+2021-04-12 1618196498
+https://images.tuyaeu.com/smart/firmware/upgrade/20210412/1618196498-oem_mg21_zg_light_bulb_OTA_1.1.9.bin
+
+oem_mg21_zg_light_bulb
+1.2.2
+2021-10-13 1634116957
+https://images.tuyaeu.com/smart/firmware/upgrade/20211013/1634116957-oem_mg21_zg_light_bulb_OTA_1.2.2.bin
+
+oem_mg21_zg_light_bulb
+1.2.4
+2022-05-26 1653531930
+https://images.tuyaeu.com/smart/firmware/upgrade/20220526/1653531930-oem_mg21_zg_light_bulb_OTA_1.2.4.bin
+
+oem_mg21_zg_light_bulb
+1.2.5
+2022-08-28 1661652386
+https://images.tuyaeu.com/smart/firmware/upgrade/20220828/1661652386-oem_mg21_zg_light_bulb_OTA_1.2.5.bin
+
+oem_mg21_zg_nh_win_cover_relay
+1.0.7
+2022-09-09 1662693814
+https://images.tuyaeu.com/smart/firmware/upgrade/20220909/1662693814-oem_mg21_zg_nh_win_cover_relay_OTA_1.0.7.bin
+
+oem_si32_zg_ihorn_gas_sensing
+1.0.3
+2020-05-28 1590648521
+https://images.tuyaeu.com/smart/firmware/upgrade/202005/1590648521-oem_si32_zg_ihorn_gas_sensing_OTA_1.0.3.bin
+
+oem_si32_zg_IhornHumTem_lcd
+1.0.8
+2021-12-20 1639989835
+https://images.tuyaeu.com/smart/firmware/upgrade/20211220/1639989835-oem_si32_zg_IhornHumTem_lcd_OTA_1.0.8.bin
+
+oem_si32_zg_mg21_hybrid_sw
+1.0.7
+2024-04-03 1712129081
+https://images.tuyaeu.com/smart/firmware/upgrade/20240403/1712129081-oem_si32_zg_mg21_hybrid_sw_OTA_1.0.7.bin
+
+oem_si32_zg_mg21_hybrid_sw
+1.0.8
+2024-12-06 1733468516
+https://images.tuyaeu.com/smart/firmware/upgrade/20241206/1733468516-oem_si32_zg_mg21_hybrid_sw_OTA_1.0.8.bin
+
+oem_si32_zg_mg21_measure_plug
+1.0.4
+2021-06-21 1624267549
+https://images.tuyaeu.com/smart/firmware/upgrade/20210621/1624267549-oem_si32_zg_mg21_measure_plug_OTA_1.0.4.bin
+
+oem_si32_zg_mg21_measure_plug
+1.0.5
+2021-08-09 1628482144
+https://images.tuyaeu.com/smart/firmware/upgrade/20210809/1628482144-oem_si32_zg_mg21_measure_plug_OTA_1.0.5.bin
+
+oem_si32_zg_mg21_sw
+1.0.12
+2022-05-11 1652255879
+https://images.tuyaeu.com/smart/firmware/upgrade/20220511/1652255879-oem_si32_zg_mg21_sw_OTA_1.0.12.bin
+
+oem_si32_zg_mg21_sw
+1.0.14
+2023-02-02 1675330989
+https://images.tuyaeu.com/smart/firmware/upgrade/20230202/1675330989-oem_si32_zg_mg21_sw_OTA_1.0.14.bin
+
+oem_si32_zg_mg21_wc_ty
+1.0.3
+2020-08-29 1598686013
+https://images.tuyaeu.com/smart/firmware/upgrade/202008/1598686013-oem_si32_zg_mg21_wc_ty_OTA_1.0.3.bin
+
+oem_si32_zg_mg21_wc_ty
+1.0.8
+2022-03-15 1647329150
+https://images.tuyaeu.com/smart/firmware/upgrade/20220315/1647329150-oem_si32_zg_mg21_wc_ty_OTA_1.0.8.bin
+
+oem_si32_zg_plug_10A_USB_dlx
+1.0.7
+2019-02-22 1550816815
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1550816815-oem_si32_zg_plug_10A_USB_dlx_OTA_1.0.7.bin
+
+oem_si32_zg_uart_connect_ty
+1.0.6
+2020-12-08 1607396341
+https://images.tuyaeu.com/smart/firmware/upgrade/202012/1607396341-oem_si32_zg_uart_connect_ty_OTA_1.0.6.bin
+
+oem_si32_zg_vibration_sensor
+1.0.6
+2019-09-26 1569469645
+https://images.tuyaeu.com/smart/firmware/upgrade/201909/1569469645-oem_si32_zg_vibration_sensor_OTA_1.0.6.bin
+
+oem_si32_zg_xd_private_attr_1
+1.0.6
+2021-04-24 1619245022
+https://images.tuyaeu.com/smart/firmware/upgrade/20210424/1619245022-oem_si32_zg_xd_private_attr_1_OTA_1.0.6.bin
+
+oem_si32_zg_xd_private_attr_2
+1.0.6
+2021-04-24 1619245067
+https://images.tuyaeu.com/smart/firmware/upgrade/20210424/1619245067-oem_si32_zg_xd_private_attr_2_OTA_1.0.6.bin
+
+oem_si32_zg_xd_private_attr_3
+1.0.6
+2021-04-24 1619244964
+https://images.tuyaeu.com/smart/firmware/upgrade/20210424/1619244964-oem_si32_zg_xd_private_attr_3_OTA_1.0.6.bin
+
+oem_zg_mg21_chupper_plug
+1.0.3
+2022-11-09 1667994331
+https://images.tuyaeu.com/smart/firmware/upgrade/20221109/1667994331-oem_zg_mg21_chupper_plug_OTA_1.0.3.bin
+
+oem_zg_mg21_chupper_plug
+1.0.11
+2025-12-12 1765525195
+https://images.tuyaeu.com/smart/firmware/upgrade/20251212/1765525195-oem_zg_mg21_chupper_plug_OTA_1.0.11.bin
+
+oem_zg_pir_tuya
+1.0.10
+2020-08-12 1597222672
+https://images.tuyaeu.com/smart/firmware/upgrade/202008/1597222672-oem_zg_pir_tuya_OTA_1.0.10.bin
+
+oem_zg_pir_tuya
+1.0.11
+2021-11-29 1638184389
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211129/1638184389-oem_zg_pir_tuya_OTA_1.0.11.bin
+
 schneider_wiser_chameleon_dimmer
 2.3.7
 2021-05-31 1622438235
@@ -83,7 +283,202 @@ si32_mg21_115200_pta_665
 2021-09-24 1632490467
 https://images.tuyaeu.com/smart/firmware/upgrade/20210924/1632490467-si32_mg21_115200_pta_665_OTA_1.1.9.bin
 
+si32_mg21_115200_pta_665
+2.4.4
+2023-01-03 1672737225
+https://images.tuyaeu.com/smart/firmware/upgrade/20230103/1672737225-si32_mg21_115200_pta_665_OTA_2.4.4.bin
+
+si32_thermostat_ZS3_ty
+1.0.3
+2021-03-12 1615517834
+https://images.tuyaeu.com/smart/firmware/upgrade/202103/1615517834-si32_thermostat_ZS3_ty_OTA_1.0.3.bin
+
+si32_zg_NCP_732
+1.0.5
+2019-11-15 1573829936
+https://images.tuyaeu.com/smart/firmware/upgrade/201911/1573829936-TYZS5-115200-65-COO_QIO_1.0.5.bin
+
+si32_zg_uart_connect_sleep_ZS5_ty
+1.1.11
+2022-02-10 1644463972
+https://images.tuyaeu.com/smart/firmware/upgrade/20220210/1644463972-si32_zg_uart_connect_sleep_ZS5_ty_OTA_1.1.11.bin
+
+si32_zg_uart_connect_sleeped_ty
+2.0.0
+2022-03-10 1646916211
+https://images.tuyaeu.com/smart/firmware/upgrade/20220310/1646916211-si32_zg_uart_connect_sleeped_ty_OTA_2.0.0.bin
+
 tuya_g08pro_zigbee_bluetooth_gateway
 2.4.1
 2022-12-08 1670484983
 https://images.tuyaeu.com/smart/firmware/upgrade/20221208/1670484983-si32_mg21_115200_pta_665_OTA_2.4.1.bin
+
+tuyaos_zg_human_sensor2
+1.0.6
+2023-12-14 1702543157
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1631088896838gxuh/17025431571cc4ec152eb.bin
+
+ty_door_HE_640_efr732
+1.0.12
+2021-05-18 1621319239
+https://images.tuyaeu.com/smart/firmware/upgrade/20210518/1621319239-ty_door_HE_640_efr732_OTA_1.0.12.bin
+
+ty_wd_mlk_640_efr732
+1.1.4
+2019-09-07 1567818635
+https://images.tuyaeu.com/smart/firmware/upgrade/201909/1567818635-ty_wd_mlk_640_efr732_OTA_1.1.4.bin
+
+ty_wd_mlk_640_efr732_zy
+1.0.2
+2019-09-04 1567597583
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201909/1567597583-ty_wd_mlk_640_efr732_zy_OTA_1.0.2.bin
+
+WD1Z_TY
+1.0.13
+2024-06-19 1718766292
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1655884564737n6rg/1718766292731d116bcac.bin
+
+WiFi_Smart_Speaker_SS190_ixotxhzk_1.0.7_28f5c67ca4d5
+1.0.7
+2021-01-05 1609836682
+https://images.tuyaeu.com/smart/firmware/upgrade/202101/1609836682-TYZS5-115200-65-COO_QIO_1.0.7.bin
+
+ZB_4_in_1_Multisensor
+1.1.2
+2020-11-16 1605508857
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605508857-ZB_4_in_1_Multisensor_OTA_1.1.2.bin
+
+ZB_4_in_1_Multisensor
+2.2.1
+2021-01-04 1609752211
+https://images.tuyaeu.com/smart/firmware/upgrade/202101/1609752211-ZB_4_in_1_Multisensor_OTA_2.2.1.bin
+
+ZB_in_wall_Dimmer
+1.1.2
+2020-11-16 1605508557
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605508557-ZB_in_wall_Dimmer_OTA_1.1.2.bin
+
+zgSoc_SingleFire_13P732_512k_QIO
+1.0.6
+2019-04-18 1555578712
+https://images.tuyaeu.com/smart/firmware/upgrade/201904/1555578712-zgSoc_SingleFire_13P732_512k_QIO_1.0.6.bin
+
+zgSoc_SingleFireOne_13P732_512k_QIO
+1.0.6
+2019-04-18 1555578645
+https://images.tuyaeu.com/smart/firmware/upgrade/201904/1555578645-zgSoc_SingleFireOne_13P732_512k_QIO_1.0.6.bin
+
+zgSoc_SingleFireThree_13P732
+1.0.3
+2019-04-18 1555578388
+https://images.tuyaeu.com/smart/firmware/upgrade/201904/1555578388-zgSoc_SingleFireThree_13P732_512k_QIO_1.0.3.bin
+
+zig_mg21_breaker_temp_xhy
+1.0.9
+2025-07-03 1751536562
+https://images.tuyaeu.com/smart/firmware/upgrade/202507/1751536562-zig_mg21_breaker_temp_xhy_UG_1.0.9.bin
+
+zig_mg21_mixed_switch
+1.0.9
+2025-02-11 1739241772
+https://images.tuyaeu.com/smart/firmware/upgrade/20250211/1739241772-zig_mg21_mixed_switch_UG_1.0.9.bin
+
+zs4_115200
+1.0.11
+2021-07-08 1625729444
+https://images.tuyaeu.com/smart/firmware/upgrade/20210708/1625729444-COO_TYZS4_115200_65_UG_1.0.11.bin
+
+ty_door_lock_640_efr732_512k_uart_11db_zs5_QIO_1.0.7
+1.0.7
+2019-04-30 1556612824
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201904/1556612824-ty_door_lock_640_efr732_512k_uart_11db_zs5_QIO_1.0.7.bin
+
+ZXZKGA_01_Zigbee_One_Gang_Wall_Switch_liezjfkq_1.0.11_61efe25941eb
+1.0.11
+2021-11-08 1636358961
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211108/1636358961-oem_si32_zg_mg21_sw_OTA_1.0.11.bin
+
+oem_si32_zg_switch2
+1.0.8
+2019-01-30 1548841371
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201901/1548841371-oem_si32_zg_switch2_hy_OTA_1.0.8.bin
+
+HongYan_SceneSwitch6
+1.0.3
+2020-01-03 1578038085
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202001/1578038085-oem_si32_zg_scene_swtich6_uart_hy_QIO_1.0.3.bin
+
+si32_zg_uart_door_lock_ty
+1.1.8
+2019-12-21 1576932932
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1576932932-si32_zg_uart_door_lock_ty_OTA_1.1.8.bin
+
+oem_si32_zg_lafei_take_elec
+1.0.9
+2021-02-24 1614167585
+https://images.tuyaeu.com/smart/firmware/upgrade/202102/1614167585-oem_si32_zg_lafei_take_elec_OTA_1.0.9.bin
+
+oem_si32_zg_switch1
+1.0.8
+2019-01-30 1548841313
+https://images.tuyaeu.com/smart/firmware/upgrade/201901/1548841313-oem_si32_zg_switch1_hy_OTA_1.0.8.bin
+
+oem_si32_zg_card_power_jp
+1.0.4
+2020-01-18 1579318169
+https://images.tuyaeu.com/smart/firmware/upgrade/202001/1579318169-oem_si32_zg_card_power_jp_OTA_1.0.4.bin
+
+oem_si32_zg_switch3
+1.0.8
+2019-01-30 1548841470
+https://images.tuyaeu.com/smart/firmware/upgrade/201901/1548841470-oem_si32_zg_switch3_hy_OTA_1.0.8.bin
+
+oem-si32-zg-switch-4-scene
+1.0.7
+2021-01-05 1609850961
+https://images.tuyaeu.com/smart/firmware/upgrade/202101/1609850961-oem-si32-zg-switch-4-scene_OTA_1.0.7.bin
+
+Tuya_ColorTemp_Light
+1.0.9
+2019-09-10 1568098078
+https://images.tuyaeu.com/smart/firmware/upgrade/201909/1568098078-si32_zg_light2_h_cct_hyzg_QIO_1.0.9.bin
+
+oem-si32-zg-switch-6-scene
+1.0.9
+2021-01-05 1609851025
+https://images.tuyaeu.com/smart/firmware/upgrade/202101/1609851025-oem-si32-zg-switch-6-scene_OTA_1.0.9.bin
+
+oem_si32_zg_switch4_jp
+1.0.5
+2020-05-14 1589445006
+https://images.tuyaeu.com/smart/firmware/upgrade/202005/1589445006-oem_si32_zg_switch4_jp_OTA_1.0.5.bin
+
+oem_si32_SFswitch3_xiaowei
+1.0.7
+2020-11-11 1605062927
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605062927-oem_si32_SFswitch3_xiaowei_OTA_1.0.7.bin
+
+oem_si32_SFswitch2_xiaowei
+1.0.7
+2020-11-11 1605062983
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605062983-oem_si32_SFswitch2_xiaowei_OTA_1.0.7.bin
+
+oem_si32_SFswitch1_xiaowei
+1.0.7
+2020-11-11 1605063037
+https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605063037-oem_si32_SFswitch1_xiaowei_OTA_1.0.7.bin
+
+oem_si32_zg_scene_switch4_ty
+1.0.8
+2018-12-25 1545724173
+https://images.tuyaeu.com/smart/firmware/upgrade/201812/1545724173-oem_si32_zg_scene_switch4_ty_QIO_1.0.8.bin
+
+oem_si32_zg_switch3_jp
+1.0.5
+2020-05-15 1589527908
+https://images.tuyaeu.com/smart/firmware/upgrade/202005/1589527908-oem_si32_zg_switch3_jp_OTA_1.0.5.bin
+
+oem_si32_zg_scene_switch4_seebest
+1.0.6
+2018-12-21 1545364305
+https://images.tuyaeu.com/smart/firmware/upgrade/201812/1545364305-oem_si32_zg_scene_switch4_seebest_QIO_1.0.6.bin

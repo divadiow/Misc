@@ -1,0 +1,5 @@
+
+oem_jn5189_zg_temp_humi_sensor
+1.0.3
+2021-03-11 1615465174
+https://images.tuyaeu.com/smart/firmware/upgrade/202103/1615465174-oem_jn5189_zg_temp_humi_sensor_OTA_1.0.3.bin
