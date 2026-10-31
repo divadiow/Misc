@@ -2152,3 +2152,8 @@ Tuya_Liquid_Level_Sensor_mgxzoh5cfyrq5eqx_1.2.0_ab97787fb2ea
 1.2.0
 2026-10-12 1791804357
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1791804357eb0f1c04928.bin
+
+Molly_Cody_Smart_Feeder_Titan_WIFI_gh0lmtxb5fumm0ad
+1.2.6
+2025-12-25 1766633853
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1628574157811uQBd/176663385376e366d3470.bin
