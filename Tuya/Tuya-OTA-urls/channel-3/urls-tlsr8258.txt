@@ -1,7 +1,52 @@
+oem_8258_temp_hum_lcd_liou
+1.0.4
+2022-09-02 1662108452
+https://images.tuyaeu.com/smart/firmware/upgrade/20220902/1662108452-oem_8258_temp_hum_lcd_liou_OTA_1.0.4.bin
+
+oem_light_tl8258_bulb
+1.1.6
+2021-07-23 1627023220
+https://images.tuyaeu.com/smart/firmware/upgrade/20210723/1627023220-oem_light_tl8258_bulb_OTA_1.1.6.bin
+
+oem_light_tl8258_bulb
+1.2.4
+2022-04-26 1650962863
+https://images.tuyaeu.com/smart/firmware/upgrade/20220426/1650962863-oem_light_tl8258_bulb_OTA_1.2.4.bin
+
+oem_light_tl8258_bulb
+1.2.5
+2022-05-26 1653548890
+https://images.tuyaeu.com/smart/firmware/upgrade/20220526/1653548890-oem_light_tl8258_bulb_OTA_1.2.5.bin
+
+oem_si32_zg_tl8258_plug
+1.0.3
+2021-11-15 1636959090
+https://images.tuyaeu.com/smart/firmware/upgrade/20211115/1636959090-oem_si32_zg_tl8258_plug_OTA_1.0.3.bin
+
+oem_tl8258_6wire_control_xhy
+1.0.9
+2023-12-20 1703042523
+https://images.tuyaeu.com/smart/firmware/upgrade/20231220/1703042523-oem_tl8258_6wire_control_xhy_OTA_1.0.9.bin
+
+oem_tl8258_common_link_lp_xhy
+1.0.13
+2023-10-30 1698631344
+https://images.tuyaeu.com/smart/firmware/upgrade/20231030/1698631344-oem_tl8258_common_link_lp_xhy_OTA_1.0.13.bin
+
+oem_tl8258_common_link_xhy
+1.0.12
+2023-10-27 1698401407
+https://images.tuyaeu.com/smart/firmware/upgrade/20231027/1698401407-oem_tl8258_common_link_xhy_OTA_1.0.12.bin
+
 oem_tl8258_zg_breaker
 1.0.10
 2024-06-25 1719302262
-https://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/20240625/1719302262-oem_tl8258_zg_breaker_OTA_1.0.10.bin
+https://images.tuyaeu.com/smart/firmware/upgrade/20240625/1719302262-oem_tl8258_zg_breaker_OTA_1.0.10.bin
+
+oem_tl8258_zt3l_plug2_mkd
+1.0.3
+2022-04-29 1651200091
+https://images.tuyaeu.com/smart/firmware/upgrade/20220429/1651200091-oem_tl8258_zt3l_plug2_mkd_OTA_1.0.3.bin
 
 oem_zg_tl8258_plug
 1.0.13
@@ -9,11 +54,41 @@ oem_zg_tl8258_plug
 https://images.tuyaeu.com/smart/firmware/upgrade/20220602/1654157434-oem_zg_tl8258_plug_OTA_1.0.13.bin
 
 oem_zg_tl8258_plug
+1.0.14
+2023-06-07 1686137326
+https://images.tuyaeu.com/smart/firmware/upgrade/20230607/1686137326-oem_zg_tl8258_plug_OTA_1.0.14.bin
+
+oem_zg_tl8258_plug
 1.1.0
 2024-06-13 1718263020
-https://euimagesd2h2yqnfpu4gl5.cdn5th.com/smart/firmware/upgrade/20240613/1718263020-oem_zg_tl8258_plug_OTA_1.1.0.bin
+https://images.tuyaeu.com/smart/firmware/upgrade/20240613/1718263020-oem_zg_tl8258_plug_OTA_1.1.0.bin
+
+oem_zg_tl8258_plug
+1.1.2
+2024-10-28 1730081189
+https://images.tuyaeu.com/smart/firmware/upgrade/20241028/1730081189-oem_zg_tl8258_plug_OTA_1.1.2.bin
 
 oem_zg_tl8258_plug
 3.0.0
 2022-09-07 1662545193
 https://images.tuyaeu.com/smart/firmware/upgrade/20220907/1662545193-oem_zg_tl8258_plug_OTA_3.0.0.bin
+
+oem_ztu_dimmer2_klt
+1.0.5
+2024-06-27 1719480146
+https://images.tuyaeu.com/smart/firmware/upgrade/20240627/1719480146-oem_ztu_dimmer2_klt_OTA_1.0.5.bin
+
+TH_8258_isw9
+1.0.8
+2026-09-18 1789738780
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15427647462366edzT/1789738780983cda9ec6f.bin
+
+zig_tl8258_plug_russia_XZ
+1.0.3
+2024-01-11 1704944508
+https://images.tuyaeu.com/smart/firmware/upgrade/20240111/1704944508-zig_tl8258_plug_russia_XZ_UG_1.0.3.bin
+
+zig_tl8258_vibration_SC7A20_ty
+1.0.1
+2022-08-25 1661408292
+https://images.tuyaeu.com/smart/firmware/upgrade/20220825/1661408292-zig_tl8258_vibration_SC7A20_ty_OTA_1.0.1.bin

@@ -1,0 +1,15 @@
+
+1751859157-tyos_curtain_uart_common_UG_1.1.4
+1.1.4
+2025-07-07 1751859157
+https://images.tuyaeu.com/smart/firmware/upgrade/20250707/1751859157-tyos_curtain_uart_common_UG_1.1.4.bin
+
+oem_color_dimmer_switch
+1.0.5
+2022-04-07 1649322587
+https://images.tuyaeu.com/smart/firmware/upgrade/20220407/1649322587-oem_color_dimmer_switch_OTA_1.0.5.bin
+
+oem_cool_warm_light_gp
+3.0.2
+2020-12-16 1608120272
+https://images.tuyaeu.com/smart/firmware/upgrade/202012/1608120272-oem_cool_warm_light_gp_OTA_3.0.2.bin
