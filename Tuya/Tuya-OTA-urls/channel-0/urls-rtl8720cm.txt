@@ -3,6 +3,11 @@ oem_rtl8720cm_dynamic_gateway_light_ty
 2022-04-24 1650778682
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202204/1650778682-oem_rtl8720cm_dynamic_gateway_light_ty_UG_1.2.17.bin
 
+oem_rtl8720cm_dynamic_gateway_light_ty
+1.2.23
+2024-01-24 1706088563
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240124/1706088563-oem_rtl8720cm_dynamic_gateway_light_ty_UG_1.2.23.bin
+
 oem_rtl8720cm_gw_plug
 1.9.9
 2022-11-09 1667990073
@@ -19,7 +24,26 @@ oem_rtl8720cm_gw_plug
 https://images.tuyaeu.com/smart/firmware/upgrade/20230712/1689163405-oem_rtl8720cm_gw_plug_UG_1.13.1.bin
 
 oem_rtl8720cm_gw_plug
+1.17.5
+2024-10-12 1728724500
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20241012/1728724500-oem_rtl8720cm_gw_plug_UG_1.17.5.bin
+
+oem_rtl8720cm_gw_plug
 1.19.22
 2026-01-05 1767597222
 https://images.tuyaeu.com/smart/firmware/upgrade/20260105/1767597222-oem_rtl8720cm_gw_plug_UG_1.19.22.bin
 
+oem_rtl8720cm_gw_plug
+1.20.2
+2026-07-14 1784022198
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20260714/1784022198-oem_rtl8720cm_gw_plug_UG_1.20.2.bin
+
+fs_SDCS01
+1.1.21
+2023-09-16 1694866996
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1626422076606qlnh/16948669964b0b6131f9d.bin
+
+SDCS02
+1.0.2
+2023-12-19 1702983396
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1626422076606qlnh/17029833961d8d6baf048.bin

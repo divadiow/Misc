@@ -18,6 +18,11 @@ rtl8720d_tls_common_config
 2022-10-11 1665478793
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202210/1665478793-rtl8720d_tls_common_config_UG_1.1.11.bin
 
+rtl8720d_tls_common_config
+3.0.57
+2026-09-02 1788336700
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202609/1788336700-rtl8720d_tls_common_config_UG_3.0.57.bin
+
 rtl8720_dn_low_power
 1.0.5
 2022-06-24 1656035479

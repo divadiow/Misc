@@ -1,0 +1,9 @@
+17744140539d9ddae8d6b
+1.6.07
+2026-03-25 1774414053
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1556435813807UhefA/17744140539d9ddae8d6b.bin
+
+tuyaos_demo_ai_toy
+0.1.3
+2025-06-04 1749033848
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1540353053816LwdgN/1749033848d56fa2246d9.bin

@@ -14,9 +14,24 @@ rtlam_zigbee_gw
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1585898483-rtlam_zigbee_gw_ug_1.1.12.bin
 
 rtlam_zigbee_gw
+1.3.1
+2020-05-14 1589469748
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1589469748-rtlam_zigbee_gw_UG_1.3.1.bin
+
+rtlam_zigbee_gw
 1.3.3
 2020-07-04 1593868431
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1593868431-rtlam_zigbee_gw_UG_1.3.3.bin
+
+rtlam_zigbee_gw
+1.6.3
+2021-08-28 1630136778
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210828/1630136778-rtlam_zigbee_gw_UG_1.6.3.bin
+
+rtlam_zigbee_gw
+1.7.0
+2021-10-19 1634610319
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211019/1634610319-rtlam_zigbee_gw_UG_1.7.0.bin
 
 rtlam_zigbee_gw
 1.10.0
@@ -47,3 +62,28 @@ oem_rtlam_gw_common_4M
 1.2.1
 2020-01-09 1578572425
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202001/1578572425-oem_rtlam_gw_common_4M_ug_1.2.1.bin
+
+rtlam_gw_common_4M_iot_config_ty
+1.0.9
+2020-08-10 1597039722
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1597039722-rtlam_gw_common_4M_iot_config_ty_ug_1.0.9.bin
+
+rtlam_gw_common_4M_iot_config_ty
+1.1.2
+2020-10-22 1603358568
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202010/1603358568-rtlam_gw_common_4M_iot_config_ty_UG_1.1.2.bin
+
+rtlam_gw_common_4M_iot_config_ty
+1.4.9
+2021-08-18 1629269512
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202108/1629269512-rtlam_gw_common_4M_iot_config_ty_UG_1.4.9.bin
+
+rtlam_gw_common_4M_iot_config_ty
+1.5.2
+2021-12-03 1638494167
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202112/1638494167-rtlam_gw_common_4M_iot_config_ty_UG_1.5.2.bin
+
+rtlam_gw_haier_air_4M
+1.1.1
+2020-05-20 1589961589
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1589961589-rtlam_gw_haier_air_4M_ug_1.1.1.bin

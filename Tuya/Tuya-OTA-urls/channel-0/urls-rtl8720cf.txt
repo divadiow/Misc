@@ -142,3 +142,13 @@ Fresco_Mini_Pro_cp0uhxkjaky9thcz_1.0.11_085c112405f7
 1.0.11
 2024-04-11 1712813883
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1710134170390k1A1/1712813883c3376649cfc.bin
+
+spf-1010-wb-ty
+1.0.7
+2022-01-21 1642752754
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15904833783242Uq4/1642752754d147eaecbf2.bin
+
+rtl8720cf_inverter_01
+1.0.10
+2023-06-26 1687758144
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1671676488777IDXw/1687758144d0e0c39c6c4.bin

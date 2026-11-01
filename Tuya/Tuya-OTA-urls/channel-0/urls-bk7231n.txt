@@ -264,6 +264,11 @@ oem_bk7231n_light_projector_nx_sk26
 https://images.tuyaeu.com/smart/firmware/upgrade/202201/1643358178-oem_bk7231n_light_projector_nx_sk26_UG_9.9.4.bin
 
 oem_bk7231n_light_ty
+1.0.1
+2024-07-02 1719892072
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1689755379283jrTj/1719892072d6626666cfd.bin
+
+oem_bk7231n_light_ty
 1.3.20
 2021-11-09 1636458423
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202111/1636458423-oem_bk7231n_light_ty_UG_1.3.20.bin
@@ -562,3 +567,123 @@ fj_wifi_ble_controller_moto
 1.0.2
 2022-04-16 1650091813
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1528018319540RHaJO/1650091813ab749d7f88b.bin
+
+light_bk7231n_bios
+3.0.8
+2025-05-23 1747985662
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay16931925097644v8Q/1747985662309763b70ff.bin
+
+tuyaos_wf_bk7231n_elp-tuyaos_wf_bk7231n_elp_plug
+1.0.5
+2023-10-25 1698205707
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay1639122680993qLlN/16982057077235bcae590.bin
+
+oem_bk7231n_light3_laser_nanxin
+1.0.4
+2025-01-08 1736317625
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250108/1736317625-oem_bk7231n_light3_laser_nanxin_UG_1.0.4.bin
+
+1717069519009c8401edd
+1.1.0
+2024-05-30 1717069519
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1554975589161DYAhk/1717069519009c8401edd.bin
+
+17483203506e6f317f46b
+0.2.8
+2025-05-27 1748320350
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay1663825538369mmoy/17483203506e6f317f46b.bin
+
+1656379873141ab56dfac
+2.0.2
+2022-06-28 1656379873
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1636973671966xJic/1656379873141ab56dfac.bin
+
+16855171418e2cdf5b3e8
+1.0.3
+2023-05-31 1685517141
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/16855171418e2cdf5b3e8.bin
+
+16272918810b7c897d367
+1.0.8
+2021-07-26 1627291881
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596451683727LH1p/16272918810b7c897d367.bin
+
+165295158844e8e3e4170
+1.0.1
+2022-05-19 1652951588
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/165295158844e8e3e4170.bin
+
+1750067232b342c61c90e
+1.0.5
+2025-06-16 1750067232
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1515026431018saCFs/1750067232b342c61c90e.bin
+
+1713869357426eeb182d5
+1.0.1
+2024-04-23 1713869357
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1504535816017oOfFp/1713869357426eeb182d5.bin
+
+1677913657297659ae412
+1.0.4
+2023-03-04 1677913657
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1545923119209Dw8ut/1677913657297659ae412.bin
+
+17047697750207d34c41f
+1.0.63
+2024-01-09 1704769775
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1545708359302cTvA9/17047697750207d34c41f.bin
+
+1658840016a1c05ea5799
+0.0.2
+2022-07-26 1658840016
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1562583874631k02Aw/1658840016a1c05ea5799.bin
+
+oem_bk7231n_strip3_way6_jutai
+1.0.14
+2023-10-24 1698136494
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202310/1698136494-oem_bk7231n_strip3_way6_jutai_UG_1.0.14.bin
+
+1699858955cb5ffd07886
+1.2.0
+2023-11-13 1699858955
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1530852819489IlyEr/1699858955cb5ffd07886.bin
+
+175098838768fdcc62a84
+3.0.0
+2025-06-27 1750988387
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1530852819489IlyEr/175098838768fdcc62a84.bin
+
+oem_bk7231n_light_pir_ty
+1.0.14
+2025-03-26 1742984419
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202503/1742984419-oem_bk7231n_light_pir_ty_UG_1.0.14.bin
+
+1659441638cb3afaabc77
+1.0.3
+2022-08-02 1659441638
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/1659441638cb3afaabc77.bin
+
+17189746131c3d6916c40
+1.0.4
+2024-06-21 1718974613
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565772522105xoF3l/17189746131c3d6916c40.bin
+
+17605146213ce078ddab8
+1.0.6
+2025-10-15 1760514621
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537170211499MqxLj/17605146213ce078ddab8.bin
+
+17182917666edd9a30087
+1.1.1
+2024-06-13 1718291766
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1585732422040GgH0/17182917666edd9a30087.bin
+
+oem_bk7231n_touch_light_cw_cw
+1.0.4
+2023-06-15 1686795094
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20230615/1686795094-oem_bk7231n_touch_light_cw_cw_UG_1.0.4.bin
+
+tuyaos-iot_3.3.30_bk7231n_bk7231n-wifi-ble-com_0.0.33
+1.1.0
+2023-02-06 1675662894
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511247606425okNQ1/1675662894ac7017270dc.bin

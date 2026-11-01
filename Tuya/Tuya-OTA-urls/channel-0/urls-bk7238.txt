@@ -232,3 +232,48 @@ oem_t1_strip_ty
 1.0.14
 2025-11-13 1763021864
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202511/1763021864-oem_t1_strip_ty_UG_1.0.14.bin
+
+1773631681f9b66c8a3c4
+1.1.1
+2026-03-16 1773631681
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1647842583499mtXt/1773631681f9b66c8a3c4.bin
+
+1747149628333f68d6e0e
+1.0.4
+2025-05-13 1747149628
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1648366011408J2el/1747149628333f68d6e0e.bin
+
+1782121726368db5fa287
+1.0.1
+2026-06-22 1782121726
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565138036928sSi0S/1782121726368db5fa287.bin
+
+1767516843a5ed796e3eb
+1.0.2
+2026-01-04 1767516843
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537847617560vAgbw/1767516843a5ed796e3eb.bin
+
+17675921388ca90755487
+1.2.8
+2026-01-05 1767592138
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1647842583499mtXt/17675921388ca90755487.bin
+
+17835925514f2a739e51a
+1.6.22
+2026-07-09 1783592551
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1782545409146GCke/17835925514f2a739e51a.bin
+
+176905703181926529a86
+1.0.3
+2026-01-22 1769057031
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15427647462366edzT/176905703181926529a86.bin
+
+1758859056513a1ddb265
+1.1.0
+2025-09-26 1758859056
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537170211499MqxLj/1758859056513a1ddb265.bin
+
+tuyaos_curtain_switch_wifi
+1.3.0
+2026-08-04 1785806655
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1530852819489IlyEr/17858066559eb24173752.bin

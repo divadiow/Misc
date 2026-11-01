@@ -88,6 +88,11 @@ rtlbn_common
 2019-02-01 1549016447
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1549016447-rtlbn_common_ug_2.0.0.bin
 
+rtlbn_common
+2.0.1
+2019-04-29 1556506441
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201904/1556506441-rtlbn_common_ug_2.0.1.bin
+
 rtlbn_screen_guabilu_wanhe
 1.0.2
 2019-12-27 1577431769
@@ -97,3 +102,13 @@ oem_rtlbn_light2_xiaohe
 1.3.9
 2019-09-23 1569226321
 https://images.tuyaeu.com/smart/firmware/upgrade/201909/1569226321-oem_rtlbn_light2_xiaohe_ug_1.3.9.bin
+
+rtbn_xr_on_off
+1.0.3
+2018-06-20 1529481840
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201806/1529481840-rtbn_xr_on_off_ug_1.0.3.bin
+
+rtlbn_xr_one_plug
+1.0.4
+2018-06-15 1529050492
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201806/1529050492-rtlbn_xr_one_plug_ug_1.0.4.bin

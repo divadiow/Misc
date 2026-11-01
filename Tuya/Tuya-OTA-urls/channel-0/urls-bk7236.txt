@@ -22,3 +22,38 @@ bk7236_video_lock_ty
 3.0.41
 2026-04-14 1776162299
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202604/1776162299-bk7236_video_lock_ty_UG_3.0.41.bin
+
+t3_common_user_config_ty
+3.0.93
+2026-03-06 1772788624
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202603/1772788624-t3_common_user_config_ty_UG_3.0.93.bin
+
+nas-rd01w17
+2.0.11
+2026-06-03 1780481132
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/17804811328184143484d.bin
+
+nas-wv05w17
+2.0.15
+2026-06-09 1780991289
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/17809912898b6e39a11cf.bin
+
+174415826020643d4b5da
+1.0.7
+2025-04-09 1744158260
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1718672327362Llhs/174415826020643d4b5da.bin
+
+178408606686479ae4f01
+1.1.9
+2026-07-15 1784086066
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1501578980436KOuNc/178408606686479ae4f01.bin
+
+1783387088546e1b1c26c
+2.0.3
+2026-07-07 1783387088
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1501578980436KOuNc/1783387088546e1b1c26c.bin
+
+nas-wv08w17
+2.0.12
+2025-12-26 1766709855
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/1766709855c42e1381f5b.bin

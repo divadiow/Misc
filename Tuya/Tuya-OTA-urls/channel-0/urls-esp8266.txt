@@ -4,6 +4,11 @@ esp_12F_walton_dltj
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201708/1501740444-esp_12F_walton_dltj_ug_1.0.2.bin
 
 esp_bl0937_2plug_guanglai
+1.0.4
+2018-10-30 1540908372
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201810/1540908372-esp_bl0937_2plug_guanglai_ug_1.0.4.bin
+
+esp_bl0937_2plug_guanglai
 1.0.6
 2018-11-12 1542003566
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201811/1542003566-esp_bl0937_2plug_guanglai_ug_1.0.6.bin
@@ -72,6 +77,11 @@ esp_common_raw_lowper
 1.1.0
 2019-05-25 1558770976
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201905/1558770976-esp_common_raw_lowper_ug_TLS_1.1.0.bin
+
+esp_common_raw_lowper
+2.2.2
+2021-08-26 1629967473
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202108/1629967473-esp_common_raw_lowper_8M_UG_TLS_2.2.2.bin
 
 esp_dltj_kt_3_plug_17A
 1.0.5
@@ -242,6 +252,11 @@ oem_esp_switch
 0.1.3
 2018-07-27 1532679802
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201807/1532679802-oem_esp_switch_ug_0.1.3.bin
+
+oem_esp_switch
+1.1.1
+2019-06-25 1561463568
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1561463568-oem_esp_switch_ug_TLS_1.1.1.bin
 
 oem_esp_switch
 1.1.5
@@ -437,3 +452,158 @@ esp_tg_1_switch
 1.0.4
 2019-12-04 1575430471
 https://images.tuyaeu.com/smart/firmware/upgrade/201912/1575430471-esp_tg_1_switch_ug_TLS_1.0.4.bin
+
+esp_common_hanzhi
+1.0.4
+2018-08-18 1534561278
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201808/1534561278-esp_common_hanzhi_ug_1.0.4.bin
+
+esp_12F_hb_dltj
+1.0.7
+2018-09-08 1536380038
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201809/1536380038-esp_12F_hb_dltj_ug_1.0.7.bin
+
+esp_yidong_1_plug
+1.0.3
+2019-07-27 1564216122
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1564216122-esp_yidong_1_plug_ug_TLS_1.0.3.bin
+
+esp_bst_zero_1_plug
+1.1.5
+2018-05-12 1526127870
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1526127870-esp_bst_zero_1_plug_ug_1.1.5.bin
+
+esp_hlw8012_1plug_kzl
+1.0.2
+2018-06-26 1529994906
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201806/1529994906-esp_hlw8012_1plug_kzl_ug_1.0.2.bin
+
+HYS_01_EU2_SOCKET
+1.0.3
+2020-05-09 1589000194
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1589000194-HYS_01_EU2_SOCKET_ug_TLS_1.0.3.bin
+
+oem_e2s_bl0937_1plug
+1.0.5
+2019-03-06 1551871865
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201903/1551871865-oem_e2s_bl0937_1plug_ug_TLS_1.0.5.bin
+
+esp_warm_light_A70_hjqpd_Geeni
+1.2.0
+2017-11-22 1511332869
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201711/1511332869-esp_warm_light_A70_hjqpd_Geeni_ug_1.2.0.bin
+
+esp_6L_color_light_lohas_15w
+1.1.1
+2018-05-08 1525767760
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1525767760-esp_6L_color_light_lohas_15w_ug_1.1.1.bin
+
+esp_light2_pwm_ir_xk
+1.0.9
+2019-03-14 1552527964
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201903/1552527964-esp_light2_pwm_ir_xk_ug_TLS_1.0.9.bin
+
+esp_yichuangfu_2_switch
+1.0.6
+2019-05-08 1557286070
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201905/1557286070-esp_yichuangfu_2_switch_ug_TLS_1.0.6.bin
+
+esp_4L_color_light_lohas_5w_nuanguang
+1.1.1
+2018-05-08 1525768319
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1525768319-esp_4L_color_light_lohas_5w_nuanguang_ug_1.1.1.bin
+
+esp_tcl_mux_dehum
+1.2.2
+2018-03-15 1521093232
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201803/1521093232-esp_tcl_mux_dehum_ug_1.2.2.bin
+
+esp_tcl_mux_dehum
+1.3.4
+2022-12-08 1670479965
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20221208/1670479965-esp_tcl_mux_dehum_ug_TLS_1.3.4.bin
+
+esp_E3S_haibei_rtc_rnd_plug
+1.0.4
+2021-05-31 1622429219
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210531/1622429219-esp_E3S_haibei_rtc_rnd_plug_ug_TLS_1.0.4.bin
+
+esp_hysiry_x6_plug_America
+1.0.3
+2020-05-09 1589000701
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1589000701-esp_hysiry_x6_plug_America_ug_TLS_1.0.3.bin
+
+esp_kxjl_switch_1
+1.0.5
+2018-04-17 1523948768
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201804/1523948768-esp_kxjl_switch_1_ug_1.0.5.bin
+
+esp_12F_sxcl_new
+1.0.6
+2017-11-20 1511162751
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201711/1511162751-esp_12F_sxcl_new_ug_1.0.6.bin
+
+esp_jdws_1_plug
+1.0.1
+2018-05-18 1526647516
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1526647516-esp_jdws_1_plug_ug_1.0.1.bin
+
+esp_12F_yimu_dltj
+1.0.4
+2019-03-19 1553005952
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201903/1553005952-esp_12F_yimu_dltj_ug_TLS_1.0.4.bin
+
+esp_hys_01_029_nanxin_jl_socket
+1.0.8
+2019-03-18 1552917612
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201903/1552917612-esp_hys_01_029_nanxin_jl_socket_ug_1.0.8.bin
+
+esp_longda_fishing_t
+1.1.12
+2018-07-19 1531987465
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201807/1531987465-esp_longda_fishing_t_ug_1.1.12.bin
+
+HYS_01_097_COMMON_NO_JL_SOCKET
+1.0.2
+2019-02-27 1551252642
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1551252642-HYS_01_097_COMMON_NO_JL_SOCKET_ug_1.0.2.bin
+
+esp_1plug_2led_kuke_new
+1.0.8
+2019-02-22 1550820429
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1550820429-esp_1plug_2led_kuke_new_ug_TLS_1.0.8.bin
+
+esp_xansang_plug
+1.0.3
+2018-04-17 1523966523
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201804/1523966523-esp_xansang_plug_ug_1.0.3.bin
+
+esp_lgzh_LC981_nRF_4th
+1.0.4
+2021-03-13 1615624682
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1615624682-esp_lgzh_LC981_nRF_4th_ug_1.0.4.bin
+
+esp_12F_silang
+1.0.6
+2018-04-12 1523519870
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201804/1523519870-esp_12F_silang_ug_1.0.6.bin
+
+esp_rj_Heater
+1.0.1
+2017-09-26 1506421650
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201709/1506421650-esp_rj_Heater_ug_1.0.1.bin
+
+esp_sumantuo_plug
+1.0.4
+2019-02-21 1550757586
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201902/1550757586-esp_sumantuo_plug_ug_TLS_1.0.4.bin
+
+farylink_soc_light_5_rgbcw_shock
+1.0.4
+2019-08-15 1565842016
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201908/1565842016-farylink_soc_light_5_rgbcw_shock_ug_1.0.4.bin
+
+esp_kxjl_switch_1_new
+1.0.1
+2018-04-17 1523938231
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201804/1523938231-esp_kxjl_switch_1_new_ug_1.0.1.bin

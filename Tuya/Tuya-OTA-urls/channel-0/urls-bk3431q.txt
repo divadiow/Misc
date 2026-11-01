@@ -1,0 +1,4 @@
+bk_3431q_ble_lock_yisiwei_P22
+2.1
+2020-07-10 1594373511
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15724370520156puq6/159437351105112e56b15.bin
