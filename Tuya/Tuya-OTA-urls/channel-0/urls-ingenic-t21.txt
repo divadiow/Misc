@@ -22,3 +22,8 @@ QJ05_TY_Outdoor_Box_Camera_bihaey7fkkrnabeg_1.1.26_b0f8f2bf378d
 1.1.26
 2019-07-20 1563656489
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1543912956738FkWZK/1563656489efc4b5f6e1b.bin
+
+linux_wifi_wired
+2.2.50
+2020-05-27 1590565802
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1539074879262GYXmu/1590565802dacde9f587b.bin

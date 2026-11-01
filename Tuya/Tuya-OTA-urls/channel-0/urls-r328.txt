@@ -1,0 +1,4 @@
+1757386148795ed20fcde.tar
+7.9.22
+2025-09-09 1757386148
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/1757386148795ed20fcde.tar.gz

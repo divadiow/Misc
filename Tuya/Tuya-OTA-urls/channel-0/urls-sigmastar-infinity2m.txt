@@ -1,0 +1,19 @@
+INFINITY2M SSC011A-S01A-S
+1.0.33
+2026-04-24 1777044435
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1711957349572t2JN/177704443597d06cf7749.bin
+
+INFINITY2M SSC011A-S01A-S
+1.6.3
+2026-09-22 1790061950
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20260922/1790061950-zigbee_ssd202d_gw_fw_UG_1.6.3.bin
+
+INFINITY2M SSC011A-S01A-S
+1.14.5
+2026-03-31 1774937000
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20260331/1774937000-tuya_ssd202d_gw_lidl_fw_UG_1.14.5.bin
+
+tuya_ssd202d_gw_lidl_fw
+1.11.0
+2024-07-12 1720788390
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240712/1720788390-tuya_ssd202d_gw_lidl_fw_UG_1.11.0.bin

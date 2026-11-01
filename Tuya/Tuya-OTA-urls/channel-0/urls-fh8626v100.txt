@@ -1,0 +1,9 @@
+dgiot
+9.15.9
+2023-12-06 1701850082
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/170185008204bbaef2159.bin
+
+1713522517b34c4a8fcae
+24.03.29
+2024-04-19 1713522517
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1713342471230dRLR/1713522517b34c4a8fcae.img

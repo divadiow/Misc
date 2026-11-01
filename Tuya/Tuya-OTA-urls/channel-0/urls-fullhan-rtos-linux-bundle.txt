@@ -1,0 +1,4 @@
+sc256ls4
+1.20.22
+2025-04-21 1745219972
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250421/1745219972-2025-04-21_13-07-20_SC256-LS4_U15_8MB_UG_1.20.22.bin

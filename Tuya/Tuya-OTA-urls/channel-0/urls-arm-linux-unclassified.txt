@@ -2,3 +2,48 @@ HB_QT36B_Robot_Vacuum_z9q1iuoexlubea7e_0.2.25_9daea2eae145
 0.2.25
 2020-12-01 1606814282
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1570852756293GLWZy/16068142823cc0fc29976.bin
+
+navigation
+2.6.25
+2023-11-27 1701084298
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/17010842986408cc0d02c.tar.gz
+
+navigation
+2.6.46
+2024-04-19 1713530839
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/171353083910bd6dcf991.tar.gz
+
+navigation
+2.6.46
+2024-04-19 1713527160
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/171352716099d8b83f771.tar.gz
+
+navigation
+2.6.93
+2025-04-02 1743595594
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565853023602OkyCT/1743595594384e8390253.tar.gz
+
+navigation
+2.6.96
+2025-06-16 1750039928
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1652343476308GR4a/17500399288324a5c6ec1.tar.gz
+
+node_tuya
+2.6.46
+2024-04-25 1714013792
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/171401379281820888145.tar.gz
+
+ty_iot_wf_sd_sdk
+2.6.96
+2025-06-13 1749797976
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/17497979767aded425bc0.tar.gz
+
+KaBuM_Smart_900_Robot_Vacuum_7vx4ulan46paequq_0.1.14_aec2c7ac7968
+0.1.14
+2025-03-31 1743417464
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/ay1534681176370JSCKe/1743417464d0aed0ee9f5.bin
+
+1713527600af120c4b0e9.tar
+2.6.46
+2024-04-19 1713527600
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/1713527600af120c4b0e9.tar.gz

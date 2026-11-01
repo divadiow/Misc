@@ -2,3 +2,38 @@ AnyKaV330
 75.42.16
 2024-01-11 1704943277
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15985784739749Ndy/1704943277f44fb6f49b1.tar
+
+kairun_ak3918e33_zg_screensync_gw
+1.1.5
+2023-05-05 1683280993
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202305/1683280993-kairun_ak3918e33_zg_screensync_gw_fw_UG_1.1.5.bin
+
+ppsapp
+5.3.2
+2022-07-11 1657532925
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/1657532925883029f9246.bin
+
+ty_ipc_wr_wl_linux_sdk
+87.75.24
+2023-11-20 1700466276
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1676275724322ZWrg/1700466276e8091f7ca8a.tar
+
+ak_linkvisual
+33.9.30
+2023-04-19 1681888832
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1606444966215GkpY/1681888832b67c630c7d7.tar
+
+16551003195846150f4e3
+5.2.9
+2022-06-13 1655100319
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1618820811878CQUB/16551003195846150f4e3.bin
+
+PTZ_Camera_Setti_SC822_2qpika50turuwci4_33.53.92_9598543d0b8a
+33.53.92
+2025-03-25 1742881347
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1549882947781AQ72q/174288134765615c06453.tar
+
+linux_wifi
+3.16.16
+2025-03-12 1741759084
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1625108616122ANAG/17417590845545555cc63.tar

@@ -12,3 +12,18 @@ IPC112N_Camera_hpt7bbgapbrbat1f_1.2.7_f3dd1b5a42fb
 1.2.7
 2019-08-29 1567093457
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201908/1567093457-update.bin
+
+petoneer
+1.0.31
+2021-08-10 1628591449
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541558493284HeY6j/162859144918069da25bd.bin
+
+ak_tuya_ipc
+02.17.11
+2021-03-29 1617000554
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541472742486ZYDmd/1617000554482226f16cb.tar
+
+linux_wifi
+1.0.10
+2021-08-10 1628590224
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541558493284HeY6j/162859022491422e24372.bin

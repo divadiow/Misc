@@ -1,0 +1,9 @@
+166961381431ef0cddef2
+6.3.47
+2022-11-28 1669613814
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15904833783242Uq4/166961381431ef0cddef2.zip
+
+ipc-app
+5.1.34
+2019-07-03 1562125295
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1562125295-5.1.34.zip

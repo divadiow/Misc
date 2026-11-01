@@ -1,0 +1,4 @@
+17237083500fbbae2930b
+1.2.0
+2024-08-15 1723708350
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542783297742hJjEJ/17237083500fbbae2930b.img

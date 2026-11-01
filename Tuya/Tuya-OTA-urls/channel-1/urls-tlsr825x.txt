@@ -92,3 +92,13 @@ tlsr_825x_sigmesh_remote_taiji
 0.3
 2021-06-28 1624861683
 https://images.tuyaeu.com/smart/firmware/upgrade/20210628/1624861683-tlsr_825x_sigmesh_remote_taiji_0.3.bin
+
+DRACO_xvuejyfp
+2.3
+2023-03-11 1678499854
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1575418591548RPQtJ/1678499854d07b6d16c42.bin
+
+POLLUX_xl2yyswh
+2.3
+2023-03-11 1678503943
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1575418591548RPQtJ/1678503943bbd9648d1a7.bin

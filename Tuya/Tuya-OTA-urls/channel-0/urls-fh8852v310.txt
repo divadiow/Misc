@@ -1,0 +1,4 @@
+WS06T
+1.14.63
+2024-10-09 1728460119
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1590055958952vKQc/1728460119f3ac46fe9d6.rom

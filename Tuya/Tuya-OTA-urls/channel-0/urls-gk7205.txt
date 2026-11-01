@@ -1,0 +1,9 @@
+1706521211c7fe1ecda29
+3.2.13
+2024-01-29 1706521211
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1568808812161OlPJW/1706521211c7fe1ecda29.bin
+
+167808380875bdcc0e60e
+1.2.7
+2023-03-06 1678083808
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1662436813469F17s/167808380875bdcc0e60e.bin

@@ -2157,3 +2157,8 @@ Molly_Cody_Smart_Feeder_Titan_WIFI_gh0lmtxb5fumm0ad
 1.2.6
 2025-12-25 1766633853
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1628574157811uQBd/176663385376e366d3470.bin
+
+R15_Zigbee_Smart_Thermostat_Cooling_Capable_agcxaw3f_1.0.8_842ae7031955
+1.0.8
+2026-10-28 1793153856
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1671175132655mOtP/179315385674ee87ce574.bin

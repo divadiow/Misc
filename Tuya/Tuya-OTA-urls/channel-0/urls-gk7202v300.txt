@@ -1,0 +1,14 @@
+gk7202v300_sdk_app_new
+3.1.8
+2023-03-31 1680232383
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1669195297818KZU2/1680232383e59c5305e79.bin
+
+gk7202v300_sdk_app_new
+3.4.1
+2024-06-20 1718865802
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1568808812161OlPJW/171886580297631a29d29.bin
+
+169321624923d19c1325f
+3.4.4
+2023-08-28 1693216249
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/169321624923d19c1325f.bin

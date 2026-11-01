@@ -1,0 +1,4 @@
+FY10D
+0.1.51
+2025-07-09 1752046218
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1570691400137bt9FZ/17520462188b30ce410c5.bin

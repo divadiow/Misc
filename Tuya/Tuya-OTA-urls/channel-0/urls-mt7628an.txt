@@ -1,0 +1,9 @@
+combway-wr758ac
+5.0.220624
+2022-06-24 1656040196
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1580896010506VFGF/165604019678076e4d36d.bin
+
+combway-wr758ac
+5.0.220705
+2022-07-05 1656992568
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1580896010506VFGF/1656992568e38d801bd7f.bin

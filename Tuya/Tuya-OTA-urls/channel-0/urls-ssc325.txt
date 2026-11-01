@@ -1,0 +1,4 @@
+16394026645ef4d8b372b
+1.1.12
+2021-12-13 1639402664
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1567152055281VFY2p/16394026645ef4d8b372b.bin

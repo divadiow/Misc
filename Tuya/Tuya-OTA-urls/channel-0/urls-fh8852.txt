@@ -1,0 +1,4 @@
+16752171625b48c3cc463
+10.5.29
+2023-02-01 1675217162
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/16752171625b48c3cc463.bin

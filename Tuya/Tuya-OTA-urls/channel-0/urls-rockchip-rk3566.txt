@@ -2,3 +2,8 @@ tpa08
 1.6.008
 2026-06-17 1781676815
 https://images.tuyaeu.com/smart/firmware/upgrade/20260617/1781676815-intl_tpa08_UG_1.6.008.bin
+
+tpa10
+3.6.023
+2026-06-12 1781261005
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1590668875154Zn1D/1781261005e77c5d8b370.bin

@@ -1,0 +1,4 @@
+tuyaos-ipc
+1.1.5
+2026-01-05 1767578095
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1619746465859fsjt/17675780956337d43e3fb.bin

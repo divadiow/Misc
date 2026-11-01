@@ -1,0 +1,24 @@
+16431870680c74ee48ead
+3.0.1
+2022-01-26 1643187068
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16112791469515Xfo/16431870680c74ee48ead.bin
+
+linux_wifi_wired
+79.1.22
+2023-10-17 1697557355
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1543912956738FkWZK/1697557355c8be42d639d.bin
+
+Pet Feeder [jlpbc6vynw8tqvvu]
+2.1.16.228
+2022-01-03 1641201353
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519800722250B425i/1641201353a92773fbbe4.bin
+
+isvp_sdk_app
+8.4.0
+2021-09-29 1632895710
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1568808812161OlPJW/1632895710bf5d0c0d073.bin
+
+ubia_t31
+3.4.26
+2021-08-04 1628076649
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1535355575089lOaew/16280766494c43cc43cd8.bin

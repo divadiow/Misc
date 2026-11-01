@@ -1,0 +1,14 @@
+rex_gw_app_mips_24k
+1.8.2
+2019-01-16 1547641941
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201901/1547641941-rex_gw_app_mips_24k_tar_1.8.2
+
+node_tuya
+2.6.117
+2026-02-11 1770804033
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/1770804033c09f2cbfada.tar.gz
+
+J166_Lidar_Robot_Vacuum_hevy1wkrdpvajqhl_1.0.35_7f9e4636a837
+1.0.35
+2019-12-12 1576118656
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1576118656-CleanPack2_W1_1.0.35.bin

@@ -1,0 +1,9 @@
+3516EV100_SC2235_W
+9.1.1.30
+2019-01-28 1548665233
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201901/1548665233-3516EV100SC2235WV9.1.1.30.FLS
+
+3516EV100_F23A_DI0002-G-TY
+1.0.12
+2020-09-07 1599457014
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541399591405PK8RM/1599457014395bf203602.FLS

@@ -2,3 +2,13 @@ R430_Visual_Navigation_Robot_Vacuum_2bx48wbo9fbi3ivv_0.0.7_9f4f5b27975c
 0.0.7
 2019-08-13 1565684999
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1534681176370JSCKe/1565684999f59b9e978c4.bin
+
+bvrobot-ota
+6.10.23
+2023-05-30 1685427891
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/16854278917e5686852ff.bin
+
+bvrobot-ota
+6.11.20
+2024-04-24 1713926163
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/171392616338da49a7c33.bin

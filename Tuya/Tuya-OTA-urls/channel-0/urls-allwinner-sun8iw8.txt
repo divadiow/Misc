@@ -1,0 +1,4 @@
+1761206029f8df59bdbcb
+1.1.0
+2025-10-23 1761206029
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1547883207474RaGZc/1761206029f8df59bdbcb.img

@@ -1,0 +1,14 @@
+PIONEER3 SSC020A-S01A-S
+1.6.4
+2026-04-02 1775122090
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20260402/1775122090-bluetooth_ssd212_gw_fw_UG_1.6.4.bin
+
+CRL330LC
+1.1.37
+2024-05-12 1715477541
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1700202531214AbU5/17154775412a57cba57d0.bin
+
+CRL330LC
+3.5.32
+2025-04-28 1745847149
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1700202531214AbU5/17458471495dc0d39b4a7.bin

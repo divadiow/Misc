@@ -1,0 +1,19 @@
+F6234V2-XHR-1903
+8.681.7
+2024-07-18 1721265883
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16813000249358GxZ/1721265883887240967bd.bin
+
+dgiot
+8.26.29
+2023-03-04 1677919921
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/167791992127b31477427.bin
+
+1678504050afbe76a99ba
+8.40.34
+2023-03-11 1678504050
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/1678504050afbe76a99ba.bin
+
+168862587473bf5258b89
+8.38.11
+2023-07-06 1688625874
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/168862587473bf5258b89.bin

@@ -607,3 +607,43 @@ esp_kxjl_switch_1_new
 1.0.1
 2018-04-17 1523938231
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201804/1523938231-esp_kxjl_switch_1_new_ug_1.0.1.bin
+
+esp_12F_silang_1_plug
+2.0.2
+2018-11-09 1541770574
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201811/1541770574-esp_12F_silang_1_plug_ug_2.0.2.bin
+
+HYS_01_163_mgewa9czeq3byvj3
+1.1.0
+2021-05-12 1620814048
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210512/1620814048-HYS_01_163_mgewa9czeq3byvj3_ug_TLS_1.1.0.bin
+
+oem_esp_Globe_2_plug_2_key
+1.0.1
+2019-07-29 1564394021
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201907/1564394021-oem_esp_Globe_2_plug_2_key_ug_TLS_1.0.1.bin
+
+esp_zhengshang_plug_ES
+1.0.1
+2017-08-26 1503731648
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201708/1503731648-esp_zhengshang_plug_ES_ug_1.0.1.bin
+
+esp_12F_haibei_rnd_plug
+1.1.2
+2017-09-11 1505117552
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201709/1505117552-esp_12F_haibei_rnd_plug_ug_1.1.2.bin
+
+oem_esp_ight_pwm5_dd_jiabitai
+1.0.3
+2020-05-05 1588651848
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1588651848-oem_esp_ight_pwm5_dd_jiabitai_ug_TLS_1.0.3.bin
+
+HYS_X5_NEW_PLUG
+1.0.2
+2020-05-09 1589000454
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202005/1589000454-HYS_X5_NEW_PLUG_ug_TLS_1.0.2.bin
+
+oem_esp_zlt_curtain
+1.0.6
+2020-03-23 1584931285
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202003/1584931285-oem_esp_zlt_curtain_ug_TLS_1.0.6.bin

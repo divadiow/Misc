@@ -1,0 +1,4 @@
+Y1007-Z1P52-A2AV130L-30S18-WA14-05-Z102
+14.1.7
+2026-09-09 1788955022
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay174296700456897er/17889550224b810a7638f.bin

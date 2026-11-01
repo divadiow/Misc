@@ -1,0 +1,29 @@
+162823789868063d39c28
+2.10.5
+2021-08-06 1628237898
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/162823789868063d39c28.bin
+
+Hisilicon HI3518EV300 DEMO Board
+2.10.6
+2021-09-07 1630980756
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/16309807565c83a8d8690.bin
+
+1576572520-293
+2.9.3
+2019-12-17 1576572520
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201912/1576572520-293.bin
+
+Cleverio_CD_100_abdki8qyzh4lmod8_2.10.6_3b5355841ab7
+2.10.6
+2021-08-18 1629290047
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511509043755MhIx1/16292900473d97eea5c27.bin
+
+Energizer_Doorbell_Cam_hnldrhknzv6bhzcf_2.10.0_90b6f027a479
+2.10.0
+2021-08-02 1627911705
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511509043755MhIx1/1627911705fc1af9c2ab9.bin
+
+L16_Battery_Doorbell_qkoxvevsydtaf3zv_28.00.29_3f3792151f40
+28.00.29
+2020-09-22 1600765300
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1512807056914MYFQP/1600765300c51e606d3ab.bin

@@ -687,3 +687,38 @@ tuyaos-iot_3.3.30_bk7231n_bk7231n-wifi-ble-com_0.0.33
 1.1.0
 2023-02-06 1675662894
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511247606425okNQ1/1675662894ac7017270dc.bin
+
+1740542126e57ed73d287
+1.1.8
+2025-02-26 1740542126
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1572836370796htGWH/1740542126e57ed73d287.bin
+
+16402397411ded7de43f4
+1.0.5
+2021-12-23 1640239741
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1498203399759ASLsi/16402397411ded7de43f4.bin
+
+Petoneer_Cozy_Sofa_PH001_peo7xy3qgseqiyeu_1.2.9_e92c1a6d98aa
+1.2.9
+2025-01-08 1736314865
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1625108616122ANAG/17363148654329b6593fb.bin
+
+bk7231n_linklite_bare_lamp38_ll002
+1.0.4
+2023-01-18 1674047402
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1522637811891ZWAu6/1674047402186ca90fbfe.bin
+
+17207101028424e3485ca
+2.1.6
+2024-07-11 1720710102
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1567683623498TYeGx/17207101028424e3485ca.bin
+
+1692318458904152fc938
+1.2.4
+2023-08-18 1692318458
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542097452507IWVWQ/1692318458904152fc938.bin
+
+1682601621e5a9e729d7c
+1.0.1
+2023-04-27 1682601621
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1648366011408J2el/1682601621e5a9e729d7c.bin

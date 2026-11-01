@@ -1,0 +1,4 @@
+tuya_rgb_c906
+1.2.2
+2025-05-27 1748327507
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250527/1748327507-tyznzk_tpr01beu_UG_1.2.2.bin

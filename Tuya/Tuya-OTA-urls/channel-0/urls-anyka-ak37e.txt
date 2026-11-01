@@ -1,0 +1,9 @@
+SAT_ANYKAOS_03301030
+2.1.0
+2024-04-01 1711954926
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15507223992875xh7c/1711954926SAT_ANYKAOS_03301030
+
+SAT_ANYKAOS_04010829
+2.1.0
+2024-04-15 1713171819
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15507223992875xh7c/1713171819SAT_ANYKAOS_04010829

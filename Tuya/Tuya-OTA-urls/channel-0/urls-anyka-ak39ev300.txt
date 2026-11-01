@@ -1,0 +1,9 @@
+linux_wifi
+1.2.13
+2019-11-14 1573717140
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201911/1573717140-1213.tar
+
+Calex_Mini7S_ahpgd4ptfekaer6k_4.0.7_16543d710205
+4.0.7
+2021-08-17 1629165947
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/1629165947905b6a099dc.bin

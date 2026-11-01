@@ -1,0 +1,4 @@
+sungale_v1
+1.41.0
+2020-01-09 1578549410
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1501041302878ygSmg/157854941021135da22f8.bin

@@ -1,0 +1,14 @@
+main_DEKCE-IDS07-YWA02_V1.11_20240821_AK3760E_FV1.01_DEKCE-2301_NO
+1.11.0
+2024-08-22 1724290244
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1720351808549N1WF/1724290244cc0dcc6cfcf.ota
+
+ak3760e_TPP06-ak3760e_0.0.14-beta.16
+1.2.6
+2025-08-06 1754451335
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250806/1754451335-tyznzk_TPP06_AK_OTA_1.2.6.img
+
+oem_RC370W_ir_handheld_ak3760e_ty
+1.4.7
+2024-08-29 1724919594
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240829/1724919594-oem_RC370W_ir_handheld_ak3760e_ty_OTA_1.4.7.img

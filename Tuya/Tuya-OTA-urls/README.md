@@ -8,6 +8,8 @@ This directory is a channel- and platform-organised catalogue of Tuya OTA offeri
 | `1` | Bluetooth Module | Firmware for a Bluetooth/BLE module or Bluetooth component. |
 | `3` | ZigBee Module | Firmware for a Zigbee module, coordinator, or Zigbee component. |
 | `9` | MCU Module | Firmware for a product's MCU/application component, commonly a secondary MCU. Some products instead offer host-processor/Linux application packages on this channel. |
+| `10` | Other type | Product-specific component; the observed Dabbsson offering has the same bytes as its channel-9 offering. Exact chipset remains unconfirmed. |
+| `12` | Other type | Product-specific component; the captured RF Water Timer update contains an air32f103_onchip target label. The channel itself does not establish the chip or component role. |
 
 These names are the `type_desc` values observed in captured Tuya OTA responses. No meaning is assigned here to channel numbers that have not been observed in the local evidence corpus.
 

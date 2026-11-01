@@ -1,0 +1,24 @@
+ipc-app-v5.1.24-p2p-shangyun-tmp-v5.1.13
+5.1.13
+2019-04-17 1555486430
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201904/1555486430-5.1.13update.zip
+
+aoni_ipc
+0.2.7
+2020-07-09 1594280813
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15090679206123rthj/1594280813c99b868047f.tar.gz
+
+linux_wifi_wired
+5.1.32
+2020-05-22 1590112992
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/1590112992d1986e5f5b5.zip
+
+linux_wifi_wired
+5.1.56
+2019-10-10 1570686331
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/1570686331c3bd8d34783.bin
+
+linux_wifi_wired
+5.4.6
+2021-07-13 1626143719
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1514359068372Hd98B/16261437190818f3a21d7.bin

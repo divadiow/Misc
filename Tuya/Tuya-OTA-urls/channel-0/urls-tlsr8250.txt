@@ -1,0 +1,4 @@
+oem_tlsr8250_pirlightcfg_pwm_ty
+2.3
+2022-08-30 1661829933
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220830/1661829933-oem_tlsr8250_pirlightcfg_pwm_ty_2.3.bin

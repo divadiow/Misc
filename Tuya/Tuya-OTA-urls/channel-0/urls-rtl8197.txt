@@ -17,3 +17,8 @@ multimode_rfl8197fs_gw
 1.0.5
 2021-07-02 1625211345
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210702/1625211345-multimode_rfl8197fs_gw_fw_UG_1.0.5.bin
+
+adapt_multimode_rfl8197fs_gw
+1.1.0
+2022-06-20 1655731200
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220620/1655731200-adapt_multimode_rfl8197fs_gw_fw_UG_1.1.0.bin

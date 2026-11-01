@@ -1,0 +1,4 @@
+main_DEKCE-IDS07-YWA02_V1.11_20240821_AK3760E_FV1.01_DEKCE-2301_NO
+1.11.0
+2024-08-22 1724290244
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1720351808549N1WF/1724290244cc0dcc6cfcf.ota

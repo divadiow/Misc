@@ -54,6 +54,26 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1501578980436KOuNc/1783387088546e1b1c26c.bin
 
 nas-wv08w17
+2.0.8
+2026-08-04 1785808469
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/178580846906d4bc20770.bin
+
+nas-wv08w17
 2.0.12
 2025-12-26 1766709855
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/1766709855c42e1381f5b.bin
+
+17509162161119ac2f5ac
+1.0.5
+2025-06-26 1750916216
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/17509162161119ac2f5ac.bin
+
+178338775611f532c8401
+2.0.3
+2026-07-07 1783387756
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1501578980436KOuNc/178338775611f532c8401.bin
+
+tuya_app_water_valve
+2.0.5
+2026-08-28 1787889349
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1699598085872fwbO/178788934904d46c4c48b.bin

@@ -1,0 +1,4 @@
+Rockchip rk3326-rk1806 300v
+4.6.49
+2024-12-26 1735202476
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1666260301702ghvm/1735202476c4f964696b8.img

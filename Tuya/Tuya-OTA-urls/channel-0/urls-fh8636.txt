@@ -1,0 +1,9 @@
+TRUEX-SC116
+1.6.0
+2025-11-26 1764129453
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20251126/1764129453-2025-11-26_11-48-28_TRUEX-SC116_UG_1.6.0_0cfbca.bin
+
+sc116wz3
+1.3.4
+2024-03-27 1711533831
+https://images.tuyaeu.com/smart/firmware/upgrade/20240327/1711533831-2024-03-27_16-31-05_sc116wz3_UG_1.3.4_d5857d.bin
