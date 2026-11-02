@@ -1112,3 +1112,8 @@ oem_esp_irbox_iot_config
 1.1.2
 2020-09-24 1600956437
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202009/1600956437-oem_esp_irbox_iot_config_8M_UG_TLS_1.1.2.bin
+
+esp_sumantuo_1_plug
+1.1.2
+2018-05-09 1525837895
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1525837895-esp_sumantuo_1_plug_ug_1.1.2.bin

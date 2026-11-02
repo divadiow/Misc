@@ -17,3 +17,8 @@ keshlian_mesh_ir_gw
 1.0.0
 2021-03-09 1615258628
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1615258628-keshlian_mesh_ir_gw_UG_1.0.0.bin
+
+thermostat_radiator
+1.1.10
+2022-11-11 1668140893
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1654864343853ucU6/1668140893b0af2a19d31.bin

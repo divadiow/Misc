@@ -27,3 +27,8 @@ tycam_sc002v2_qngr_fw_image
 2.4.8
 2021-03-01 1614578927
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1614578927-tycam_sc002v2_qngr_fw_image_OTA_2.4.8.bin
+
+1559531265-update
+5.1.32
+2019-06-03 1559531265
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1559531265-update.zip

@@ -142,3 +142,8 @@ rtlbn_rgbcw_ok0bhghjobp2uvak
 1.0.8
 2020-12-31 1609386909
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202012/1609386909-rtlbn_rgbcw_ok0bhghjobp2uvak_ug_1.0.8.bin
+
+rtlbn_hc_base_ueixkm1yjc3patqh
+1.0.3
+2022-02-12 1644636329
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1531122507771gALCb/164463632995167361fe0.bin

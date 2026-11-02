@@ -184,6 +184,11 @@ WBR3
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1587638193105QkZL/1667456151cd10d7f9b3f.bin
 
 rtl8720cf_ameba
+1.0.3
+2024-08-02 1722590978
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521424752632nghLF/17225909785c444d64171.bin
+
+rtl8720cf_ameba
 1.7.7
 2021-12-02 1638426907
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1587638193105QkZL/163842690707433641433.bin

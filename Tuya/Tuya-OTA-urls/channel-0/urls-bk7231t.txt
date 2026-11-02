@@ -264,6 +264,11 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596451683727LH1p/16155190223213a0665da.bin
 
 oem_bk7231s_control_switch
+1.1.2
+2021-10-14 1634202752
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211014/1634202752-oem_bk7231s_control_switch_UG_1.1.2.bin
+
+oem_bk7231s_control_switch
 1.1.6
 2021-09-08 1631070983
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210908/1631070983-oem_bk7231s_control_switch_UG_1.1.6.bin
