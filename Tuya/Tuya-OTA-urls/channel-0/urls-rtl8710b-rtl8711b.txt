@@ -1,4 +1,0 @@
-oem_rtlbn_light_pwm_4to5_yuanren
-1.0.2
-2019-08-24 1566642998
-https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201908/1566642998-oem_rtlbn_light_pwm_4to5_yuanren_ug_1.0.2.bin
