@@ -1,0 +1,4 @@
+leo_k18_universal_1v
+2.2.0
+2021-11-12 1636688697
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1571282488148PRYMX/1636688697729de6334b2.img

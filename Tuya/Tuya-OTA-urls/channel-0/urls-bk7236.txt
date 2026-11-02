@@ -77,3 +77,8 @@ tuya_app_water_valve
 2.0.5
 2026-08-28 1787889349
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1699598085872fwbO/178788934904d46c4c48b.bin
+
+1768793644b3c876c83da
+1.0.9
+2026-01-19 1768793644
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay160585829854911MU/1768793644b3c876c83da.bin

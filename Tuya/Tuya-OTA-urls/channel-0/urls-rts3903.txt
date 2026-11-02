@@ -22,3 +22,8 @@ linux_wifi_wired
 5.4.6
 2021-07-13 1626143719
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1514359068372Hd98B/16261437190818f3a21d7.bin
+
+tycam_sc002v2_qngr_fw_image
+2.4.8
+2021-03-01 1614578927
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202103/1614578927-tycam_sc002v2_qngr_fw_image_OTA_2.4.8.bin

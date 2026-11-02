@@ -37,3 +37,23 @@ Rockchip rk3308 3irobotix board (AArch32)
 3.5.53
 2024-04-29 1714354735
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1685518195389pwuQ/1714354735ae3958f2017.img
+
+tyavszk_5_0
+3.0.4
+2023-12-25 1703486926
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20231225/1703486926-tyznzk_TPP01_Z_EU_OTA_3.0.4.bin
+
+rk3308-5.10-tpp01z
+3.5.18
+2025-12-26 1766742363
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20251226/1766742363-tyznzk_TPP01_Z_EU_OTA_3.5.18.bin
+
+rk3308-LS_AK1-0_11_32-NormalServer
+0.11.32
+2021-03-29 1617006455
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565231916893oYHY5/161700645551ac1b19507.CleanPack
+
+tyznzk_TPP01_Z_EU
+3.5.11
+2025-06-05 1749093043
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250605/1749093043-tyznzk_TPP01_Z_EU_OTA_3.5.11.bin

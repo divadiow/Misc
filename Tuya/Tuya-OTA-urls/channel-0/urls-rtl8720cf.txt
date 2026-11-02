@@ -157,3 +157,23 @@ AST2Q11-P
 1.0.9
 2023-03-31 1680241725
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521424752632nghLF/16802417256efb6f4f280.bin
+
+jd_2106_pet_water_fountain_WBR3
+1.0.5
+2022-03-07 1646620579
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519800722250B425i/16466205796eb47634d8c.bin
+
+GatewayFirmware
+1.10.10
+2026-07-01 1782869569
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1751684224491vvXS/178286956992fd6331e5e.bin
+
+1712747827ba670372758
+1.0.6
+2024-04-10 1712747827
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1710134170390k1A1/1712747827ba670372758.bin
+
+17153062199694e805a67
+2.0.2
+2024-05-10 1715306219
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15904833783242Uq4/17153062199694e805a67.bin

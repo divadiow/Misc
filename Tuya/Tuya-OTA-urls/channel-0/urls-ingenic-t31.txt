@@ -22,3 +22,13 @@ ubia_t31
 3.4.26
 2021-08-04 1628076649
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1535355575089lOaew/16280766494c43cc43cd8.bin
+
+CAMERA_SOC_T31ZL
+3.4.1
+2023-05-29 1685352586
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1618820811878CQUB/16853525865b72aa53c30.bin
+
+GV_T31_38_AF_V1.0
+2.117.893
+2024-04-02 1712065728
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519800722250B425i/1712065728d0f15722922.bin

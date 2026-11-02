@@ -27,3 +27,18 @@ linux_wifi
 1.0.10
 2021-08-10 1628590224
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541558493284HeY6j/162859022491422e24372.bin
+
+17084232283a50e82c848
+2.5.01
+2024-02-20 1708423228
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1514542396878sK5rw/17084232283a50e82c848.bin
+
+16055998096de5984dccc
+01.05.05
+2020-11-17 1605599809
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15641169413898akWr/16055998096de5984dccc.img
+
+16311882530c53483c3dc
+4.0.7
+2021-09-09 1631188253
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1623055826735ktef/16311882530c53483c3dc.bin

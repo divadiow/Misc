@@ -1,0 +1,4 @@
+eu_dgnzk_ld
+3.3.9
+2024-07-04 1720077069
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240704/1720077069-eu_dgnzk_ld_OTA_3.3.9.bin

@@ -1,0 +1,4 @@
+1734683569499d873b199
+2.0.10
+2024-12-20 1734683569
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1702284773958aAFJ/1734683569499d873b199.img

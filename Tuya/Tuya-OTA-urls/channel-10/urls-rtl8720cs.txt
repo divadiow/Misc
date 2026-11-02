@@ -1,0 +1,4 @@
+8720cs_wifi_ctrl
+1.4.2
+2023-10-24 1698156658
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20231024/1698156658-oem_RC370W_ir_handheld_8720cs_ty_UG_1.4.2.bin

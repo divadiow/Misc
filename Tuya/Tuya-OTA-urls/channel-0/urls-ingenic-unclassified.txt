@@ -1,0 +1,9 @@
+15871012687adec1e8979
+6.0.4
+2020-04-17 1587101268
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1551143760292eIYww/15871012687adec1e8979.bin
+
+jz_fw
+3.1.18
+2019-04-26 1556246214
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201904/1556246214-3.1.18.bin

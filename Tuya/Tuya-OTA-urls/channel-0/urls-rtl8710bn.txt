@@ -112,3 +112,13 @@ rtlbn_xr_one_plug
 1.0.4
 2018-06-15 1529050492
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201806/1529050492-rtlbn_xr_one_plug_ug_1.0.4.bin
+
+rtlbn_light_rgbcw_solp47bwapmm42rr
+1.0.2
+2021-10-21 1634788617
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1531122507771gALCb/163478861774e26d2fee8.bin
+
+oem_rtlbn_bg_3_switch_plus_2M
+1.0.4
+2019-06-21 1561111019
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1561111019-oem_rtlbn_bg_3_switch_plus_2M_ug_1.0.4.bin

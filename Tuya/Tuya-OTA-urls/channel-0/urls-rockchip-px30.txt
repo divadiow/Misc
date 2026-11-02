@@ -2,3 +2,8 @@ tyznzk_H611
 3.1.7
 2021-12-20 1640013881
 https://images.tuyaeu.com/smart/firmware/upgrade/20211220/1640013881-tyznzk_H611_OTA_3.1.7.bin
+
+px30_evb
+3.3.8
+2024-07-17 1721198888
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240717/1721198888-un_dgnzk_ld_OTA_3.3.8.bin

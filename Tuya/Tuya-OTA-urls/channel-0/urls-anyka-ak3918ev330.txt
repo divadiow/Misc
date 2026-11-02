@@ -1,0 +1,9 @@
+anyka_ipc
+33.53.30
+2023-12-05 1701739572
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1549882947781AQ72q/1701739572adca715e4fb.tar
+
+163576854406828c7af25
+5.2.4
+2021-11-01 1635768544
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1523958390804b8G6C/163576854406828c7af25.bin

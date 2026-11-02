@@ -37,3 +37,8 @@ linux_wifi
 3.16.16
 2025-03-12 1741759084
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1625108616122ANAG/17417590845545555cc63.tar
+
+1745460064itk_ipc_tuyaUpdate
+12.9.85
+2025-04-24 1745460064
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1526264199860jW2Ro/1745460064itk_ipc_tuyaUpdate

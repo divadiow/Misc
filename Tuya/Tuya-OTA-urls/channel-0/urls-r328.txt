@@ -2,3 +2,8 @@
 7.9.22
 2025-09-09 1757386148
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/1757386148795ed20fcde.tar.gz
+
+mr112-W2_T3Z-1_3_2-GdbServer
+1.3.2
+2026-04-21 1776749791
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1552556276146xrh1D/1776749791614470c21c9.CleanPack

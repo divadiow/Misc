@@ -47,3 +47,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/ay1534
 2.6.46
 2024-04-19 1713527600
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/1713527600af120c4b0e9.tar.gz
+
+navigation.2.6.79
+2.6.79
+2025-01-11 1736564115
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/17365641155a46d34556e.tar.gz

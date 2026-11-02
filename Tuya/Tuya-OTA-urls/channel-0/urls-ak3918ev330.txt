@@ -1,0 +1,4 @@
+HT_IPC201KM_TUYA_AK3918EV330
+2.0.56
+2023-03-27 1679910983
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1543031096643TGWCa/1679910983e934b605e5b.bin

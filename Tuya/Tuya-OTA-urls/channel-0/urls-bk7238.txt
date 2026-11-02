@@ -282,3 +282,13 @@ tuyaos_switch_no_monitor
 1.3.0
 2026-01-10 1768025158
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1647842583499mtXt/17680251585341c8aa444.bin
+
+dy_temphum400g_t1u
+1.0.2
+2025-12-31 1767171197
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537847617560vAgbw/176717119708200ee8945.bin
+
+tuyaos_switch_no_monitor
+1.3.0
+2026-01-10 1768015456
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1647842583499mtXt/17680154561b73cc3699c.bin

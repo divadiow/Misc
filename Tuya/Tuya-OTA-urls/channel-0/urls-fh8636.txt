@@ -7,3 +7,8 @@ sc116wz3
 1.3.4
 2024-03-27 1711533831
 https://images.tuyaeu.com/smart/firmware/upgrade/20240327/1711533831-2024-03-27_16-31-05_sc116wz3_UG_1.3.4_d5857d.bin
+
+sc116wz4_v1
+1.2.0
+2025-08-01 1754041871
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250801/1754041871-2025-08-01_15-48-20_sc116wz4_v1_UG_1.2.0_756bd0.bin

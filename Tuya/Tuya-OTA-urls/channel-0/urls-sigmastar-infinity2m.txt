@@ -17,3 +17,8 @@ tuya_ssd202d_gw_lidl_fw
 1.11.0
 2024-07-12 1720788390
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240712/1720788390-tuya_ssd202d_gw_lidl_fw_UG_1.11.0.bin
+
+tuya_ssd202d_gw_lidl_fw
+1.13.10
+2025-12-02 1764643140
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20251202/1764643140-tuya_ssd202d_gw_lidl_fw_UG_1.13.10.bin

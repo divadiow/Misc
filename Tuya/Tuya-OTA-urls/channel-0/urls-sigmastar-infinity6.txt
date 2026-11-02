@@ -1,0 +1,4 @@
+1761883138ec1a8bbbdd0
+5.67.10
+2025-10-31 1761883138
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521004915158Sqi7u/1761883138ec1a8bbbdd0.upk

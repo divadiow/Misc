@@ -14,6 +14,11 @@ oem_rtl8720cm_gw_plug
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220311/1646999592-oem_rtl8720cm_gw_plug_UG_1.5.5.bin
 
 oem_rtl8720cm_gw_plug
+1.6.4
+2022-06-07 1654569364
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220607/1654569364-oem_rtl8720cm_gw_plug_UG_1.6.4.bin
+
+oem_rtl8720cm_gw_plug
 1.9.9
 2022-11-09 1667990073
 https://images.tuyaeu.com/smart/firmware/upgrade/20221109/1667990073-oem_rtl8720cm_gw_plug_UG_1.9.9.bin

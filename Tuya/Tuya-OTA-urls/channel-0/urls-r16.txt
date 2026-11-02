@@ -1,0 +1,9 @@
+SL61_017
+2.6.46
+2024-04-22 1713787014
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/17137870146f20dc2cbb0.tar.gz
+
+SDL60_027
+2.6.46
+2024-04-24 1713930039
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/1713930039a798b769601.tar.gz

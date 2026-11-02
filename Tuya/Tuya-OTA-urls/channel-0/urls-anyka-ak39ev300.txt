@@ -7,3 +7,8 @@ Calex_Mini7S_ahpgd4ptfekaer6k_4.0.7_16543d710205
 4.0.7
 2021-08-17 1629165947
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/1629165947905b6a099dc.bin
+
+a3-s_neutral
+4.0.6
+2021-09-11 1631342329
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1623055826735ktef/163134232940df029d543.bin

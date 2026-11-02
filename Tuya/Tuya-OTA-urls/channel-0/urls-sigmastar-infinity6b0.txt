@@ -1,0 +1,4 @@
+16312364405264bdf6fe0
+5.0.6
+2021-09-10 1631236440
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1623055826735ktef/16312364405264bdf6fe0.bin

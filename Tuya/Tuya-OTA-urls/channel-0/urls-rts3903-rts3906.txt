@@ -1,0 +1,4 @@
+aoni_ipc
+0.6.2
+2021-08-31 1630398748
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1600918475253KxBg/16303987489d1cc1fd7ed.tar.gz

@@ -27,3 +27,13 @@ L16_Battery_Doorbell_qkoxvevsydtaf3zv_28.00.29_3f3792151f40
 28.00.29
 2020-09-22 1600765300
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1512807056914MYFQP/1600765300c51e606d3ab.bin
+
+ppsapp
+4.0.6
+2021-03-26 1616750799
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1606804468071BkIl/1616750799f2b4d7cded4.bin
+
+162799305377673063f0a
+2.10.0
+2021-08-03 1627993053
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/162799305377673063f0a.bin

@@ -1,0 +1,4 @@
+1602576395a89466ac773
+1.1.5
+2020-10-13 1602576395
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1557901828642vfDLZ/1602576395a89466ac773.bin

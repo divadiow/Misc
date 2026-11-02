@@ -2,3 +2,8 @@
 1.2.30
 2020-01-06 1578311056
 https://images.tuyaeu.com/smart/firmware/upgrade/202001/1578311056-liteoslzm
+
+7518-hi3518-liteoslzm
+1.3.26
+2022-05-17 1652782900
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519789929924bPhBU/1652782900d85ba039b64.bin

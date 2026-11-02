@@ -1,0 +1,4 @@
+cy_petfeeder_2btn_video_wifi
+2.2.8
+2024-12-26 1735196420
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521004915158Sqi7u/1735196420dd1523a41f2.bin

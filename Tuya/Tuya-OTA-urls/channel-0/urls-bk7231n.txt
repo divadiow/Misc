@@ -103,6 +103,11 @@ bk7231N_wxml_G6L_lp
 2022-01-14 1642124046
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1611546397476F4rH/1642124046dcdd7e845f1.bin
 
+bk7231N_wxml_G6L_lp
+1.0.9
+2024-02-29 1709200483
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1631088896838gxuh/1709200483becfe19225a.bin
+
 dy_sm_400a_cbu
 1.0.13
 2024-09-28 1727485451
@@ -722,3 +727,53 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 1.0.1
 2023-04-27 1682601621
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1648366011408J2el/1682601621e5a9e729d7c.bin
+
+1740469274c567dee6c9d
+1.0.4
+2025-02-25 1740469274
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15427647462366edzT/1740469274c567dee6c9d.bin
+
+171524747769e414f614e
+1.0.5
+2024-05-09 1715247477
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1646124354592CCAb/171524747769e414f614e.bin
+
+16702404373ac54af7f2e
+2.1.7
+2022-12-05 1670240437
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1615980634491NPlo/16702404373ac54af7f2e.bin
+
+1718184506d68632f44a0
+1.1.2
+2024-06-12 1718184506
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1585732422040GgH0/1718184506d68632f44a0.bin
+
+166400858465a0a35d09a
+1.1.3
+2022-09-24 1664008584
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/166400858465a0a35d09a.bin
+
+1721617034f0e046e3f41
+1.0.2
+2024-07-22 1721617034
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/1721617034f0e046e3f41.bin
+
+1626328325ce8872796ed
+1.0.4
+2021-07-15 1626328325
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541381385946hoIoV/1626328325ce8872796ed.bin
+
+1666254372675c1557b55
+1.3.4
+2022-10-20 1666254372
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1522637811891ZWAu6/1666254372675c1557b55.bin
+
+165840497114d6d33ef3e
+2.0.0
+2022-07-21 1658404971
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1622775748160TnwE/165840497114d6d33ef3e.bin
+
+167937864985df8b201ab
+1.0.4
+2023-03-21 1679378649
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/167937864985df8b201ab.bin
