@@ -1,0 +1,4 @@
+1655804718d7e1595ab73
+1.08.40
+2022-06-21 1655804718
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1572605025054Zgw7e/1655804718d7e1595ab73.bin

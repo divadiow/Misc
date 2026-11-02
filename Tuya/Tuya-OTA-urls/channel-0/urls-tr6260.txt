@@ -7,3 +7,8 @@ tr6260_smart_outlet_wf_en_user
 2.1.3
 2021-01-05 1609819098
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202101/1609819098-tr6260_smart_outlet_wf_en_user_ug_2.1.3.bin
+
+1624606224a93bc13e5e9
+2.2.5
+2021-06-25 1624606224
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1585732422040GgH0/1624606224a93bc13e5e9.bin

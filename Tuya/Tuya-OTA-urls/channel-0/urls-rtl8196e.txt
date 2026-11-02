@@ -44,9 +44,24 @@ tuya_rtl8196e_gw
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202004/1587461457-tuya_rtl8196e_gw_tar_1.2.12
 
 tuya_rtl8196e_gw
+1.19.2
+2022-09-02 1662107489
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220902/1662107489-tuya_rtl8196e_gw_tar_UG_1.19.2.bin
+
+tuya_rtl8196e_gw
+1.23.2
+2023-10-30 1698659280
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202310/1698659280-tuya_rtl8196e_gw_tar_UG_1.23.2.bin
+
+tuya_rtl8196e_gw
 1.24.2
 2024-03-25 1711357740
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202403/1711357740-tuya_rtl8196e_gw_tar_UG_1.24.2.bin
+
+tuya_rtl8196e_gw
+1.26.3
+2024-12-31 1735642126
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20241231/1735642126-tuya_rtl8196e_gw_tar_UG_1.26.3.bin
 
 tuya_rtl8196e_gw
 1.27.1
@@ -62,3 +77,13 @@ THP10_Z_V3_Wired_Zigbee_Gateway_nx2h8axagmahvc7j_1.29.0_0526bb7b5b7b
 1.29.0
 2026-08-07 1786073941
 https://images.tuyaeu.com/smart/firmware/upgrade/20260807/1786073941-tuya_rtl8196e_gw_tar_UG_1.29.0.bin
+
+tuya_rtl8196e_gw_homekit
+1.7.0
+2023-07-10 1688956042
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20230710/1688956042-tuya_rtl8196e_gw_homekit_tar_UG_1.7.0.bin
+
+linux_rtl8196e_zigbee_oem_gw_rtl8196e_prj
+1.2.8
+2020-01-13 1578884007
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202001/1578884007-zigbee_oem_gw_rtl8196e_tar_1.2.8

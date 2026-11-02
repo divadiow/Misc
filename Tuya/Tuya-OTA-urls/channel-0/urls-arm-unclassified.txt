@@ -7,3 +7,8 @@ https://images.tuyaeu.com/smart/firmware/upgrade/202001/1578311056-liteoslzm
 1.3.26
 2022-05-17 1652782900
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519789929924bPhBU/1652782900d85ba039b64.bin
+
+demo_rplidar
+4.5.42
+2021-06-22 1624328023
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/16243280237f93c586b36.pack

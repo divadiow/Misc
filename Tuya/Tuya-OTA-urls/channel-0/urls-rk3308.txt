@@ -57,3 +57,8 @@ tyznzk_TPP01_Z_EU
 3.5.11
 2025-06-05 1749093043
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250605/1749093043-tyznzk_TPP01_Z_EU_OTA_3.5.11.bin
+
+LS_S3
+0.4.6
+2021-01-27 1611749301
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1544690228356n0K30/1611749301ec531ee4c5d.CleanPack

@@ -7,3 +7,8 @@ SDL60_027
 2.6.46
 2024-04-24 1713930039
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/1713930039a798b769601.tar.gz
+
+BvRobot
+6.10.23
+2023-05-30 1685438580
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/1685438580db8d66878ce.bin

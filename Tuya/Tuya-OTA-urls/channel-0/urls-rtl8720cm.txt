@@ -9,6 +9,11 @@ oem_rtl8720cm_dynamic_gateway_light_ty
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240124/1706088563-oem_rtl8720cm_dynamic_gateway_light_ty_UG_1.2.23.bin
 
 oem_rtl8720cm_gw_plug
+1.3.2
+2021-09-03 1630651194
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210903/1630651194-oem_rtl8720cm_gw_plug_UG_1.3.2.bin
+
+oem_rtl8720cm_gw_plug
 1.5.5
 2022-03-11 1646999592
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220311/1646999592-oem_rtl8720cm_gw_plug_UG_1.5.5.bin

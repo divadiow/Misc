@@ -274,6 +274,16 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537170211499MqxLj/1758859056513a1ddb265.bin
 
 tuyaos_curtain_switch_wifi
+1.2.9
+2026-07-28 1785199217
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1530852819489IlyEr/178519921769c18e43999.bin
+
+tuyaos_curtain_switch_wifi
+1.2.9
+2026-08-05 1785910524
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1530852819489IlyEr/17859105244cc69863a72.bin
+
+tuyaos_curtain_switch_wifi
 1.3.0
 2026-08-04 1785806655
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1530852819489IlyEr/17858066559eb24173752.bin
@@ -292,3 +302,8 @@ tuyaos_switch_no_monitor
 1.3.0
 2026-01-10 1768015456
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1647842583499mtXt/17680154561b73cc3699c.bin
+
+ZL_SJ_T1_WiFi_Firmware
+1.0.2
+2026-06-04 1780569486
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1656900699306Utku/1780569486014af1087ed.bin

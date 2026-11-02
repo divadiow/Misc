@@ -2,3 +2,8 @@ TUYA_GK710XX
 2.3.01
 2020-07-04 1593831747
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1578126393849AQjKd/1593831747camapp
+
+1581497441-TUYA.gk7102.upgrade.v3.4.6.sdk4.5.12.ipc.20191230
+3.4.6
+2020-02-12 1581497441
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202002/1581497441-TUYA.gk7102.upgrade.v3.4.6.sdk4.5.12.ipc.20191230.ota

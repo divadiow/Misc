@@ -24,6 +24,11 @@ rtlam_zigbee_gw
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1593868431-rtlam_zigbee_gw_UG_1.3.3.bin
 
 rtlam_zigbee_gw
+1.5.9
+2021-02-04 1612457096
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202102/1612457096-rtlam_zigbee_gw_UG_1.5.9.bin
+
+rtlam_zigbee_gw
 1.6.3
 2021-08-28 1630136778
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210828/1630136778-rtlam_zigbee_gw_UG_1.6.3.bin

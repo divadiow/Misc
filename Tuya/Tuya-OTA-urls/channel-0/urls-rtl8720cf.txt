@@ -177,3 +177,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 2.0.2
 2024-05-10 1715306219
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15904833783242Uq4/17153062199694e805a67.bin
+
+WBR3
+1.0.8
+2022-11-03 1667456151
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1587638193105QkZL/1667456151cd10d7f9b3f.bin
+
+rtl8720cf_ameba
+1.7.7
+2021-12-02 1638426907
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1587638193105QkZL/163842690707433641433.bin

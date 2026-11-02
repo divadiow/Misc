@@ -1,0 +1,4 @@
+BatIPC(S-09G)
+1.1.35
+2023-02-22 1677049383
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519789929924bPhBU/1677049383599d2a7a631.bin

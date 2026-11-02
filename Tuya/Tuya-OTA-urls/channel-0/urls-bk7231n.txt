@@ -777,3 +777,78 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 1.0.4
 2023-03-21 1679378649
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/167937864985df8b201ab.bin
+
+1678861846970a4be97bc
+1.0.5
+2023-03-15 1678861846
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/1678861846970a4be97bc.bin
+
+oem_bk7231n_gate_magnet
+1.0.7
+2021-08-19 1629353782
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202108/1629353782-oem_bk7231n_gate_magnet_UG_1.0.7.bin
+
+1661818946d84863b60e2
+1.0.4
+2022-08-30 1661818946
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15306216483132PZyA/1661818946d84863b60e2.bin
+
+16481095163ce9f6b0724
+1.0.5
+2022-03-24 1648109516
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1498203399759ASLsi/16481095163ce9f6b0724.bin
+
+17151369042ab6f603b9f
+1.0.9
+2024-05-08 1715136904
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1679641119240nYmL/17151369042ab6f603b9f.bin
+
+17055494966fca0cf6045
+1.1.2
+2024-01-18 1705549496
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1631088896838gxuh/17055494966fca0cf6045.bin
+
+16398257525353b7b23d6
+1.0.9
+2021-12-18 1639825752
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1545923119209Dw8ut/16398257525353b7b23d6.bin
+
+1744633098fd76a0ee845
+1.1.0
+2025-04-14 1744633098
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1554975589161DYAhk/1744633098fd76a0ee845.bin
+
+1635325423f8d9de734b3
+1.0.8
+2021-10-27 1635325423
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1615445390235I6dG/1635325423f8d9de734b3.bin
+
+oem_bk7231n_curtain_switch_NA_01
+2.0.5
+2025-03-06 1741254753
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1551316289393IMzwE/174125475391292212833.bin
+
+tuyaos_linklite_lt002_1_1_2_V1.0.1
+1.0.1
+2025-06-25 1750850501
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1589439371120kSUq/175085050155301709228.bin
+
+1726654766f03fe08b6f5
+1.0.9
+2024-09-18 1726654766
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1679641119240nYmL/1726654766f03fe08b6f5.bin
+
+16639989366fab23bdc60
+1.2.1
+2022-09-24 1663998936
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542097452507IWVWQ/16639989366fab23bdc60.bin
+
+1665562333063db3ec184
+1.0.8
+2022-10-12 1665562333
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592190500247nCOb/1665562333063db3ec184.bin
+
+1652938917e2d3a54011d
+1.0.1
+2022-05-19 1652938917
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1479186846090erfbh/1652938917e2d3a54011d.bin

@@ -1,0 +1,4 @@
+RC50X30X2_8M_V1.5.522
+1.5.522
+2025-06-24 1750754476
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1704421551497JXU2/1750754476fc42aab6821.bin

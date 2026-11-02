@@ -1,0 +1,4 @@
+16264880305a205313d02
+4.0.7
+2021-07-17 1626488030
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/16264880305a205313d02.bin

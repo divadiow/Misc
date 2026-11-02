@@ -1,0 +1,9 @@
+hh_fh8852v2_wifi_001
+1.7.0
+2022-02-28 1646011187
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1568808812161OlPJW/16460111878874c792517.bin
+
+sdk_app_fuhan
+1.0.14
+2026-04-27 1777283964
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16993473962518lAB/17772839640b49d92d395.bin

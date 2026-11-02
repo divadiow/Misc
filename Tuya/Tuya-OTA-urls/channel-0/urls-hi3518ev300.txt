@@ -37,3 +37,28 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 2.10.0
 2021-08-03 1627993053
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/162799305377673063f0a.bin
+
+1598666315269de00a618
+2.9.7
+2020-08-29 1598666315
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/1598666315269de00a618.bin
+
+1628240974df8f57db03b
+2.10.5
+2021-08-06 1628240974
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/1628240974df8f57db03b.bin
+
+16280581920d0d27f6354
+2.10.0
+2021-08-04 1628058192
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/16280581920d0d27f6354.bin
+
+1630227530cbfa931aeb9
+2.10.6
+2021-08-29 1630227530
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/1630227530cbfa931aeb9.bin
+
+ipc_hisi3518ev300_liteos
+0.1.22
+2021-04-23 1619178191
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210423/1619178191-zhouyou_STW3_OTA_0.1.22.bin

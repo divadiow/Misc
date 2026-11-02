@@ -193,6 +193,11 @@ oem_bk7231s_curtain_switch
 2020-11-19 1605755484
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202011/1605755484-oem_bk7231s_curtain_switch_UG_1.5.5.bin
 
+oem_bk7231s_curtain_switch
+1.6.0
+2021-05-31 1622451308
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202105/1622451308-oem_bk7231s_curtain_switch_UG_1.6.0.bin
+
 oem_bk7231s_plug_light_jiabt
 1.1.0
 2020-06-03 1591156364
@@ -202,6 +207,11 @@ XZ_DREAM_RGB_STRIP_24KEY_1KEY
 1.0.7
 2021-08-25 1629893212
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596451683727LH1p/1629893212785338888b0.bin
+
+oem_bk7231s_dltj
+1.3.2
+2020-09-21 1600669621
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202009/1600669621-oem_bk7231s_dltj_UG_1.3.2.bin
 
 oem_bk7231s_dltj
 1.3.5
@@ -232,3 +242,53 @@ HYS_03_018_bk7231t_a4y9plclmzpct6ol
 1.1.1
 2021-09-10 1631261648
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210910/1631261648-HYS_03_018_bk7231t_a4y9plclmzpct6ol_UG_1.1.1.bin
+
+oem_bk7231s_light5_yeelight
+2.9.18
+2022-02-25 1645770188
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202202/1645770188-oem_bk7231s_light5_yeelight_UG_2.9.18.bin
+
+HYS_03_018_bk7231t_d6j0prszqbkamc50
+1.1.0
+2021-09-27 1632707362
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210927/1632707362-HYS_03_018_bk7231t_d6j0prszqbkamc50_UG_1.1.0.bin
+
+oem_bk7231s_light_pir_yh_onoff
+1.1.6
+2021-01-06 1609901482
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202101/1609901482-oem_bk7231s_light_pir_yh_onoff_UG_1.1.6.bin
+
+16155190223213a0665da
+1.1.1
+2021-03-12 1615519022
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596451683727LH1p/16155190223213a0665da.bin
+
+oem_bk7231s_control_switch
+1.1.6
+2021-09-08 1631070983
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210908/1631070983-oem_bk7231s_control_switch_UG_1.1.6.bin
+
+oem_bk7231s_ceiling_light_ty
+1.3.2
+2020-12-22 1608630489
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202012/1608630489-oem_bk7231s_ceiling_light_ty_UG_1.3.2.bin
+
+oem_bk7231t_light3_laser_nanxin
+1.0.3
+2020-08-28 1598582715
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1598582715-oem_bk7231t_light3_laser_nanxin_ug_1.0.3.bin
+
+oem_bk7231s_light2_string_tuya
+1.2.7
+2021-12-07 1638843218
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20211207/1638843218-oem_bk7231s_light2_string_tuya_ug_1.2.7.bin
+
+oem_bk7231s_strip3_tuoyu
+1.1.3
+2020-07-15 1594814112
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202007/1594814112-oem_bk7231s_strip3_tuoyu_ug_1.1.3.bin
+
+HYS_03_018_bk7231t_r1e1zch4rds9ypqq
+1.1.0
+2021-09-17 1631845393
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1545708359302cTvA9/16318453931e63cb4d660.bin

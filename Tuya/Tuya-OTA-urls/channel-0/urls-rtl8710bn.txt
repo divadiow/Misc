@@ -8,6 +8,11 @@ oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B
 2020-02-29 1582959283
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202002/1582959283-oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B_ug_1.0.0.bin
 
+oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B
+1.2.1
+2021-04-06 1617690729
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202104/1617690729-oem_rtlbn_bl0937_1plug_yuanren_17A_sp22B_UG_1.2.1.bin
+
 oem_rtlbn_dltj_2M
 1.0.4
 2019-07-23 1563871788
@@ -122,3 +127,18 @@ oem_rtlbn_bg_3_switch_plus_2M
 1.0.4
 2019-06-21 1561111019
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1561111019-oem_rtlbn_bg_3_switch_plus_2M_ug_1.0.4.bin
+
+oem_rtlbn_fuchang_1_plug_rgb_light
+1.1.0
+2020-08-15 1597472449
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1597472449-oem_rtlbn_fuchang_1_plug_rgb_light_ug_1.1.0.bin
+
+rtlbn_bl0937_plug_keytrwfjhmd8rdu7
+1.0.5
+2022-04-18 1650263873
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20220418/1650263873-rtlbn_bl0937_plug_keytrwfjhmd8rdu7_ug_1.0.5.bin
+
+rtlbn_rgbcw_ok0bhghjobp2uvak
+1.0.8
+2020-12-31 1609386909
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202012/1609386909-rtlbn_rgbcw_ok0bhghjobp2uvak_ug_1.0.8.bin

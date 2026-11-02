@@ -17,3 +17,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20
 1.4.4
 2024-02-06 1707213895
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20240206/1707213895-oem_RC370W_ir_handheld_ak3760e_ty_OTA_1.4.4.img
+
+1682424613-oem_RC370W_ir_handheld_ak3760e_ty_OTA_1.2.10
+1.2.10
+2023-04-25 1682424613
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20230425/1682424613-oem_RC370W_ir_handheld_ak3760e_ty_OTA_1.2.10.img

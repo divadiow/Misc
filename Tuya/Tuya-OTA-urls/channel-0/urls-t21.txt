@@ -1,0 +1,9 @@
+gv_ipc_jzt21_tuya_version:1.1.17.266
+1.1.17.266
+2022-01-03 1641196867
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519800722250B425i/1641196867bb550be4611.bin
+
+1628235288e3c5e0b216a
+1.9.3
+2021-08-06 1628235288
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613805428625VHFP/1628235288e3c5e0b216a.bin
