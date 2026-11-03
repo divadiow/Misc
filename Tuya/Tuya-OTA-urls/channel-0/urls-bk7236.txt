@@ -87,3 +87,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 1.0.6
 2026-01-22 1769073511
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay160585829854911MU/1769073511ea8230dbbee.bin
+
+nas-sth02w17
+2.0.11
+2026-04-29 1777441814
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1503986080106Gppjy/17774418147adf06c3a8a.bin

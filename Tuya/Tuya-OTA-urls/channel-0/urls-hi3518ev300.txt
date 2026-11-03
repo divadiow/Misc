@@ -62,3 +62,8 @@ ipc_hisi3518ev300_liteos
 0.1.22
 2021-04-23 1619178191
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210423/1619178191-zhouyou_STW3_OTA_0.1.22.bin
+
+BRS_DC01_APP_6.3.9-1040
+6.3.9
+2021-02-03 1612340007
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1527823792252iCmeI/161234000702c6dd545ae.bin

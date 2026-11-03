@@ -1,0 +1,4 @@
+fuhan_sdk_app
+4.5.0
+2022-08-31 1661934954
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1568808812161OlPJW/16619349541c00a8357f9.bin

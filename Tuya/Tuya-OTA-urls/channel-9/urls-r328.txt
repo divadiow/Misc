@@ -1,0 +1,4 @@
+mr112-M900-2_1_8-NormalServer
+2.1.8
+2022-05-19 1652949060
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1601053931835mksU/1652949060b956c742e3f.CleanPack

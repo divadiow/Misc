@@ -19,6 +19,16 @@ navigation
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/171352716099d8b83f771.tar.gz
 
 navigation
+2.6.46
+2024-04-19 1713526543
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/17135265438e55ff0e8c3.tar.gz
+
+navigation
+2.6.81
+2025-03-24 1742785765
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/1742785765257dd9a67d1.tar.gz
+
+navigation
 2.6.93
 2025-04-02 1743595594
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565853023602OkyCT/1743595594384e8390253.tar.gz
@@ -52,3 +62,8 @@ navigation.2.6.79
 2.6.79
 2025-01-11 1736564115
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/17365641155a46d34556e.tar.gz
+
+demo_rplidar
+4.5.48
+2024-01-04 1704339096
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1534681176370JSCKe/1704339096dc3355f7264.pack

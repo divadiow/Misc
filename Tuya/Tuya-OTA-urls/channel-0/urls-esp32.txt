@@ -7,3 +7,8 @@ oem_esp32_homekit_ele_plug
 2.0.1
 2021-09-16 1631756612
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210916/1631756612-oem_32_homekit_mul_ele_pg_ug_2.0.1.bin
+
+Tuya-Plantsio-Ivy
+1.1.22
+2025-04-14 1744611761
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1660614247012LY7R/1744611761db04f9a387b.bin

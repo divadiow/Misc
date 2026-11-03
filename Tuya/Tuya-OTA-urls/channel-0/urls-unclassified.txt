@@ -1,8 +1,3 @@
-1741653560052d94228af
-3.0.0.8
-2025-03-11 1741653560
-https://images.tuyaeu.com/smart/firmware/upgrade/ay15507223992875xh7c/1741653560052d94228af.bin
-
 Haier_HSR_Pro_Lite_robot_vacuum_7v72fti5wivzgyzh_1.1.23_a3c89a44dfa4
 1.1.23
 2025-02-19 1739962603
@@ -52,3 +47,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 10.6.21
 2021-04-09 1617957244
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1539564680812QVp8s/16179572440c924f8e128.bin
+
+174012176448e81ae32f1
+2.4.3
+2025-02-21 1740121764
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay16048871493199Sbw/174012176448e81ae32f1.bin
+
+17397734559e720abad36
+1.4.3
+2025-02-17 1739773455
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay16048871493199Sbw/17397734559e720abad36.bin

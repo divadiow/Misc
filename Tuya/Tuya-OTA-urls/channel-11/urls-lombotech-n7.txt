@@ -1,0 +1,4 @@
+DEKCE-ODS-KXT-KW02
+2.20.0
+2025-12-31 1767146757
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1720351808549N1WF/1767146757fb736563189.ota

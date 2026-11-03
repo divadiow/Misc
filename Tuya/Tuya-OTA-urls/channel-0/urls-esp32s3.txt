@@ -1,0 +1,4 @@
+Ivy2.0
+2.1.0
+2025-12-24 1766562471
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1590729327226ItC7/1766562471bcbeed58034.bin

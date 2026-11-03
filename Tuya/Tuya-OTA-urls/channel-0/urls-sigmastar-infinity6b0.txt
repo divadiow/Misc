@@ -12,3 +12,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 5.2.6
 2022-01-04 1641282568
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1523958390804b8G6C/1641282568af7870b0f36.bin
+
+ppsapp
+5.2.1
+2022-06-06 1654497292
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524707880170lc26F/165449729269eb9a835e5.bin

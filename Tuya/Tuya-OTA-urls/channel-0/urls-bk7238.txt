@@ -307,3 +307,13 @@ ZL_SJ_T1_WiFi_Firmware
 1.0.2
 2026-06-04 1780569486
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1656900699306Utku/1780569486014af1087ed.bin
+
+dy_sos_01_t1u
+1.0.1
+2025-08-28 1756344595
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565138036928sSi0S/17563445955f584faf866.bin
+
+dy_smart_meter_01_t1u
+1.0.3
+2026-06-05 1780646689
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537847617560vAgbw/178064668968e53b852bc.bin

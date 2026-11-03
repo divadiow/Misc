@@ -7,3 +7,8 @@ ty_ipc_wr_wl_linux_sdk
 122.09.14
 2025-03-14 1741936773
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1539074879262GYXmu/17419367737aa63794bed.tar
+
+ty_ipc_wr_wl_linux_sdk
+132.14.22
+2025-08-09 1754722439
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1577717726791liVBu/17547224398078c667253.tar

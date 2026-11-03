@@ -1,0 +1,4 @@
+ppsapp
+2.7.8
+2021-09-10 1631240716
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1532313366923TajjK/16312407169e4b20193cf.bin

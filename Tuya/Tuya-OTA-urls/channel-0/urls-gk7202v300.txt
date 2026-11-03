@@ -12,3 +12,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 3.4.4
 2023-08-28 1693216249
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/169321624923d19c1325f.bin
+
+peehool_tuya_gk7202
+1.9.9
+2023-05-27 1685168031
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1565839075983OpfF2/1685168031a3d08a6ec67.zip

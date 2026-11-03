@@ -79,6 +79,11 @@ oem_bk7231s_light_db_a19
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202112/1639476563-oem_bk7231s_light_db_a19_UG_1.0.15.bin
 
 oem_bk7231s_light_db_a21
+1.1.2
+2021-04-28 1619597208
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202104/1619597208-oem_bk7231s_light_db_a21_UG_1.1.2.bin
+
+oem_bk7231s_light_db_a21
 1.1.6
 2021-11-08 1636359853
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202111/1636359853-oem_bk7231s_light_db_a21_UG_1.1.6.bin
@@ -283,6 +288,11 @@ oem_bk7231t_light3_laser_nanxin
 2020-08-28 1598582715
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202008/1598582715-oem_bk7231t_light3_laser_nanxin_ug_1.0.3.bin
 
+oem_bk7231t_light3_laser_nanxin
+1.1.2
+2021-01-27 1611715747
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202101/1611715747-oem_bk7231t_light3_laser_nanxin_UG_1.1.2.bin
+
 oem_bk7231s_light2_string_tuya
 1.2.7
 2021-12-07 1638843218
@@ -297,3 +307,33 @@ HYS_03_018_bk7231t_r1e1zch4rds9ypqq
 1.1.0
 2021-09-17 1631845393
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1545708359302cTvA9/16318453931e63cb4d660.bin
+
+HYS_03_018_bk7231t_ycs9il26t97qdn7v
+1.1.0
+2021-09-17 1631844718
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210917/1631844718-HYS_03_018_bk7231t_ycs9il26t97qdn7v_UG_1.1.0.bin
+
+YWL_sense_light
+1.0.4
+2021-03-01 1614587951
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1597022670130iZEz/16145879516a3792bab4e.bin
+
+oem_bk7231s_plug5_dltj_tuoye
+1.1.2
+2022-02-17 1645079790
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202202/1645079790-oem_bk7231s_plug5_dltj_tuoye_UG_1.1.2.bin
+
+16183031475dc5c98d64b
+1.0.4
+2021-04-13 1618303147
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596260597467YHRV/16183031475dc5c98d64b.bin
+
+163031893271b86e92665
+1.0.1
+2021-08-30 1630318932
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1488250737181CTA8y/163031893271b86e92665.bin
+
+LY_RGB_STRIP_24KEY_3KEY
+1.0.2
+2020-10-07 1602050733
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596260597467YHRV/1602050733a25c98663fb.bin

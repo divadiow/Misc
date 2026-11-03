@@ -1,0 +1,14 @@
+bvrobot-ota
+6.8.17
+2022-03-22 1647956142
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/16479561420856447a8c4.bin
+
+bvrobot-ota
+6.10.17
+2023-01-06 1672977129
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/1672977129173d9579350.bin
+
+bvrobot-ota
+6.10.23
+2023-05-30 1685411038
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/1685411038fd1ef7091e6.bin

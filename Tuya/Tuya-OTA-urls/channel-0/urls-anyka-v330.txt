@@ -42,3 +42,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 12.9.85
 2025-04-24 1745460064
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1526264199860jW2Ro/1745460064itk_ipc_tuyaUpdate
+
+jk_ipc_code
+68.01.13
+2025-03-22 1742622765
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1587638193105QkZL/1742622765cfc05d74d5e.tar

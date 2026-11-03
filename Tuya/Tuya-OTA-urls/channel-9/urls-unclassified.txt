@@ -2162,3 +2162,18 @@ R15_Zigbee_Smart_Thermostat_Cooling_Capable_agcxaw3f_1.0.8_842ae7031955
 1.0.8
 2026-10-28 1793153856
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1671175132655mOtP/179315385674ee87ce574.bin
+
+1789806122a36330a4e18
+1.1.6
+2026-09-19 1789806122
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15658461058274pV5k/1789806122a36330a4e18.bin
+
+1792050833d34d3eb44ce
+1.1.3
+2026-10-15 1792050833
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15658461058274pV5k/1792050833d34d3eb44ce.bin
+
+179006476503f60eb2e45
+1.4.2
+2026-09-22 1790064765
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay1607348090427rdBH/179006476503f60eb2e45.bin

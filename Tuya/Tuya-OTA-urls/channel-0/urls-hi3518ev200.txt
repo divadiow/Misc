@@ -77,3 +77,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 2.7.2
 2019-06-05 1559716222
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1559716222-ppstrong-c2-tuya2caliber-2.7.2.20190515-upgrade.bin
+
+162799155639d616c09f6
+2.7.7
+2021-08-03 1627991556
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1511509043755MhIx1/162799155639d616c09f6.bin
+
+1561454915-ppstrong-c4-tuya2teco-2.7.2.20190621-upgrade
+2.7.2
+2019-06-25 1561454915
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1561454915-ppstrong-c4-tuya2teco-2.7.2.20190621-upgrade.bin

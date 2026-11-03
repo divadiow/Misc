@@ -1,0 +1,4 @@
+re701x_tc02_sv6166
+1.2.1
+2020-12-18 1608272057
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202012/1608272057-re701x_tc02_sv6166_ug_1.2.1.bin

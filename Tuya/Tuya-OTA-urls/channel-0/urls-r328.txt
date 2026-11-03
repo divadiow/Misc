@@ -7,3 +7,13 @@ mr112-W2_T3Z-1_3_2-GdbServer
 1.3.2
 2026-04-21 1776749791
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1552556276146xrh1D/1776749791614470c21c9.CleanPack
+
+mr112-LS_S0GR-0_2_9-GdbServer
+0.2.9
+2023-08-30 1693354978
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1607666581333nLpO/1693354978968eeafe703.bin
+
+mr112-LS_S0GL-0_5_1-Release-Server
+0.5.1
+2024-06-03 1717393343
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1525342233337A874A/1717393343f519c022c3c.bin

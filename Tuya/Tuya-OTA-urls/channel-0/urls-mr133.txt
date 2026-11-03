@@ -1,0 +1,9 @@
+robot_app-t1-tuya
+1.6.59
+2023-12-14 1702542741
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16074806709595RO4/17025427414f15057e9fa.bin
+
+robot_app-t1-tuya
+1.7.22
+2024-06-17 1718612352
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16074806709595RO4/17186123521f738735430.bin

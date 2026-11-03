@@ -2,3 +2,8 @@
 2.1.00903
 2025-02-11 1739243153
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1672297587970Y0dy/1739243153ddb513caf7b.bin
+
+1752310750aa335469331
+1.0.28203
+2025-07-12 1752310750
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1672297587970Y0dy/1752310750aa335469331.bin

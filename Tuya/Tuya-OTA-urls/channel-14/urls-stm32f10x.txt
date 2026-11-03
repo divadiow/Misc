@@ -1,0 +1,4 @@
+CBE2000 PRO TEST
+1.02.12
+2026-08-28 1787910277
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1687226494945d2dL/1787910277908810ba1b5.bin

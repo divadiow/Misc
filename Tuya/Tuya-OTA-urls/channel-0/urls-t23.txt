@@ -1,0 +1,4 @@
+sysinit
+5.1.4
+2025-08-29 1756460258
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1639399892914WbWK/1756460258063e00e7573.ota

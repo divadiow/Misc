@@ -2,3 +2,13 @@ cy_petfeeder_2btn_video_wifi
 2.2.8
 2024-12-26 1735196420
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521004915158Sqi7u/1735196420dd1523a41f2.bin
+
+nmcat_video_wifi
+1.0.2
+2024-04-02 1712025959
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542781904936WGL9o/1712025959c038519e233.bin
+
+cy_petfeeder_video
+1.3.5
+2024-07-03 1719990092
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542781904936WGL9o/1719990092c223fb2c681.bin

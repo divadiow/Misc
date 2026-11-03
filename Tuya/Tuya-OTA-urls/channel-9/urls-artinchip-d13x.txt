@@ -2,3 +2,8 @@ Feyree_Lion_EV-Ultra_EV_charger_(ArtInChip_D13x_RISC-V)_pcaduzywoal3zaib_1.0.2_8
 1.0.2
 2026-02-09 1770624093
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1679485904402r3cx/177062409319cd3160877.bin
+
+d13x_os (ArtInChip Luban-Lite)
+1.0.4
+2026-05-12 1778577601
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1679485904402r3cx/17785776015bff2cdae62.bin

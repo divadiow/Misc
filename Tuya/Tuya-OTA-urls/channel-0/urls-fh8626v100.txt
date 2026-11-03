@@ -1,4 +1,9 @@
 dgiot
+7.11.19
+2022-11-03 1667460538
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/1667460538375759c2765.bin
+
+dgiot
 9.15.9
 2023-12-06 1701850082
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1524214757712oP85g/170185008204bbaef2159.bin

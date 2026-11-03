@@ -7,3 +7,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 1.9.3
 2021-08-06 1628235288
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613805428625VHFP/1628235288e3c5e0b216a.bin
+
+15994667749929494f6c6
+11.02.00
+2020-09-07 1599466774
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1539074879262GYXmu/15994667749929494f6c6.img

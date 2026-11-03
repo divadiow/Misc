@@ -1,0 +1,9 @@
+A4ia8c_bk_B60
+1.3.6
+2024-03-21 1711022880
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16184012852268uIn/17110228805f9f9d4c7d5.bin
+
+A4ia8c_bk_B60_v2
+3.0.0.8
+2025-03-11 1741653560
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15507223992875xh7c/1741653560052d94228af.bin

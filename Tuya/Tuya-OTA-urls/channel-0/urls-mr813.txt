@@ -1,0 +1,4 @@
+xwow.sh
+1.9.16
+2025-12-18 1766051224
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1747620526226EzUQ/1766051224bf0be865317.zip

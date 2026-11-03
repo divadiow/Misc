@@ -12,3 +12,8 @@ http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202
 2.2.5
 2021-06-25 1624606224
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1585732422040GgH0/1624606224a93bc13e5e9.bin
+
+1620958773-tr6260_smart_meter_wf_uni_user_ug_2.1.6
+2.1.6
+2021-05-14 1620958773
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20210514/1620958773-tr6260_smart_meter_wf_uni_user_ug_2.1.6.bin

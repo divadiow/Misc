@@ -1,0 +1,4 @@
+DESK2W-KXTOS-KW072
+0.16.0
+2025-12-31 1767146816
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1720351808549N1WF/176714681693367d9f80f.ota

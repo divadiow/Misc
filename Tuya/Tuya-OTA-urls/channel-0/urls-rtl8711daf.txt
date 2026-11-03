@@ -2,3 +2,8 @@ oem_rtl8711daf_light_ty
 1.0.4
 2025-06-27 1750988293
 http://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202506/1750988293-oem_rtl8711daf_light_ty_UG_1.0.4.bin
+
+rtl8721dam_zg_gw
+1.2.5
+2026-05-21 1779354628
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20260521/1779354628-8711daf_zg_gw_UG_1.2.5.bin

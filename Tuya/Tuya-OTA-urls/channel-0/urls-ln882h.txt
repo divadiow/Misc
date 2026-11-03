@@ -9,6 +9,11 @@ cuco_plug_sw5b
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1605149472695Vxa2/1742027683b313abb8468.bin
 
 ln_elec_plug
+1.0.1
+2025-12-08 1765182571
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1694233345821bdjU/176518257183754c4dcfd.bin
+
+ln_elec_plug
 1.2.0
 2026-05-06 1778030443
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15422864509092y6k8/1778030443590c506b068.bin
@@ -42,3 +47,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 1.5.9
 2026-04-23 1776932003
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1665977646234JPaj/17769320039912ed9f856.bin
+
+1743235059b0cb7488dbf
+1.1.4
+2025-03-29 1743235059
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1605149472695Vxa2/1743235059b0cb7488dbf.bin
