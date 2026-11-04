@@ -23,11 +23,6 @@ mp500_u3_sys_2.3.10_app_6.9.28_user_0912_1824
 2025-09-12 1757677865
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1679988230528qYeh/17576778653e9889248b1.tar.gz
 
-V8S_STA_20260616.4.85
-4.85.180
-2026-06-16 1781598680
-https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1776064471851WABL/1781598680ca4df4bf072.bin
-
 1653042777df773e766a3
 10.0.8
 2022-05-20 1653042777
@@ -57,3 +52,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay160
 1.4.3
 2025-02-17 1739773455
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay16048871493199Sbw/17397734559e720abad36.bin
+
+1535021799-OTA-upgrade-TUYAAHA23M03D01D004-3.0.4-app
+3.0.4
+2018-08-23 1535021799
+https://images.tuyaeu.com/smart/firmware/upgrade/201808/1535021799-OTA-upgrade-TUYAAHA23M03D01D004-3.0.4-app.MD5ED67C893B34BF71CC3167A3E5FA62573
+
+1646299121764108801c2
+10.6.91
+2022-03-03 1646299121
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1561642505485zpwwi/1646299121764108801c2.bin

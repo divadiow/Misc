@@ -2,3 +2,8 @@
 2.3.28
 2021-04-29 1619664608
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15372371921250HFeV/161966460853af44e55c5.bin
+
+1619664250e27f232030a
+2.3.28
+2021-04-29 1619664250
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15372371921250HFeV/1619664250e27f232030a.bin

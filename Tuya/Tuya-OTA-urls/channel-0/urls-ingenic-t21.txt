@@ -27,3 +27,13 @@ linux_wifi_wired
 2.2.50
 2020-05-27 1590565802
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1539074879262GYXmu/1590565802dacde9f587b.bin
+
+1615778298cda202f8e72
+3.2.4
+2021-03-15 1615778298
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1511509043755MhIx1/1615778298cda202f8e72.bin
+
+16687401995c93219efc0
+5.1.8
+2022-11-18 1668740199
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1613805428625VHFP/16687401995c93219efc0.bin

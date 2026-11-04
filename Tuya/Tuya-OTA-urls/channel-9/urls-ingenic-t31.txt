@@ -7,3 +7,23 @@ W14_KD_Security_Camera_v1ggm9nnb7vgg2mr_26.29.2_501b3dce7547
 26.29.2
 2026-09-22 1790076532
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1626847673943ro7J/17900765327f7671b2f28.bin
+
+16169973817a77daace8e
+10.6.1
+2021-03-29 1616997381
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1591413313038sbN8/16169973817a77daace8e.bin
+
+163766574805c5739ef7f
+1.0.43
+2021-11-23 1637665748
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1543031096643TGWCa/163766574805c5739ef7f.bin
+
+164273614204bec77c721
+3.4.53
+2022-01-21 1642736142
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15372371921250HFeV/164273614204bec77c721.bin
+
+16518314425490124cb40
+12.2.5
+2022-05-06 1651831442
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1561642505485zpwwi/16518314425490124cb40.bin

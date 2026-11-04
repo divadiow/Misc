@@ -1,0 +1,4 @@
+demo_rplidar
+4.5.42
+2021-06-22 1624328023
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/16243280237f93c586b36.pack

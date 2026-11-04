@@ -87,3 +87,28 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 2.7.2
 2019-06-25 1561454915
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201906/1561454915-ppstrong-c4-tuya2teco-2.7.2.20190621-upgrade.bin
+
+1563785224-TuyaLinkCamA6Pro3518EV2001080P-1.3.0-5371
+1.3.0
+2019-07-22 1563785224
+https://images.tuyaeu.com/smart/firmware/upgrade/201907/1563785224-TuyaLinkCamA6Pro3518EV2001080P-1.3.0-5371.bin
+
+1584407354ff08ab14dde
+1.3.2
+2020-03-17 1584407354
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1565839075983OpfF2/1584407354ff08ab14dde.bin
+
+1654481102bdd30d75c1a
+2.5.35
+2022-06-06 1654481102
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1564726276545RivzT/1654481102bdd30d75c1a.bin
+
+1654503171f1c0fe747fe
+2.5.35
+2022-06-06 1654503171
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1564726276545RivzT/1654503171f1c0fe747fe.bin
+
+1655175374c8b53d7e123
+2.5.35
+2022-06-14 1655175374
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1564726276545RivzT/1655175374c8b53d7e123.bin

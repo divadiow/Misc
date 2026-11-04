@@ -32,3 +32,43 @@ GV_T31_38_AF_V1.0
 2.117.893
 2024-04-02 1712065728
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1519800722250B425i/1712065728d0f15722922.bin
+
+1608861274-tycam_sc053wr2_fw_image_OTA_1.1.179
+1.1.179
+2020-12-25 1608861274
+https://images.tuyaeu.com/smart/firmware/upgrade/202012/1608861274-tycam_sc053wr2_fw_image_OTA_1.1.179.bin
+
+1752049866-sc060wca_b2_ipc_ty_ota_UG_V1.9.228
+1.9.228
+2025-07-09 1752049866
+https://images.tuyaeu.com/smart/firmware/upgrade/20250709/1752049866-sc060wca_b2_ipc_ty_ota_UG_V1.9.228.bin
+
+1755227983-sf053wq2a_ipc_ty_1.4.161_ota
+1.4.161
+2025-08-15 1755227983
+https://images.tuyaeu.com/smart/firmware/upgrade/20250815/1755227983-sf053wq2a_ipc_ty_1.4.161_ota.bin
+
+1756988437-2025-09-04_18-03-30_sc162wcd3_ipc_ty_U13_8MB_UG_1.2.150
+1.2.150
+2025-09-04 1756988437
+https://images.tuyaeu.com/smart/firmware/upgrade/20250904/1756988437-2025-09-04_18-03-30_sc162wcd3_ipc_ty_U13_8MB_UG_1.2.150.bin
+
+16171609883b70f364920
+5.0.4
+2021-03-31 1617160988
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1527823792252iCmeI/16171609883b70f364920.bin
+
+159410492145bc0655762
+1.0.14
+2020-07-07 1594104921
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15090679206123rthj/159410492145bc0655762.bin
+
+171522325501ac0905d82
+3.2.7
+2024-05-09 1715223255
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1641808956591AhG0/171522325501ac0905d82.bin
+
+1629690619bfd4910e56c
+2048.1.42
+2021-08-23 1629690619
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1590739918309b3cj/1629690619bfd4910e56c.bin

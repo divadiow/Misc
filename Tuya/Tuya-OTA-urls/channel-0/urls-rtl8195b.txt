@@ -1,0 +1,4 @@
+1587708996-tycam_sc051wbr2_fw_image_OTA_0.2.37
+0.2.37
+2020-04-24 1587708996
+https://images.tuyaeu.com/smart/firmware/upgrade/202004/1587708996-tycam_sc051wbr2_fw_image_OTA_0.2.37.bin

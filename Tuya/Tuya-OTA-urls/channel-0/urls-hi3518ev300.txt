@@ -67,3 +67,13 @@ BRS_DC01_APP_6.3.9-1040
 6.3.9
 2021-02-03 1612340007
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1527823792252iCmeI/161234000702c6dd545ae.bin
+
+158996219011483d6da0f
+0.0.5
+2020-05-20 1589962190
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1570691400137bt9FZ/158996219011483d6da0f.bin
+
+1699861296e617e408384
+2.10.38
+2023-11-13 1699861296
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1568808812161OlPJW/1699861296e617e408384.bin

@@ -2177,3 +2177,8 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 1.4.2
 2026-09-22 1790064765
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay1607348090427rdBH/179006476503f60eb2e45.bin
+
+1600852102af13c9d2d8d
+28.00.29
+2020-09-23 1600852102
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1512807056914MYFQP/1600852102af13c9d2d8d.bin

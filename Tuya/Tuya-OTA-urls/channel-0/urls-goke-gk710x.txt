@@ -7,3 +7,8 @@ https://images.tuyaeu.com/smart/firmware/upgrade/ay1578126393849AQjKd/1593831747
 3.4.6
 2020-02-12 1581497441
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202002/1581497441-TUYA.gk7102.upgrade.v3.4.6.sdk4.5.12.ipc.20191230.ota
+
+1657875839191d3309f4e
+1.1.22
+2022-07-15 1657875839
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1519789929924bPhBU/1657875839191d3309f4e.bin
