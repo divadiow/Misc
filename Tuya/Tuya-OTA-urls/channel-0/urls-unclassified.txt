@@ -62,3 +62,8 @@ https://images.tuyaeu.com/smart/firmware/upgrade/201808/1535021799-OTA-upgrade-T
 10.6.91
 2022-03-03 1646299121
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1561642505485zpwwi/1646299121764108801c2.bin
+
+163551507565547dc22fd
+1.2.10
+2021-10-29 1635515075
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1591928940859k2z5/163551507565547dc22fd.tar.gz
