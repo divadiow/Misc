@@ -33,7 +33,7 @@ https://images.tuyaeu.com/smart/firmware/upgrade/202011/1605512428-si32_zg_uart_
 2021-04-10 1618019456
 https://images.tuyaeu.com/smart/firmware/upgrade/20210410/1618019456-oem_732_temp_hum_light_lcd_lo_OTA_1.0.4.bin
 
-1633762540-oem_si32_zs5_pir_sensor_xiaoyi_OTA_1.0.2.bin [zw6hxafz]
+1633762540-oem_si32_zs5_pir_sensor_xiaoyi_OTA_1.0.2.bin [zw6hxafz, h542kfah]
 1.0.2
 2021-10-09 1633762540
 https://images.tuyaeu.com/smart/firmware/upgrade/20211009/1633762540-oem_si32_zs5_pir_sensor_xiaoyi_OTA_1.0.2.bin
