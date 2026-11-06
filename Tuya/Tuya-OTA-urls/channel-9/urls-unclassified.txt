@@ -2182,3 +2182,38 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay160
 28.00.29
 2020-09-23 1600852102
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1512807056914MYFQP/1600852102af13c9d2d8d.bin
+
+16596928414cbf0a7c28c
+1.0.9
+2022-08-05 1659692841
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1513061730920i97zP/16596928414cbf0a7c28c.bin
+
+1668758301f3c32fc361c
+1.1.0
+2022-11-18 1668758301
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1577167957623L2rTa/1668758301f3c32fc361c.bin
+
+17310580908f5cad3b2e4
+1.7.0
+2024-11-08 1731058090
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay15904833783242Uq4/17310580908f5cad3b2e4.bin
+
+1744788742bc5ac062a3f
+1.4.5
+2025-04-16 1744788742
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1679988230528qYeh/1744788742bc5ac062a3f.bin
+
+1636416636a79c96994a8
+1.1.16
+2021-11-09 1636416636
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1588841801984SxVz/1636416636a79c96994a8.bin
+
+1681091338bd86e83605e
+3.0.60
+2023-04-10 1681091338
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1636967444744gBFQ/1681091338bd86e83605e.pack
+
+CF033-PLAF103_LS
+1.1.19
+2022-09-27 1664246482
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1577717726791liVBu/1664246482b0e263b1007.bin
