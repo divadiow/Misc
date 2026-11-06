@@ -1352,3 +1352,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20
 1.0.7
 2021-05-11 1620743965
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1541558493284HeY6j/1620743965c9197912cdd.bin
+
+esp_guanglan_plug
+1.0.2
+2018-01-22 1516603827
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201801/1516603827-esp_guanglan_plug_ug_1.0.2.bin
+
+oem_esp_Globe_2_plug_1_key
+1.0.1
+2019-09-06 1567741868
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201909/1567741868-oem_esp_Globe_2_plug_1_key_ug_TLS_1.0.1.bin
