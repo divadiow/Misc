@@ -102,3 +102,8 @@ POLLUX_xl2yyswh
 2.3
 2023-03-11 1678503943
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1575418591548RPQtJ/1678503943bbd9648d1a7.bin
+
+TUYA_BCI_BASE_TLSR825x_OTA
+2.3.5
+2024-10-14 1728902858
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20241014/1728902858-TUYA_BCI_BASE_TLSR825x_OTA_2.3.5.bin
