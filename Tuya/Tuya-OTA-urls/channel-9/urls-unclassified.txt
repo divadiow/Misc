@@ -2217,3 +2217,8 @@ CF033-PLAF103_LS
 1.1.19
 2022-09-27 1664246482
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1577717726791liVBu/1664246482b0e263b1007.bin
+
+157466400261c2ff7c9de
+1.1.2
+2019-11-25 1574664002
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/157466400261c2ff7c9de.bin
