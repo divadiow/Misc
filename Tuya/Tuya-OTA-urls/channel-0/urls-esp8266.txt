@@ -1362,3 +1362,8 @@ oem_esp_Globe_2_plug_1_key
 1.0.1
 2019-09-06 1567741868
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201909/1567741868-oem_esp_Globe_2_plug_1_key_ug_TLS_1.0.1.bin
+
+esp_kaite_4_plug
+1.0.9
+2018-05-12 1526119596
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/201805/1526119596-esp_kaite_4_plug_ug_1.0.9.bin
