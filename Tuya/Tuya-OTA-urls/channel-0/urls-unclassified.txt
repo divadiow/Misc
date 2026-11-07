@@ -67,3 +67,13 @@ https://images.tuyaeu.com/smart/firmware/upgrade/ay1561642505485zpwwi/1646299121
 1.2.10
 2021-10-29 1635515075
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1591928940859k2z5/163551507565547dc22fd.tar.gz
+
+16292717351ec484ef74c
+02.15.16
+2021-08-18 1629271735
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1592273325562o8TE/16292717351ec484ef74c.bin
+
+165416916968a0639be85
+02.06.26
+2022-06-02 1654169169
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1594362108342XZWK/165416916968a0639be85.bin
