@@ -337,3 +337,8 @@ LY_RGB_STRIP_24KEY_3KEY
 1.0.2
 2020-10-07 1602050733
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1596260597467YHRV/1602050733a25c98663fb.bin
+
+HYS_03_018_bk7231t_qi4hvlw3xndxepsq
+1.1.0
+2021-09-10 1631265063
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1488250737181CTA8y/1631265063892de57f951.bin
