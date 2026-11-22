@@ -1,0 +1,4 @@
+1579683344e4782dc2d09
+0.1.16
+2020-01-22 1579683344
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1559699802081NXK4J/1579683344e4782dc2d09.bin

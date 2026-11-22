@@ -482,3 +482,13 @@ oem_si32_zg_scene_switch4_seebest
 1.0.6
 2018-12-21 1545364305
 https://images.tuyaeu.com/smart/firmware/upgrade/201812/1545364305-oem_si32_zg_scene_switch4_seebest_QIO_1.0.6.bin
+
+oem_si32_zg_watering_bn_1
+1.0.5
+2020-06-06 1591461673
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202006/1591461673-oem_si32_zg_watering_bn_1_OTA_1.0.5.bin
+
+177210037852094d8e838
+0.2.2
+2026-02-26 1772100378
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay16022401959475Byk/177210037852094d8e838.ota

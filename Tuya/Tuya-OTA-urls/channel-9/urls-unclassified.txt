@@ -2222,3 +2222,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 1.1.2
 2019-11-25 1574664002
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1521275236617KA7xc/157466400261c2ff7c9de.bin
+
+1791958039271d4eb11e1
+1.0.6
+2026-10-14 1791958039
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15658461058274pV5k/1791958039271d4eb11e1.bin
+
+176578220826866d5a2ee
+1.4.2
+2025-12-15 1765782208
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1619086319874gLD4/176578220826866d5a2ee.bin

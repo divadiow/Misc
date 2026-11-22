@@ -3,3 +3,8 @@ Security_Camera_AK3918AV100_esjpyxkobrnvfhar_10.50.66_964b4df99b28
 10.50.66
 2024-10-22 1729569906
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1702284773958aAFJ/1729569906fe99af10676.tar
+
+176656338358c9185dfa3
+2.0.53
+2025-12-24 1766563383
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1681266831293CT5f/176656338358c9185dfa3.bin

@@ -317,3 +317,8 @@ dy_smart_meter_01_t1u
 1.0.3
 2026-06-05 1780646689
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1537847617560vAgbw/178064668968e53b852bc.bin
+
+ZJ0001_P3_BK7238_DREAM_STRIP
+0.0.38
+2026-08-08 1786176297
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1619086147496x4lS/17861762970233271914b.bin

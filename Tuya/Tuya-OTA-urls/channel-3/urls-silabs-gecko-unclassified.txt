@@ -17,3 +17,8 @@ zs3_115200
 1.0.6
 2020-04-07 1586266766
 https://images.tuyaeu.com/smart/firmware/upgrade/202004/1586266766-8711AM_COO_ota_1.0.6
+
+16704160827c7920fbc5b
+0.1.5
+2022-12-07 1670416082
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/ay1577096816804oP4lN/16704160827c7920fbc5b.ota

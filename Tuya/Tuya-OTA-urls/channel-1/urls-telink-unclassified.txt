@@ -22,3 +22,8 @@ Petoneer_NutriCare_Feeder_PF009_Telink_ocsy1a5e_1.3.76_6997e0242375
 1.3.76
 2025-11-06 1762418279
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1624437525536EzXP/1762418279185a5e544aa.bin
+
+17261473089b49bf43c03
+2.0
+2024-09-12 1726147308
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1591255153516bHHw/17261473089b49bf43c03.bin

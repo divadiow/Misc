@@ -87,3 +87,8 @@ linux_rtl8196e_zigbee_oem_gw_rtl8196e_prj
 1.2.8
 2020-01-13 1578884007
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/202001/1578884007-zigbee_oem_gw_rtl8196e_tar_1.2.8
+
+tuya_rtl8196e_gw
+5.28.7
+2025-09-11 1757559751
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20250911/1757559751-tuya_rtl8196e_gw_tar_UG_5.28.7.bin

@@ -92,3 +92,8 @@ zig_tl8258_vibration_SC7A20_ty
 1.0.1
 2022-08-25 1661408292
 https://images.tuyaeu.com/smart/firmware/upgrade/20220825/1661408292-zig_tl8258_vibration_SC7A20_ty_OTA_1.0.1.bin
+
+oem_light_tl8258_bulb
+1.2.9
+2024-10-12 1728700317
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20241012/1728700317-oem_light_tl8258_bulb_OTA_1.2.9.bin

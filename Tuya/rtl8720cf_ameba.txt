@@ -32,9 +32,11 @@ https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.5.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.6.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.9.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.11.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.16.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.23.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.30.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.31.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.32.zip
 https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.34.zip
+https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/embed/pruduct/rtl8720cf_ameba_3.8.39.zip
