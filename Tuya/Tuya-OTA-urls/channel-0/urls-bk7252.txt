@@ -12,3 +12,8 @@ cy_petfeeder_video
 1.3.5
 2024-07-03 1719990092
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542781904936WGL9o/1719990092c223fb2c681.bin
+
+cy_petfeeder_video
+1.1.3
+2024-03-15 1710472621
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542781904936WGL9o/1710472621b3132e8b6c2.bin

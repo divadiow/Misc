@@ -92,3 +92,13 @@ https://images.tuyaeu.com/smart/firmware/upgrade/ay1573024592793FaclU/1579049435
 1.7.6
 2022-08-24 1661303940
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1619086319874gLD4/166130394067144e58587.bin
+
+wxdl_tuya_test
+1.2.8
+2024-10-17 1729152287
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1534681176370JSCKe/1729152287dac7945c790.bin
+
+Oscal_PowerMax_6000_Portable_power_station_38dwmljaokq3yclf_6.1.03_ba4fe6153cd8
+6.1.03
+2024-11-23 1732353441
+https://images.tuyaeu.com/smart/firmware/upgrade/bay1689146006522B7ow/17323534414a505e4ccf3.bin

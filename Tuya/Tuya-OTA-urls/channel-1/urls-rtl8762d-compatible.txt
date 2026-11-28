@@ -1,0 +1,9 @@
+1634294017b04aa85439c.bin [aaohh9lb]
+4.1
+2021-10-15 1634294017
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16294379171616qRv/1634294017b04aa85439c.bin
+
+16702236718498606d814.bin [paqp1yz1]
+4.1.11
+2022-12-05 1670223671
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1639102822731S1Qa/16702236718498606d814.bin

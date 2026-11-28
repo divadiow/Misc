@@ -12,3 +12,18 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay159
 1.0.28
 2025-07-07 1751881581
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1501578980436KOuNc/17518815816b4fc8c95d2.bin
+
+1775701381a7f65888fd0
+1.2.0
+2026-04-09 1775701381
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1758521691028U2Nt/1775701381a7f65888fd0.bin
+
+1745370604291cfb75bfe
+0.3.2
+2025-04-23 1745370604
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1701221505029URIg/1745370604291cfb75bfe.bin
+
+179507071127f1864e8e7
+2.0.6
+2026-11-19 1795070711
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1753355940270mFgB/179507071127f1864e8e7.bin

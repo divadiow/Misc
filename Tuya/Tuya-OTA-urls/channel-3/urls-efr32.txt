@@ -492,3 +492,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20
 0.2.2
 2026-02-26 1772100378
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay16022401959475Byk/177210037852094d8e838.ota
+
+1770220071d38dafc2fca
+0.2.2
+2026-02-04 1770220071
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay16022401959475Byk/1770220071d38dafc2fca.ota
+
+zig_mg21_boiler_relay
+1.0.4
+2023-08-08 1691463919
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/20230808/1691463919-zig_mg21_boiler_relay_UG_1.0.4.bin

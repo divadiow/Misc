@@ -12,3 +12,13 @@ bvrobot-ota
 6.11.20
 2024-04-24 1713926163
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/171392616338da49a7c33.bin
+
+ROBOT_SL60C_Conga_Eternal
+2.6.14
+2023-08-10 1691646833
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay15452044176384TUwA/1691646833e5ae2d889e8.tar.gz
+
+bvrobot-ota
+6.10.23
+2023-06-07 1686123240
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1613996446812tbll/16861232407cf34f8b92d.bin

@@ -27,3 +27,8 @@ S170_All_in_one_Smart_Lock_h5zwhnwe_1.2_020b9f2baa77
 1.2
 2020-11-20 1605844532
 https://images.tuyaeu.com/smart/firmware/upgrade/ay15602459704817nQ2d/160584453209cca05c9b7.bin
+
+1678267780dea0759c773.bin [b2kaqstl]
+1.6
+2023-03-08 1678267780
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1604471687925inCm/1678267780dea0759c773.bin

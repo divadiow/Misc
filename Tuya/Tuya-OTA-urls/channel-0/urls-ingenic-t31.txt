@@ -72,3 +72,8 @@ https://images.tuyaeu.com/smart/firmware/upgrade/bay1641808956591AhG0/1715223255
 2048.1.42
 2021-08-23 1629690619
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1590739918309b3cj/1629690619bfd4910e56c.bin
+
+CAMERA_SOC_T31Z_sc2332_4.7.2_V
+1.1.20
+2021-06-03 1622702585
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1587538738680kLCD/162270258525e3b2ccb9d.bin

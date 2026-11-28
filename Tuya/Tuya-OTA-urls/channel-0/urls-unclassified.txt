@@ -82,3 +82,28 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ba
 1.5.4
 2026-06-13 1781341054
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1745074127364tYax/1781341054889744aa389.bin
+
+1725956089d8dc3188b5b
+7.3.320198
+2024-09-10 1725956089
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1722932169615FX54/1725956089d8dc3188b5b.bin
+
+ms220_sys_v2.3.52_app_v6.8.42_user_0314_1854
+6.8.42
+2025-03-19 1742391431
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1632378664606wO2l/17423914313b65000a758.tar.gz
+
+1789696026856234fac34
+2.2.43
+2026-09-18 1789696026
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/ay1534681176370JSCKe/1789696026856234fac34.bin
+
+1768274929bf7ecadb4b6
+2.3.5
+2026-01-13 1768274929
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1564712722778tdfas/1768274929bf7ecadb4b6.img
+
+1742474135a30331a3c66
+1.1.12
+2025-03-20 1742474135
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay16048871493199Sbw/1742474135a30331a3c66.bin

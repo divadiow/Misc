@@ -2,3 +2,8 @@ Four_Channel_WiFi_Lighting_Controller_AT32F4xx_sph0qlaellftbddg_1.1.7_a9adcc1920
 1.1.7
 2021-06-23 1624454088
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1576568820452V6SSv/16244540885bfee3bb5d1.bin
+
+ProWarm_Touch_Button_S_series_Underfloor_heating_abe2ogjiak94ix0j_2.2.6_4b1987b2a89d
+2.2.6
+2026-03-06 1772768267
+https://images.tuyaeu.com/smart/firmware/upgrade/bay16693729746086BeH/177276826740646614f51.bin

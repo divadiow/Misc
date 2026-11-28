@@ -1,0 +1,4 @@
+cleaner_driver_h371v40
+0.2.9
+2023-08-18 1692351624
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1534681176370JSCKe/1692351624ce3a0dc147c.bin

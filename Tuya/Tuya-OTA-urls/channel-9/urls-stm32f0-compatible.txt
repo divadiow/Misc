@@ -1,0 +1,10 @@
+Disinfection_Dryer_CF_C1_m6alvd1pic0o52lj_1.3.0_5e8e66aadece
+1.3.0
+2020-07-25 1595649713
+https://images.tuyaeu.com/smart/firmware/upgrade/ay15390744835205YZ9b/1595649713e6feae27398.bin
+
+smart_cloth_hanger_AFH_Y1_zxq5bvclr2r14t4p_1.3.0_f659439dd6ed
+1.3.0
+2020-07-24 1595578579
+https://images.tuyaeu.com/smart/firmware/upgrade/ay1550028012135ipmEm/1595578579a655bf05de3.bin
+

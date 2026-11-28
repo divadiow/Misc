@@ -653,11 +653,6 @@ Matsutake-Power_PVHUB_EMS_q40nircvnassmmju_1.1.18_8bef21ffb602
 2024-06-18 1718676526
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1693821697841OrN1/1718676526dbc7a08ae13.bin
 
-Mayborn_GroClock_Connect_Alarm_clock_pnauiuyatd821djd_1.1.6_6128eccc3fea
-1.1.6
-2021-08-16 1629104689
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1522637811891ZWAu6/1629104689e09054db4a3.bin
-
 MEDION_Robot_S40_MD10916_qonaq2uzo3wur5te_503.1.106_4c678b893b52
 503.1.106
 2022-08-02 1659404770
@@ -838,11 +833,6 @@ Oscal_PowerMax_2400_Pro_Portable_power_station_8fges9jxy2ovdwxn_1.0.01_73f6ffc87
 2025-08-07 1754536557
 https://images.tuyaeu.com/smart/firmware/upgrade/bay1687145896857m7pO/17545365572fa650c2401.img
 
-Oscal_PowerMax_6000_Portable_power_station_38dwmljaokq3yclf_6.1.03_ba4fe6153cd8
-6.1.03
-2024-11-23 1732353441
-https://images.tuyaeu.com/smart/firmware/upgrade/bay1689146006522B7ow/17323534414a505e4ccf3.bin
-
 Owon_PC341_Clamp_meter_t88mk4nfhu7ejp4k_1.1.6_a3c7491cc953
 1.1.6
 2026-03-27 1774595220
@@ -1017,11 +1007,6 @@ Proscenic_T21_Air_Fryer_ngdn90sk1yqmk9ww_1.0.2_2a086a8fd8d9
 1.0.2
 2019-12-10 1575971961
 https://images.tuyaeu.com/smart/firmware/upgrade/ay1533718828917HNmxD/1575971961dcb2acb9aab.bin
-
-ProWarm_Touch_Button_S_series_Underfloor_heating_abe2ogjiak94ix0j_2.2.6_4b1987b2a89d
-2.2.6
-2026-03-06 1772768267
-https://images.tuyaeu.com/smart/firmware/upgrade/bay16693729746086BeH/177276826740646614f51.bin
 
 R13_LCD_Smart_Wifi_Thermostat_wzatd269tbc3qwbe_1.1.0_2d2415d26c5c
 1.1.0
@@ -2113,16 +2098,6 @@ J050_Robot_Vacuum_bhbar2ml3p9rl8ua_1.6.00_a7d8ad2507b6
 2020-03-18 1584507857
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay1542254159262ZB6ee/15845078574d1bac0ef1d.bin
 
-Disinfection_Dryer_CF_C1_m6alvd1pic0o52lj_1.3.0_5e8e66aadece
-1.3.0
-2020-07-25 1595649713
-https://images.tuyaeu.com/smart/firmware/upgrade/ay15390744835205YZ9b/1595649713e6feae27398.bin
-
-smart_cloth_hanger_AFH_Y1_zxq5bvclr2r14t4p_1.3.0_f659439dd6ed
-1.3.0
-2020-07-24 1595578579
-https://images.tuyaeu.com/smart/firmware/upgrade/ay1550028012135ipmEm/1595578579a655bf05de3.bin
-
 DBS2300L_mseug7isizurvaon_22.00.04_cfff3691c1b9
 22.00.04
 2023-01-10 1673330628
@@ -2232,3 +2207,13 @@ https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/ay
 1.4.2
 2025-12-15 1765782208
 https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1619086319874gLD4/176578220826866d5a2ee.bin
+
+17580134247c50ec70799
+1.2.8
+2025-09-16 1758013424
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/upgrade/bay1701331043830t6UB/17580134247c50ec70799.bin
+
+17503320226c35de1c2dc
+0.0.2
+2025-06-19 1750332022
+https://s3-us-west-2.amazonaws.com/airtake-public-data/smart/firmware/acc/bay1672987115537J3X8/17503320226c35de1c2dc.bin
